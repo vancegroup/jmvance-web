@@ -1,0 +1,5 @@
+---
+title: Haptics for Large Space Virtual Environments to Assess Assembly Tasks
+layout: research
+---
+

@@ -1,0 +1,44 @@
+# This is the default format. 
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:categories/:year/:month/:day/:title 
+
+exclude: ["hooks"]
+#auto: true
+pygments: true
+
+title : Judy M. Vance
+shorttitle: jmvance
+baseurl: /~rpavlik/jmvance
+host: public.vrac.iastate.edu
+shared: /shared
+
+safe: true
+lsi: false
+pygments: true
+github-url: http://github.com/vancegroup
+
+navlinks:
+-
+    text: Public Docs
+    page: /docs/index.html
+    link: /docs/
+-
+    text: Public External Activity Feed
+    page: /news/external/stub.html
+    link: /news/external/
+-
+    text: Restricted Docs
+    page: /restricted/docs/index.html
+    link: /restricted/docs/
+-
+    text: Restricted Dev Activity Feed
+    page: /restricted/news/dev/stub.html
+    link: /restricted/news/dev/
+# -
+#    text: Judy M. Vance's Homepage
+#    link: http://www.vrac.iastate.edu/~jmvance/
+#-
+#    text: Home
+#    page: /index.html
+#    link: /
+	
