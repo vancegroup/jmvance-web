@@ -2,10 +2,77 @@
 title: Home
 layout: base
 ---
-# Home
+# Dr. Judy M. Vance
 
-site.url: {{ site.url }}
 
-page.url: {{ page.url }}
+{% capture bio %}
+Dr. Judy M. Vance is the Joseph C. and Elizabeth A. Anderlik Professor
+of Engineering at [Iowa State University][] and a Faculty Fellow of the
+[Virtual Reality Applications Center][]. Dr. Vance is a Fellow of
+the American Society of Mechanical Engineers (ASME) and past chair of
+the ASME Design Engineering Division. She is a former Associate Editor
+of the <i>ASME Journal of Mechanical Design</i> and an NSF CAREER award
+recipient. She served as department chair of Mechanical Engineering at
+Iowa State University from 2003 to 2006 and she spent two years at the
+National Science Foundation (NSF) as the Program Director for
+Engineering Design and Innovation. She is a past member of the NSF
+Engineering Directorate Advisory Committee and served as co-chair of the
+NSF Committee of Visitors for the Design and Manufacturing Innovation
+Division. As co-chair, she led an 18 person team in preparing an
+evaluation of the procedures of the NSF DMI Division. In 2010 she was
+honored with the ASME Design Automation Award and in 2012 she received
+an Honorary Doctorate of Engineering degree from Heriot-Watt University,
+Edinburgh, UK.
 
-site.baseurl: {{ site.baseurl }}
+**Research interests** include virtual reality applications in
+mechanical design, numerical methods that facilitate interactive design,
+and spatial mechanism design.
+
+[Iowa State University]: http://www.iastate.edu
+[Virtual Reality Applications Center]: http://www.vrac.iastate.edu
+{% endcapture %}
+
+<div class="media">
+    <div class="pull-left">
+        <img src="Vance07smaller.jpg" alt="Judy M. Vance" class="img-polaroid">
+    </div>
+    <div class="media-body">
+        {{ bio | markdownify }}
+    </div>
+</div>
+
+## Contact Information
+<div class="well"><address>
+Dr. Judy M. Vance<br>
+Iowa State University<br>
+Virtual Reality Applications Center<br>
+2274 Howe Hall, Room 1620<br>
+Ames, IA 50011</address></div>
+
+- Phone: 515-294-9474
+- Fax: 515-294-5530
+- Email: <a href="mailto:jmvance@iastate.edu">jmvance@iastate.edu</a>
+
+
+## Education
+- Iowa State University, Mechanical Engineering, Ph.D. 1992
+- Iowa State University, Mechanical Engineering, M.S. 1987
+- Iowa State University, Mechanical Engineering, B.S. 1980
+
+## Appointments
+- Joseph C. and Elizabeth A. Anderlik Professor of Engineering, 2010 – present
+- Professor, Department of Mechanical Engineering, Iowa State University, 2003-present
+- Program Director, Engineering Design and Innovation, National Science Foundation, 2006-08
+- Chair, Department of Mechanical Engineering, Iowa State University, 2003-06
+- Director of Graduate Education, Department of Mechanical Engineering, Iowa State University, 2002-03
+- Associate Professor, Department of Mechanical Engineering, Iowa State University, 1997-2003
+- Assistant Professor, Department of Mechanical Engineering, Iowa State University, 1992-97
+- Assistant Professor, Division of Engineering Fundamentals and Multidisciplinary Design, Iowa State University, 1987-92
+- Adjunct Instructor, Division of Engineering Fundamentals and Multidisciplinary Design, Iowa State University, 1984-87 
+
+
+## Industrial And Other Non-Academic Experience
+- Mechanical Engineer, John Deere Des Moines Works, Ankeny, IA, 1980-84
+- Summer Intern, John Deere Des Moines Works, Ankeny, IA, 1979-80	
+- Co-Op Student, Maytag, Newton, IA, 1978
+
