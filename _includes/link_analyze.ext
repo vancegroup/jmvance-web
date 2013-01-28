@@ -1,14 +1,1 @@
-{% if destination.link contains '/restricted/' %}
-	{% assign destrestricted = true %}
-{% else %}
-	{% assign destrestricted = false %}
-{% endif %}
-{% if destination.link contains 'http'%}
-	{% assign desturl = destination.link %}
-{% else %}
-	{% if destrestricted == page.restricted %}
-		{% capture desturl %}{{site.baseurl}}{{destination.link}}{% endcapture %}
-	{% else %}
-		{% capture desturl %}http{% if destrestricted %}s{% endif %}://{{site.host}}{{site.baseurl}}{{destination.link}}{% endcapture %}
-	{% endif %}
-{% endif %}
+{% capture desturl %}{{site.baseurl}}{{destination.link}}{% endcapture %}
