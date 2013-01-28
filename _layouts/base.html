@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
 	{% if page.url contains '/restricted/' %}
-	  {% assign page.resticted = true %}
+	  {% assign page.restricted = true %}
 	{% else %}
-	  {% assign page.resticted = false %}
+	  {% assign page.restricted = false %}
 	{% endif %}
 	{% capture shared %}{{site.baseurl}}{{site.shared}}{% endcapture %}
 	{% capture homepageurl %}http://{{site.host}}{{site.baseurl}}/index.html{% endcapture %}
@@ -19,13 +19,13 @@
     <meta name="author" content="">
 
     <!-- Le styles -->
-    <link href="{{shared}}/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{shared}}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
       }
     </style>
-    <link href="{{shared}}/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="{{shared}}/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -54,12 +54,24 @@
 				</div>
 			</div>
 		</div>
-		<div class="container">
+		<div class="container-fluid">
 			<div id="content">
 				{{ content }}
 			</div>
-		</div> <!-- /container -->
-
+		</div> <!-- /container-fluid -->
+		<footer>
+			<div class="row-fluid">
+				<div class="span4">
+					<p><a href="http://www.me.iastate.edu/">Mechanical Engineering</a></p>
+				</div>
+				<div class="span4">
+					<p><a href="http://www.vrac.iastate.edu/">Virtual Reality Applications Center</a></p>
+				</div>
+				<div class="span4">
+					<p><a href="http://www.iastate.edu/">Iowa State University</a></p>
+				</div>
+			</div><!-- /row-fluid -->
+		</footer>
 		<!-- Le javascript
 		================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->
