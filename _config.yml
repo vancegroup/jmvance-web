@@ -11,6 +11,8 @@ shorttitle: jmvance
 baseurl: /~jmvance
 shared: /share
 
+
+vrac-link: '<a href="http://www.vrac.iastate.edu/">Virtual Reality Applications Center</a>'
 safe: true
 lsi: false
 pygments: true
