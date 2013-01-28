@@ -3,3 +3,9 @@ title: Home
 layout: base
 ---
 # Home
+
+site.url: {{ site.url }}
+
+page.url: {{ page.url }}
+
+site.baseurl: {{ site.baseurl }}
