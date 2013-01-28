@@ -8,9 +8,8 @@ pygments: true
 
 title : Judy M. Vance
 shorttitle: jmvance
-baseurl: /~rpavlik/jmvance
-host: public.vrac.iastate.edu
-shared: /shared
+baseurl: /~jmvance
+shared: /share
 
 safe: true
 lsi: false
@@ -19,21 +18,45 @@ github-url: http://github.com/vancegroup
 
 navlinks:
 -
-    text: Public Docs
-    page: /docs/index.html
-    link: /docs/
+    text: Research
+    page: /RESEARCH/index.html
+    link: /RESEARCH/
 -
-    text: Public External Activity Feed
-    page: /news/external/stub.html
-    link: /news/external/
+    text: Publications
+    page: /publications/index.html
+    link: /htmls/publicat.htm
 -
-    text: Restricted Docs
-    page: /restricted/docs/index.html
-    link: /restricted/docs/
+    text: Presentations
+    page: /presentations/index.html
+    link: /htmls/prsntt.htm
 -
-    text: Restricted Dev Activity Feed
-    page: /restricted/news/dev/stub.html
-    link: /restricted/news/dev/
+    text: Teaching
+    page: /teaching/index.html
+    link: /htmls/teaching.htm
+-
+    text: Students
+    page: /students/index.html
+    link: /htmls/students.htm
+-
+    text: Resume
+    page: /resume/index.html
+    link: /htmls/resume.htm
+
+
+outlinks:
+-
+    acronym: ME
+    text: Mechanical Engineering
+    link: http://www.me.iastate.edu/
+-
+    acronym: VRAC
+    text: Virtual Reality Applications Center
+    link: http://www.vrac.iastate.edu/
+-
+    acronym: ISU
+    text: Iowa State University
+    link: http://www.iastate.edu/
+
 # -
 #    text: Judy M. Vance's Homepage
 #    link: http://www.vrac.iastate.edu/~jmvance/

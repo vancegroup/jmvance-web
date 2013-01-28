@@ -37,10 +37,25 @@
 	<body>
 		<div class="navbar navbar-fixed-top">
 			<div class="navbar-inner">
-				<div class="container">
-					<a class="brand" href="http://{{site.host}}{{site.baseurl}}">{{ site.title }}</a>
+				<div class="container-fluid">
+					<a class="brand" href="{{site.baseurl}}">{{ site.title }}</a>
 					<div class="nav-collapse collapse">
-						<ul class="nav">
+						<div class="pull-right">
+							<ul class="nav">
+							{% for destination in site.outlinks %}
+								<li><a href="{{destination.link}}">{{ destination.text }}</a></li>
+							{% endfor %}
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row-fluid">
+				<div class="span2">
+					<div class="well sidebar-nav">
+						<ul class="nav nav-list">
 						{% for destination in site.navlinks %}
 							{% include link_analyze.ext %}
 							{% if destination.page == page.url %}
@@ -52,26 +67,13 @@
 						</ul>
 					</div>
 				</div>
-			</div>
-		</div>
-		<div class="container-fluid">
-			<div id="content">
-				{{ content }}
-			</div>
+				<div class="span9">
+					<div id="content">
+						{{ content }}
+					</div>
+				</div>
+			</div> <!-- /row-fluid -->
 		</div> <!-- /container-fluid -->
-		<footer>
-			<div class="row-fluid">
-				<div class="span4">
-					<p><a href="http://www.me.iastate.edu/">Mechanical Engineering</a></p>
-				</div>
-				<div class="span4">
-					<p><a href="http://www.vrac.iastate.edu/">Virtual Reality Applications Center</a></p>
-				</div>
-				<div class="span4">
-					<p><a href="http://www.iastate.edu/">Iowa State University</a></p>
-				</div>
-			</div><!-- /row-fluid -->
-		</footer>
 		<!-- Le javascript
 		================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->
