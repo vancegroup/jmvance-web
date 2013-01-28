@@ -8,8 +8,7 @@
 	  {% assign page.restricted = false %}
 	{% endif %}
 	{% capture shared %}{{site.baseurl}}{{site.shared}}{% endcapture %}
-	{% capture homepageurl %}http://{{site.host}}{{site.baseurl}}/index.html{% endcapture %}
-	{% if page.url == homepageurl %}
+	{% if page.url == "/index.html" %}
 	<title>{{ site.title }}</title>
 	{% else %}
 	<title>{{ page.title }} - {{ site.title }}</title>
