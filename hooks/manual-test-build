@@ -2,6 +2,6 @@
 
 (
 	cd $(dirname $0) && cd ..
-	jekyll --base-url /vancegroup/jmvance-test
+	jekyll --base-url /vancegroup/jmvance-test --url http://www.vrac.iastate.edu
 	rsync -r -t -v --progress --delete -l -z _site/ keymaker.vrac.iastate.edu:/home/vr/apps/vancegroup/public_html/jmvance-test/
 )
