@@ -2,5 +2,5 @@
 
 (
 	cd $(dirname $0) && cd ..
-	jekyll --server --auto --url http://localhost:4000
+	jekyll --server --auto --url http://localhost:4000 --rdiscount _site_preview_live
 )
