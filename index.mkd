@@ -60,7 +60,7 @@ Ames, IA 50011</address>
 - Iowa State University, Mechanical Engineering, B.S. 1980
 
 ## Appointments
-- Joseph C. and Elizabeth A. Anderlik Professor of Engineering, 2010 – present
+- Joseph C. and Elizabeth A. Anderlik Professor of Engineering, 2010-present
 - Professor, Department of Mechanical Engineering, Iowa State University, 2003-present
 - Program Director, Engineering Design and Innovation, National Science Foundation, 2006-08
 - Chair, Department of Mechanical Engineering, Iowa State University, 2003-06
