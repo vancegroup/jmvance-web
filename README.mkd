@@ -59,6 +59,7 @@ produces cleaner links.
 - Port other top-level pages
 
 - Move all active, reachable content into this repository.
+- Search/replace all non-ASCII characters (word smart quotes/dashes, etc)
 - Script a simple conversion that strips old header and footer from
   previous content and adds YAML front matter for Jekyll processing and
   templating.
