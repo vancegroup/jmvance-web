@@ -42,12 +42,12 @@ and spatial mechanism design.
 </div>
 
 ## Contact Information
-<div class="well"><address>
+<address>
 Dr. Judy M. Vance<br>
 Iowa State University<br>
 Virtual Reality Applications Center<br>
 2274 Howe Hall, Room 1620<br>
-Ames, IA 50011</address></div>
+Ames, IA 50011</address>
 
 - Phone: 515-294-9474
 - Fax: 515-294-5530
