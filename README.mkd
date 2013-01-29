@@ -59,6 +59,9 @@ produces cleaner links.
 - Port other top-level pages
 
 - Move all active, reachable content into this repository.
+- Script a simple conversion that strips old header and footer from
+  previous content and adds YAML front matter for Jekyll processing and
+  templating.
 - Port other pages, if desired.
 - Set up redirects from old URLs to new, trailing-slash ones.
 
