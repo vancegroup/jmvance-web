@@ -1,4 +1,17 @@
 ---
 layout: base
 ---
+<h1>
+	{{ page.title }}
+	{% if page.subtitle %}
+		<small>{{ page.subtitle }}</small>
+	{% endif %}
+</h1>
+<hr>
+{% if page.image %}
+	<p><img src="{{ page.image }}" class="img-polaroid"></p>
+	<hr>
+{% endif %}
+
+
 {{ content }}
