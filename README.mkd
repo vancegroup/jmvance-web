@@ -25,12 +25,10 @@ The raw files are processed by Jekyll: any file that starts with a block
 like the following, known as "YAML Front Matter", will get transformed
 into the template.
 
-```
----
-title: Composition Help
-layout: base
----
-```
+    ---
+    title: Composition Help
+    layout: base
+    ---
 
 You can use HTML directly, if you like, but I'd recommend Markdown - use
 file extension `.mkd` - which lets you do embedded HTML anyway for
