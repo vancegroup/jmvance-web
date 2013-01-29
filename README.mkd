@@ -12,6 +12,8 @@ documentation applies.
 ## Quick links
 - [Bootstrap][]
 - [Liquid template syntax](https://github.com/shopify/liquid/wiki/liquid-for-designers)
+- [Jekyll template data for Liquid](https://github.com/mojombo/jekyll/wiki/Template-Data)
+- [Jekyll extensions to Liquid](https://github.com/mojombo/jekyll/wiki/Liquid-Extensions)
 
 [Jekyll]: http://jekyllrb.com/
 [Liquid]: https://github.com/shopify/liquid/
@@ -50,4 +52,23 @@ produces cleaner links.
 {% raw %}
 - `{{ site.vrac-link }}` expands to a link that says Virtual Reality Applications Center
 {% endraw %}
+
+
+## TODO
+- Finish adding links to `RESEARCH/index.mkd` and check which ones got dropped by bad HTML in the original
+- Install finished portions of this generated site over the old one.
+
+- Port other top-level pages
+
+- Move all active, reachable content into this repository.
+- Port other pages, if desired.
+- Set up redirects from old URLs to new, trailing-slash ones.
+
+- Hook up automatic generation and upload
+
+- Consider these plugins:
+    - oEmbed: <https://gist.github.com/1455726>
+    - <https://github.com/pablooliveira/bibjekyll> or <https://github.com/inukshuk/jekyll-scholar>
+    - <https://github.com/mrdanadams/jekyll-thumbnailer>
+    - Building custom bootstrap, etc. with <https://github.com/matb33/jekyll-buildpack>
 
