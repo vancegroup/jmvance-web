@@ -2,27 +2,34 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-	{% if page.url contains '/restricted/' %}
-	  {% assign page.restricted = true %}
-	{% else %}
-	  {% assign page.restricted = false %}
-	{% endif %}
+
 	{% capture shared %}{{site.baseurl}}{{site.shared}}{% endcapture %}
 	{% if page.url == "/index.html" %}
-	<title>{{ site.title }}</title>
+		{% assign homepage = true %}
 	{% else %}
-	<title>{{ page.title }} - {{ site.title }}</title>
-	{% endif %}	
+		{% assign homepage = false %}
+	{% endif %}
+
+	<title>{% unless homepage %}{{ page.title }} - {% endunless %}{{ site.title }}</title>
+
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{ page.description }}">
-    <meta name="author" content="{{ page.author }}">
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    {% if page.author %}<meta name="author" content="{{ page.author }}">{% endif %}
 
     <!-- Le styles -->
     <link href="{{shared}}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <style>
-      body {
-        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
-      }
+		body {
+			padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+		}
+		.footer {
+			text-align: center;
+			padding: 30px 0;
+			margin-top: 70px;
+			border-top: 1px solid #e5e5e5;
+			background-color: #f5f5f5;
+		}
     </style>
     <link href="{{shared}}/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 
@@ -37,7 +44,7 @@
 		<div class="navbar navbar-fixed-top">
 			<div class="navbar-inner">
 				<div class="container-fluid">
-					<a class="brand" href="{{site.baseurl}}">{{ site.title }}</a>
+					<a class="brand" href="{{site.baseurl}}/">{{ site.title }}</a>
 					<div class="nav-collapse collapse">
 						<div class="pull-right">
 							<ul class="nav">
@@ -53,14 +60,14 @@
 		<div class="container-fluid">
 			<div class="row-fluid">
 				<div class="span2">
-					<div class="well sidebar-nav">
+					<div class="well sidebar-nav affix">
 						<ul class="nav nav-list">
 						{% for destination in site.navlinks %}
 							{% include link_analyze.ext %}
 							{% if destination.page == page.url %}
-							<li class="active"><a href="#">{{ destination.text }}</a></li>
+								<li class="active"><a href="#">{{ destination.text }}</a></li>
 							{% else %}
-							<li><a href="{{desturl}}">{{ destination.text }}</a></li>
+								<li><a href="{{desturl}}">{{ destination.text }}</a></li>
 							{% endif %}
 						{% endfor %}
 						</ul>
@@ -73,23 +80,28 @@
 				</div>
 			</div> <!-- /row-fluid -->
 		</div> <!-- /container-fluid -->
-		<!-- Le javascript
-		================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
-		<!--
-		<script src="{{shared}}/js/jquery.js"></script>
-		<script src="{{shared}}/js/bootstrap-transition.js"></script>
-		<script src="{{shared}}/js/bootstrap-alert.js"></script>
-		<script src="{{shared}}/js/bootstrap-modal.js"></script>
-		<script src="{{shared}}/js/bootstrap-dropdown.js"></script>
-		<script src="{{shared}}/js/bootstrap-scrollspy.js"></script>
-		<script src="{{shared}}/js/bootstrap-tab.js"></script>
-		<script src="{{shared}}/js/bootstrap-tooltip.js"></script>
-		<script src="{{shared}}/js/bootstrap-popover.js"></script>
-		<script src="{{shared}}/js/bootstrap-button.js"></script>
-		<script src="{{shared}}/js/bootstrap-collapse.js"></script>
-		<script src="{{shared}}/js/bootstrap-carousel.js"></script>
-		<script src="{{shared}}/js/bootstrap-typeahead.js"></script>
-		-->
+		<footer class="footer">
+			<div class="container">
+				{% unless homepage %}
+				<p>
+					{% capture rawurl %}{{ site.url }}{{ site.baseurl }}{{page.url}}{% endcapture %}
+					{% capture url %}{{ rawurl | replace:'index.html','' }}{% endcapture %}
+					Current page:
+					<a href="{{ url }}">&lt;{{ url }}&gt;</a>
+				</p>
+				{% endunless %}
+
+				<p>
+					Homepage of Dr. Judy M. Vance, Iowa State University:
+					<a href="{{ site.url }}{{ site.baseurl }}/">&lt;{{ site.url }}{{ site.baseurl }}/&gt;</a>
+				</p>
+				<p>
+					Contact:
+					<a href="mailto:jmvance@iastate.edu">&lt;jmvance@iastate.edu&gt;</a>
+				</p>
+				<hr>
+				<p><small>Web site built with <a href="http://jekyllrb.com">Jekyll</a> and <a href="http://twitter.github.com/bootstrap/">Bootstrap</a>.</small></p>
+			</div>
+		</footer>
 	</body>
 </html>
