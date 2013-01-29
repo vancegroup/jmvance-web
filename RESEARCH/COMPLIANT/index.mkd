@@ -1,0 +1,76 @@
+---
+layout: research
+title: "Collaborative Research: Constraint-based Compliant Mechanism Design using Virtual Reality as a Design Interface"
+subtitle: "Iowa State University - Massachusetts Institute of Technology"
+image: image002.jpg
+---
+
+## Overview
+The purpose of this research is to establish an engineering framework
+for design of compliant mechanisms based on constraint-based compliant
+mechanism design theory and virtual reality. Compliant mechanisms, as
+opposed to rigid link mechanisms, achieve motion guidance via the
+compliance and deformation of the mechanism's members. The successful
+design of compliant mechanisms requires an understanding of solid
+mechanics (deformation, stress, strain, etc.) and mechanism kinematics
+(properties of motion). As a result, only a fairly narrow, experienced
+group of engineers are successful in designing these mechanisms. In
+this work, virtual reality will be used to provide a design interface
+that supports a more natural way to design and synthesize compliant
+mechanisms which will result in creative, efficient and thorough design
+of novel new mechanisms.
+ 
+Constraint-based compliant mechanism design theory is a powerful and
+rational design process where a desired motion path is first described,
+then decomposed into combinations of lines, arc, and rotations which can
+be achieved through combining a series of compliant mechanism components
+and sub-components. Finally optimization of the size-shape of the
+compliant elements within the design is performed to achieve the final
+mechanism. Compliant mechanisms are key components of
+micro-electro-mechanical-systems (MEMS). Successful design of compliant
+mechanisms is crucial to further development of MEMS and other miniature
+products. The traditional human-computer interfaces (HCI) of a monitor,
+keyboard and mouse are well suited for the design of conventional planar
+rigid-link mechanisms where rigid body motion is familiar to all
+designers. However, the deformation of flexible links in compliant
+mechanisms results in motion that is rarely intuitive and often
+three-dimensional in nature. Virtual reality, combined with
+constraint-based design methods, will provide a natural
+three-dimensional design environment where engineers can rapidly explore
+the design space to generate constraint-based design concepts
+(topology), evaluate the concepts and perform detailed design.
+ 
+Currently, significant experience is required to design suitable
+compliant mechanisms because of the non-intuitive motion of these types
+of mechanisms. The result is that most engineers resort to designing
+more traditional, rigid-body linkages to provide motion. This research
+will culminate in a design framework that will allow a broader group of
+engineers to design complex compliant mechanisms, giving them new
+options to draw upon when searching for design solutions to critical
+problems. This will result in novel mechanism solutions for
+manufacturing and product design which have fewer movable joints, are
+more robust, and are easily scaled to meet the needs of micro-products.
+
+
+## Media
+- Cylindroid constraint space [JPEG, 313KB](Cylindroid.jpg)
+- Hoop surface freedom space [JPEG, 281KB](Hoop_surface.jpg)
+- Simple compliant system [JPEG, 381KB](Design.jpg)
+- Compliant lumber support:
+    - VR design [JPEG, 44KB](Lumbar_VR.jpg)
+    - FEA analysis [JPEG, 275KB](Lumbar_FEA.jpg)
+    - Physical prototype [JPEG, 200KB](Lumbar_Physical.jpg)
+- **Video** Constraint definition [WMV, 2.8MB](constraint_interaction_low_bitrate.wmv) [WMV, 21MB](constraint_interaction_high_bitrate.wmv)
+
+## Personnel
+- Dr. Judy M. Vance, Professor and Chair, Iowa State University
+- Dr. Martin L. Culpepper, Associate Professor, Massachusetts Institute of Technology
+- Denis Dorozhkin - Graduate Research Assistant, Iowa State University
+- Utkarsh Seth - Graduate Research Assistant, Iowa State University
+- Jonathan Hopkins - Graduate Research Assistant, Massachusetts Institute of Technology
+
+## Funding
+This project is funded by the [National Science Foundation](http://www.nsf.gov) Grant # 0457041
+
+## Facilities
+{{ site.vrac-link }}
