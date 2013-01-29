@@ -2,8 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
 
-exclude: ["hooks"]
-#auto: true
+exclude: ["hooks", ".git", ".gitignore"]
 pygments: true
 
 title : Judy M. Vance
@@ -14,10 +13,10 @@ shared: /share
 url: http://public.vrac.iastate.edu
 
 vrac-link: '<a href="http://www.vrac.iastate.edu/">Virtual Reality Applications Center</a>'
+
 safe: true
-lsi: false
+lsi: true
 pygments: true
-github-url: http://github.com/vancegroup
 
 navlinks:
 -
@@ -60,11 +59,4 @@ outlinks:
     text: Iowa State University
     link: http://www.iastate.edu/
 
-# -
-#    text: Judy M. Vance's Homepage
-#    link: http://www.vrac.iastate.edu/~jmvance/
-#-
-#    text: Home
-#    page: /index.html
-#    link: /
-	
+
