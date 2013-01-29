@@ -1,0 +1,7 @@
+#!/bin/sh
+
+(
+	cd $(dirname $0) && cd ..
+	jekyll --kramdown
+	#rsync -r -t -v --progress --delete -l -z _site_preview/ keymaker.vrac.iastate.edu:/home/vr/apps/vancegroup/public_html/jmvance-test/
+)
