@@ -1,0 +1,53 @@
+---
+title: Composition Help
+layout: base
+---
+
+# Help
+This web site is generated using [Jekyll][], [Liquid][] templating, and
+the [Bootstrap][] basic HTML5 styles. The process is actually almost
+exactly like how [GitHub Pages][] are generated, so pretty much all that
+documentation applies.
+
+## Quick links
+- [Bootstrap][]
+- [Liquid template syntax](https://github.com/shopify/liquid/wiki/liquid-for-designers)
+
+[Jekyll]: http://jekyllrb.com/
+[Liquid]: https://github.com/shopify/liquid/
+[Bootstrap]: http://twitter.github.com/bootstrap/
+[GitHub Pages]: https://help.github.com/articles/using-jekyll-with-pages
+
+## How the web site is created
+The raw files are processed by Jekyll: any file that starts with a block
+like the following, known as "YAML Front Matter", will get transformed
+into the template.
+
+```
+---
+title: Composition Help
+layout: base
+---
+```
+
+You can use HTML directly, if you like, but I'd recommend Markdown - use
+file extension `.mkd` - which lets you do embedded HTML anyway for
+special functions (see the main `index.mkd` for an example). Also, it's
+good practice to create a new directory for each page and put just a
+single file `index.mkd` (plus any images, etc) in it, since this
+produces cleaner links.
+
+## Front matter elements
+- title: required
+- layout: required, is likely to be either `base` or `research` (for a research project page) right now.
+
+### `research`-layout only:
+
+- subtitle: optional
+- image: optional but recommended
+
+## Handy snippets to know
+{% raw %}
+- `{{ site.vrac-link }}` expands to a link that says Virtual Reality Applications Center
+{% endraw %}
+

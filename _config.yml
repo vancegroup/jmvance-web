@@ -11,6 +11,7 @@ baseurl: /~jmvance
 shared: /share
 
 url: http://public.vrac.iastate.edu
+productionurl: http://public.vrac.iastate.edu
 
 vrac-link: '<a href="http://www.vrac.iastate.edu/">Virtual Reality Applications Center</a>'
 
