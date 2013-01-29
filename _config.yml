@@ -6,7 +6,6 @@ exclude: ["hooks", ".git", ".gitignore"]
 pygments: true
 
 title : Judy M. Vance
-shorttitle: jmvance
 baseurl: /~jmvance
 shared: /share
 
