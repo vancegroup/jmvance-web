@@ -1,0 +1,143 @@
+<HTML>
+<HEAD>
+<TITLE>VR Environment for Interactive Shape Design</TITLE>
+</HEAD>
+
+
+<BODY BACKGROUND="../gif/bg_1.gif">
+<TABLE>
+<TR>
+	<TD WIDTH=275><CENTER><BR><BR><BR><BR><BR><A HREF="DSM.html" TARGET="main"><IMG SRC="images/DSM.gif" BORDER=0></A>
+		       <P><A HREF="DSA.html" TARGET="main"><IMG SRC="images/DSA.gif" BORDER=0></A>
+			   <P><A HREF="MFEMG.html" TARGET="main"><IMG SRC="images/MFEMG.gif" BORDER=0></A>
+			   <P><A HREF="2D.html" TARGET="main"><IMG SRC="images/comb.gif" BORDER=0></A></TD>
+				</CENTER>
+	<TD><BR><BR><BR><IMG SRC="images/TITLE.gif"></TD>
+</TR>
+</TABLE>
+
+<CENTER>
+<IMG SRC="images/collage2.gif"><p></center>
+
+
+<table border=0> <tr><td width=25%></td><td width=60%>
+<H1>Overview</H1>
+Design is an iterative process that often involves trade-offs between competing performance criteria. For example, designers strive to design vehicles that are both lightweight and strong. Design of large structural systems is accomplished through the aid of sophisticated optimization software. Currently, the interaction a designer has with the optimization process is limited to the initial stages of problem definition, where the designer specifies an objective function, design parameters, and constraints. As the design process progresses, design objectives and constraints are often modified based on the designer's experience, in order to achieve a viable solution.
+<P>
+The objective of this research is to develop a technique that allows a designer to play an active role in the design optimization process. This is accomplished by combining fast optimization methods, based on sensitivity analysis, with virtual reality techniques to provide an interactive method for design optimization. Fast optimization methods are needed to allow large design problems to be investigated in an interactive time frame. Virtual reality techniques provide an interactive environment for the designer to investigate multiple design changes. Keeping the designer active in the design process allows the designer to use all of his/her prior knowledge about the problem to be brought to bear to achieve a viable, optimal solution to the problem in a timely manner.
+<P>
+<H3>Approach</H3>
+Design sensitivity analysis is present in many commercial finite element software packages. In this research, stress sensitivities are used. These sensitivities represent the derivative of the stress with respective to the finite element mesh changes. They can be used to approximate stress changes as a result of shape changes to the finite element model when used in a Taylor series approximation.
+<P>
+In the area of geometric modeling, interactive shape manipulation can be performed on the surfaces of a geometric model using direct manipulation techniques. These techniques allow the user to push and pull on a 3D model to create a deformed shape. One technique embeds the geometric model in a NURBS volume. Then as the NURBS volume is deformed, the embedded model will be deformed correspondingly. The embedding technique does not restrict the definition of the embedded geometry, thus we are using this method to deform the finite element model in order to obtain the relationship of the finite element mesh changes and the control point changes.
+<P>
+This project combines the finite element model, stress sensitivity calculations, and free form deformation to allow the user to perform interactive shape changes and view the resultant stress changes in a virtual environment. The finite element model is embedded in a NURBS volume of control points. The user identifies the control points representing the areas that can be changed. The sensitivities with respect to those design variables (control points) are calculated. Then the user can grab the surface and change the shape. The sensitivities are used in a Taylor series to approximate the new stresses and these stresses are shown on the geometry in the virtual environment.
+<P>
+
+<HR>
+<H1>Virtual Reality Software and Peripherals</H1>
+
+<BR>
+<H3>Software</H3>
+<UL>
+	<LI>WorldToolKit from <A HREF="http://www.sense8.com/products/wtksgi.html" TARGET="_top">Sense8</A>
+	<LI>OpenGL
+</UL>
+<BR>
+<BR>
+<H3>Peripherals</H3>
+<CENTER>
+<A HREF="images/boom.gif"><IMG SRC="images/boom_small.gif" BORDER=0></A>
+<P>BOOM3C from <A HREF="http://www.fakespace.com/" TARGET="_top">Fakespace</A><P>
+<A HREF="images/glasses.jpg"><IMG SRC="images/glasses_small.gif" BORDER=0></A>
+<P>CrystalEyes Glasses from <A HREF="http://www.stereographics.com/" TARGET="_top">StereoGraphics</A><P>
+</CENTER>
+<UL>
+	<LI>Pinch Gloves from <A HREF="http://www.fakespace.com/" TARGET="_top">Fakespace</A>
+	<LI>CyberGlove from <!A HREF="http://www.clearfield.co.nz/vtech/" TARGET="_top">Virtual Technologies<!/A>
+</UL>
+<BR>
+<h3>Additional Media</h3>
+<ul><li><a href="../Movs/stress.mov">Quicktime movie</a> (2.5 MB)</ul>
+<HR>
+<H1>Personnel</H1>
+
+<H3>Professors</H3>
+<BR>
+<UL>
+	<LI> <A HREF="http://www.vrac.iastate.edu/~jmvance">Dr. Judy Vance</A>, Iowa State University<BR>
+		E-mail: <A HREF="mailto:jmvance@iastate.edu"><I>jmvance@iastate.edu</I></A>
+</UL>
+
+<BR>
+<H3>Graduate Students</H3>
+<BR>
+<UL>
+	<LI> <!A HREF="http://www.public.iastate.edu/~tyeh" TARGET="_top">Tsung-Pin Yeh<!/A>, Iowa State University<BR>
+</UL>
+
+<BR>
+<H3>Undergraduate Students</H3>
+<BR>
+<UL>
+	<LI> <!A HREF="http://www.public.iastate.edu/~tbrunia" TARGET="_top">Todd Brunia<!/A>, Iowa State University<BR>
+</UL>
+<HR>
+<H1>Publications</H1>
+
+T. P. Yeh & J. M. Vance, "Improved Algorithms to Facilitate Real-Time
+NURBS-Based Free Form Deformation," submitted to Computer Aided Design.<P>
+
+
+T. P. Yeh & J. M. Vance, <a href="../htmls/sept97.htm">"Applying Virtual Reality Techniques to
+Sensitivity-based Structural Shape Design,"</a> 1997 ASME Design Automation Conference Proceedings,
+September 14-17, 1997, Sacramento, CA.<P>
+
+
+T. P. Yeh & J. M. Vance, <a href="../htmls/may95.htm">"Combining MSC/NASTRAN, Sensitivity Methods, and
+Virtual Reality to Facilitate Interactive Design,"</a> accepted for publication in
+Finite Elements in Analysis and Design, also in 1995 MSC World Users'
+Conference Proceedings, Universal City, CA, May. 8-12, 1995. (This paper was
+selected as most representative of the conference theme, and as Model of the
+Month for MSC/WORLD, August 1995) (Also published in <i>Finite Elements in Analysis 
+and Design</i>, <a href="../htmls/1997.htm">1997</a>.<P>
+
+
+
+T. P. Yeh & J. M. Vance, <a href="../htmls/oct95b.htm">"Interactive Design of Structural Systems in a
+Virtual Environment,"</a> Proceedings of the 24th Mid-Western Mechanics Conference,
+ISU, October 1-4, vol. 8, pp. 185 - 187, 1995.<P>
+
+Yeh, T. P., Applying virtual reality techniques to engineering design optimization, Ph.D. Thesis, Iowa State University, 1997<p>
+
+<HR>
+<H1>Funding</H1>
+
+<P>
+Funding for Virtual Environment for Engineering Design Optimization is provided by the 
+<A HREF="http://www.nsf.gov" TARGET="_top">National Science Foundation</A> grant # DDM 930 9663: <a href="../RESEARCH/Optimization.html">A Virtual Environment for Engineering Design Optimization
+</a>
+<P>
+<BR>
+  
+General information can be found at this NSF web page:<br>
+<A HREF="http://www.eng.nsf.gov/dmii/dmii.htm" TARGET="_top">Design, Manufacture, and Industrial Innovation Program</A>
+<p>
+
+<hr>
+
+
+
+<p align="center"><big><big><font size="2"><a
+
+href="http://www.me.iastate.edu">Mechanical Engineering</a> | <a
+
+href="http://www.vrac.iastate.edu">VRAC</a> | <a href="http://www.iastate.edu">ISU</a> |
+
+<a href="http://public.vrac.iastate.edu/~jmvance/index.html">Home</a> | <a 
+
+href="mailto:jmvance@iastate.edu">E-mail</a> | <a
+
+href="javaScript:clickon=history.go(-1)">Previous</a> </font></big></big><p>
+</BODY>
+</HTML>

@@ -1,0 +1,235 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="Pub_07-virtual-reality_files/filelist.xml">
+<link rel=Edit-Time-Data href="http://public.vrac.iastate.edu/~jmvance/htmls/2007Htmls/Pub_07-virtual-reality_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Pub.06-ConcurrentOperations.htm</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Daniela Faas</o:Author>
+  <o:LastAuthor>Daniela Faas</o:LastAuthor>
+  <o:Revision>7</o:Revision>
+  <o:TotalTime>17</o:TotalTime>
+  <o:Created>2007-07-12T18:07:00Z</o:Created>
+  <o:LastSaved>2008-01-11T15:59:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>340</o:Words>
+  <o:Characters>1938</o:Characters>
+  <o:Company> </o:Company>
+  <o:Lines>16</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2274</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>125</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h2
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:.25in;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	mso-layout-grid-align:none;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-font-kerning:7.0pt;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:red;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="6146"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor="#F8F8F8" background="Pub_07-virtual-reality_files/image001.jpg"
+lang=EN-US link=blue vlink=red style='tab-interval:.5in' alink="#ffffff"
+bgproperties=fixed>
+<!--[if gte mso 9]><xml>
+ <v:background id="_x0000_s1025" o:bwmode="white" fillcolor="#f8f8f8">
+  <v:fill src="Pub_07-virtual-reality_files/image001.jpg" o:title="Newsprint"
+   type="tile"/>
+ </v:background></xml><![endif]-->
+
+<div class=Section1>
+
+<h2>Desktop haptic virtual assembly using physically-based modeling</h2>
+
+<p class=MsoNormal><span style='color:black'>Brad M. Howard</span><br>
+Graduate Student<br>
+Department of Mechanical Engineering<br>
+Virtual Reality Applications Center<br>
+Iowa State University<br>
+Ames, Iowa 50011 </p>
+
+<p><a href="http://www.vrac.iastate.edu/~jmvance">Judy M. Vance</a><br>
+Professor and Chair of Mechanical Engineering<br>
+Department of Mechanical Engineering<br>
+Virtual Reality Applications Center<br>
+Iowa State University<br>
+Ames, Iowa 50011-2160</p>
+
+<p class=MsoBodyTextIndent style='text-indent:0in'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'>Howard,
+Brad M., Vance, Judy M., &quot;Desktop haptic virtual assembly using
+physically-based modeling,&quot; Virtual Reality, vol. 11, no. 4, October 2007,
+pp. 207-215.</p>
+
+<p class=MsoBodyTextIndent align=left style='text-align:left;text-indent:0in'><span
+style='font-size:12.0pt'><br>
+<strong>Abstract</strong> <br>
+This research investigates the feasibility of using a desktop haptic virtual
+environment as a design tool for evaluating assembly operations. Bringing
+virtual reality characteristics to the desktop, such as stereo vision, further
+promotes the use of this technology into the every day engineering process. In
+creating such a system, the affordability and availability of hardware/software
+tools is taken into consideration. The resulting application combines several
+software packages including VR Juggler, open dynamics engine (ODE)/open physics
+abstraction layer (OPAL), <span class=SpellE>OpenHaptics</span>, and OpenGL/GLM/GLUT
+libraries to explore the benefits and limitations of combining <span
+class=SpellE>haptics</span> with physically based <span class=SpellE>modelling</span>.
+The equipment used to display stereo graphics includes a <span class=SpellE>Stereographics</span>
+<span class=GramE>emitter,</span> Crystal Eyes shutter glasses, and a high
+refresh rate CRT monitor. One or two-handed force feedback is obtained from
+various PHANTOM haptic devices from <span class=SpellE>SensAble</span>
+Technologies Inc. The application&#8217;s ability to handle complex part
+interactions is tested using two different computer systems, which approximate
+the higher and lower end of a typical engineer&#8217;s workstation. Different
+test scenarios are analyzed and results presented. <br style='mso-special-character:
+line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]><o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='text-indent:.5in'><span style='font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoBodyTextIndent style='text-indent:0in'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:12.0pt'>Keywords:</span></b><span
+style='font-size:12.0pt'> Haptics I/O, Computer-aided design, physically based
+modeling, virtual reality.<o:p></o:p></span></p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p align=center style='text-align:center'><span style='font-size:10.0pt'><a
+href="http://www.me.iastate.edu/">Mechanical Engineering</a> | <a
+href="http://www.vrac.iastate.edu/">VRAC</a> | <a href="http://www.iastate.edu/">ISU</a>
+| <a href="http://www.vrac.iastate.edu/~jmvance/index.html">Home</a> | <a
+href="mailto:jmvance@iastate.edu">E-mail</a> | <a
+href="javascript:clickon=history.go(-1)">Previous</a> </span></p>
+
+</div>
+
+</body>
+
+</html>

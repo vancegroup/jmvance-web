@@ -1,0 +1,222 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>VRNETS: SPATIAL MECHANISM DESIGN IN VIRTUAL REALITY WITH NETWORKING</TITLE>
+</HEAD>
+<BODY background="../gif/bg2.gif">
+
+<BODY>
+
+<B><FONT SIZE=4><P>VRNETS: SPATIAL MECHANISM DESIGN IN VIRTUAL REALITY WITH NETWORKING</P>
+</B></FONT><P ALIGN="JUSTIFY">&nbsp;</P>
+
+
+<P ALIGN="CENTER">
+	<img src = "DIAG/images/collaboration.jpg" border = 0>
+
+<P ALIGN="CENTER">Collaboration in a Virtual Environment </P></A>
+
+<B><P ALIGN="JUSTIFY">OVERVIEW</P>
+</B><P ALIGN="JUSTIFY">VRNETS was developed as a software package for designing 4C 
+spatial mechanisms in a virtual environment with networking. The software was developed
+at <A HREF = "http://www.iastate.edu">Iowa State University</A> by John Kihonge, a 
+graduate research assistant, working with <A HREF = "http://www.vrac.iastate.edu/~jmvance">Dr. Judy Vance</A>. The project was 
+funded by the <A HREF = "http://www.nsf.gov">National Science Foundation</A>.
+
+<P>
+
+Spatial 4C mechanisms 
+are composed of four links and four cylindrical joints (CCCC) and provide motion 
+in a three-dimensional (3D) space. A spatial mechanism can be designed to move a 
+rigid body through a finite sequence of prescribed locations in space. Four 
+positions and orientations are prescribed and kinematics synthesis is performed 
+to obtain a set of solution for the size and orientation of possible links of the 
+mechanisms.</P>
+
+<P ALIGN="JUSTIFY">VRNETS uses computation routines from SPADES, a monitor-based 
+spatial mechanism software developed by 
+<A HREF = "http://www.fit.edu/AcadRes/engsci/mechanic/larochel.html">Dr. Pierre 
+Larochelle</A> at <A HREF = "http://www.fit.edu">Florida Institute of Technology </A>. 
+VRNETS was developed using 
+object-oriented C++ programming on <A HREF = "http://www.sgi.com">SGI IRIX</A> (UNIX-based) platform. The virtual environment and networking is developed using 
+the <A HREF = "http://www.sense8.com">WorldToolKit (WTK), WTK Immersive 
+Display Option (WTKIDO) and World2World</A> software. VRNETS was designed for 
+display in Iowa State University's <A HREF = "http://www.vrac.iastate.edu/about/selab/index.html">
+C2 facility</A> (a CAVE-based virtual environment). 
+</P>
+
+<P ALIGN="JUSTIFY">At Iowa State University, prior virtual reality design 
+environemnt for spatial mechanism design has focussed on spherical mechanisms. 
+Scott Osborn, a graduate student working with Dr. Judy Vance, developed 
+<A HREF = "../SPHERE/Sphere1.html">SphereVR</A> 
+as a virtual environment for the design of spherical mechanisms. Next, Juliet 
+Kraal, another graduate student assistant at Iowa State University, developed 
+<A HREF = "../SPHERE/VEMECS.htm"> VEMECS (Virtual 
+Environment MEChanism Synthesis) </A>. Todd Furlong, another graduate assistant 
+at Iowa State University, developed 
+<A HREF = "../ISIS/isis.html">Isis (Interactive 
+Synthesis of Spherical Mechanisms) </A>. 
+
+
+</P>
+
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><P ALIGN="JUSTIFY">INTERACTION and MENUS</P>
+</B></I><P ALIGN="JUSTIFY">Interaction is performed using 
+<A HREF = "http://www.fakespace.com">Fakespace</A> PINCH Glove. 
+The PINCH Glove has a conductive material placed on the finger tips, thumb and 
+palm of the glove to register contact between a user's fingers, palm and thumb. 
+PINCH Gloves are more natural than a 3D mouse and they can be used for a wide 
+range of gestures. To represent a user's hand in the virtual environment, a 
+digital hand model is loaded and the virtual hand is animated by rearranging the 
+joints of the model to preprogrammed configurations.Menus are used to provide 
+more options for interaction with the VR environment.  The menus are 3D objects 
+consisting of a menu bar and text items. The main menu can be opened at any time 
+during the design process. A menu bar can be repositioned in space, allowing the 
+user to move the menu to a location in the virtual environment that is convenient.</P>
+
+
+<CENTER>
+<table  border=4 cellpadding=0  >
+<tr><h6> <th>  <br><br><i><CENTER>
+	
+	<CENTER><TABLE BORDER=3  CELLSPACING=0 CELLPADDING=1>
+	<TR><TD><IMG SRC="DIAG/images/pinchglove.jpg" align=middle HEIGHT=300
+	WIDTH=300></TD></TR></TABLE></CENTER>
+
+ 	<th><br><br> 
+	<CENTER><TABLE BORDER=3  CELLSPACING=0 CELLPADDING=1>
+	<TR><TD><IMG SRC="DIAG/images/menu6.jpg" align=middle HEIGHT=300
+	WIDTH=300></TD></TR></TABLE></CENTER>
+	<br>
+
+
+</blink>
+<tr>
+
+        <th>Fakespace PINCH Glove 
+        <th>VRNETS Menu
+
+
+</table>
+</th></tr></table></CENTER></h6>
+
+
+<P>&nbsp;</P>
+<B>POSITION SYNTHESIS AND NETWORKING</B></P>
+</I>
+</b></b>
+<P ALIGN="JUSTIFY">After four positions are specified, the user synthesizes 
+all possible mechanisms for the four positions specified and displays the results 
+in the form desired. The results are presented as either a type map or congruences. 
+A type map is a 2D color-coded plot of the types of the mechanism representing the 
+solutions for the problem specified. Spatial mechanisms are classified according to 
+the mechanism type of their corresponding spherical image. The spherical image is a 
+spherical four-bar mechanism with link lengths equal to the angular twist of the 
+links of the spatial 4C mechanism. Moving and/or fixed congruences can be drawn. 
+The moving congruences represent the driving dyad choices and the fixed congruencies 
+represent the driven dyad choices. The moving and fixed congruences are drawn in 
+yellow and red colors, respectively</P>
+
+<P ALIGN="JUSTIFY">A mechanism can been chosen from the type map or from the 
+congruences and animated to verify if it completes the task required. The user can 
+observe the motion of the mechanism to see whether the mechanism collides with 
+objects in the virtual space and whether it goes through the positions in the 
+required order. After getting a desirable mechanism, an output file of the 
+mechanism generated can be saved by selecting "Save Mechanism" option from 
+the File menu.</P>
+
+<CENTER>
+<!--<table  border=4 cellpadding=0  fontsize="1">-->
+<tr> <th>  <br><br></font><CENTER>
+	
+	<CENTER><TABLE BORDER=3  CELLSPACING=0 CELLPADDING=1>
+	<TR><TD><IMG SRC="DIAG/images/typemap.jpg" align=middle HEIGHT=300
+	WIDTH=300></TD></TR></TABLE></CENTER>
+
+ 	<th><br><br> 
+	<CENTER><TABLE BORDER=3  CELLSPACING=0 CELLPADDING=1>
+	<TR><TD><IMG SRC="DIAG/images/congos.jpg" align=middle HEIGHT=300
+	WIDTH=300></TD></TR></TABLE></CENTER>
+	<br>
+
+
+</blink>
+<tr>
+</font>
+</font>
+</I>
+</b>
+<b>Type Map and Color Key 
+Fixed and Moving Congruences</b>
+
+
+</table>
+</th></tr></table></CENTER>
+</font></font>
+
+
+<P ALIGN="JUSTIFY">VRNETS sends position translations and rotations, and mechanism 
+link lengths, translations and rotations over the network to other users. Only one
+ of the users in the VR network is allowed to input the initial position information 
+and to design a mechanism. The position information will be sent out to the 
+simulation server and the other users will get the update for the position and the 
+designed mechanism. The update for the position and mechanism data is done as soon 
+as a change is made and the other users see the changes as they happen. However, the 
+networking system speed will determine how fast the changes are received by the 
+other users. After the mechanism has been designed, any of the users can animate the 
+mechanism using the PINCH Glove and the menu interactions. The animation data is 
+sent to all the users and they will see the mechanism animated in their VR 
+environment. </P>
+
+<br>
+
+</CENTER><B><P>PUBLICATIONS</P>
+</B></I>
+<P><ul>Kihonge, John N.,  Larochelle, Pierre M., and  Vance, Judy M.,"<A HREF = "../htmls/sept01b.htm"> 
+Spatial Mechanism Design in Virtual Reality with 
+Networking </A>," ASME Journal of Mechanical Design, Vol.
+    124, No. 3, September, 2002, pp. 435-440.</p>
+<P>Kihonge, John N.,  Larochelle, Pierre M., and  Vance, Judy M.,"<A HREF = "../htmls/sept01b.htm"> 
+Spatial Mechanism Design in Virtual Reality with Networking </A>," 
+ASME 2001 Design Engineering Technical Conferences, September 9-12, Pittsburgh, Pennsylvania.</P>
+
+<P>Kihonge, John N., <A HREF = "Defense/index.html"> Spatial Mechanism Design in Virtual Reality with 
+Networking </A>, Master's Thesis Defense, July 13, 2000.</ul></P>
+
+<br>
+
+<P><b>PERSONNEL</P></B></I>
+<UL>
+     <A HREF = "http://www.vrac.iastate.edu/~jmvance">Dr. Judy M. Vance</A>, 
+	Professor, Iowa State University
+     <P><A HREF = "http://www.fit.edu/AcadRes/engsci/mechanic/larochel.html">
+	Dr. Pierre Larochelle</A>, Professor, Florida Institute of Technology
+     <P>John N. Kihonge, 
+	Graduate Research Assistant, Iowa State University
+</UL>
+<P>
+
+
+<P>&nbsp;</P>
+<B><P>FUNDING</P></B>
+<ul><p>This project was funded by the <a href="http://www.nsf.gov/">National 
+Science Foundation</a> Grant # DMI-9872604. <a href="../RESEARCH/spatial_mechanism_design.html">Spatial Mechanism Design in a Virtual Environment</a></p></ul>
+
+
+
+<P>&nbsp;</P>
+<B><P>FACILITIES</B>
+<ul><A HREF = "http://www.vrac.iastate.edu">Virtual Reality Applications Center</A></ul>
+
+<P>
+<hr width="100%">
+
+<p align="center"><big><big><font size="2"><a href="http://www.me.iastate.edu">Mechanical Engineering</a> | <a href="http://www.vrac.iastate.edu">VRAC</a> | <a href="http://www.iastate.edu">ISU</a> |
+<a href="http://public.vrac.iastate.edu/~jmvance/index.html">Home</a> | <a 
+href="mailto:jmvance@iastate.edu">E-mail</a> | <a
+href="javaScript:clickon=history.go(-1)">Previous</a>
+</font></big></big><p></td></tr>
+</BODY>
+</HTML>
