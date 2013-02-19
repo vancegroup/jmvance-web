@@ -13,10 +13,10 @@ documentation applies.
 Generated {{ site.time | date_to_xmlschema }}
 
 {% if site.commitid %}
-### [{{ site.commitlinktext }}](https://github.com/vancegroup/jmvance-web/commit/{{site.commitid}})
-<code><pre>
-{{ site.commitdesc }}
-</pre></code>
+### Most recent commit in generated site: [{{ site.commitlinktext }}](https://github.com/vancegroup/jmvance-web/commit/{{site.commitid}})
+
+    {{ site.commitdesc }}
+
 {% endif %}
 
 ## Quick links
