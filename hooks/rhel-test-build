@@ -1,0 +1,8 @@
+#!/bin/sh
+
+PATH=/home/vr/apps/vancegroup/linux/gems-rhel6/bin:$PATH
+
+(
+	cd $(dirname $0) && cd ..
+	jekyll --base-url /vancegroup/jmvance-test --kramdown --url http://www.vrac.iastate.edu /home/vr/apps/vancegroup/public_html/jmvance-test/
+)
