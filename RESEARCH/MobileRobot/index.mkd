@@ -1,5 +1,74 @@
----
-title: Haptics for Large Space Virtual Environments to Assess Assembly Tasks
 layout: research
+title: "Haptics for Large Space Virtual Environments to Assess Assembly Tasks"
+subtitle: "Iowa State University"
+image: 
 ---
 
+## Overview
+The objective of this research is to assess the performance of users in a large space virtual
+environment equipped with haptic interaction. To achieve this objective, a new method of using a
+haptic device in a large space virtual environment will be developed. The motivating application is the
+desire to simulate an assembly workspace. The sense of touch is critical to our understanding of how
+parts are assembled. The long term goal is to be able to prototype assembly methods and validate
+preliminary assembly wage rate standards in an immersive environment. This capability has the
+potential to significantly improve products and reduce costs by providing a simulation where
+manufacturing engineers and assembly workers could better plan assembly operations before building physical prototypes.
+
+Our approach to providing haptic interaction in a large space virtual environment is to combine a sixdegree-
+of-freedom haptic device with a mobile powered platform. Large space virtual environments
+can consist of arrangements of large screen projection systems that support position tracking and stereo
+viewing or rooms that have large area tracking combined with head mounted displays. Both types of
+facilities are available at Iowa State University: a 3m x 4m x 3m stereo projection environment and a
+13m x 20m room with full position tracking capabilities. A recently purchased six degree-of-freedom
+haptic device can provide forces within a work area approximately the size of a person’s reach envelope.
+Placing the haptic device on a mobile platform will allow us to use this haptic device in the projection
+screen environment as well as the large area tracked room. The mobile platform will be position tracked
+so that we can control the relative movement of the haptic device with respect to the user. The intent is
+that the user would not actively move the platform around the space, but that the mobile platform
+would be intelligent enough to follow the user as he/she moves around in the space. Our test
+application will be to build an assembly workspace equipped with benches, skids, bins, and cranes that
+fits into a 3m x 4m x 3m workspace. Study participants will be asked to perform an assembly operation
+consisting of selecting parts, fixturing parts, assembling parts and moving them to the assembly line.
+Ergonomic and timing studies will be performed to assess the effectiveness of the immersive
+experience. These studies will be performed in the projection screen environment and in the position
+tracked room.
+ 
+The successful completion of this research has great potential to improve product design. With the
+expansion of force feedback to encompass the full area of an assembly workstation, virtual reality
+technology can be used by manufacturing engineers to prototype how humans interact with products
+during part assembly, long before the first part reaches the assembly station. Using CAD models and
+haptic devices in a large scale virtual environment, product design teams can explore the
+human/product/workstation interaction that affects worker ergonomics, fixture and tooling design.
+Other product designers can explore human/product interaction as they design safety measures and
+develop maintenance methods. In-depth evaluations using CAD models early in the design process can
+save re-work and re-design which add unnecessary costs to the final product.
+
+The integration of projection systems, computer graphics, tracking systems, haptics and robotics
+requires a multidisciplinary design approach. Knowledge of computer science, electrical engineering,
+software engineering, and mechanical engineering is essential to the success of this research. As a part
+of this award, the PIs will engage students from these disciplines in the research. As a result, these
+students will experience a meaningful multidisciplinary design project and leave with an understanding
+and appreciation for the knowledge that can be contributed from people who come from different
+disciplines.
+
+
+## Media
+- Cylindroid constraint space [JPEG, 313KB](Cylindroid.jpg)
+- Hoop surface freedom space [JPEG, 281KB](Hoop_surface.jpg)
+- Simple compliant system [JPEG, 381KB](Design.jpg)
+- Compliant lumber support:
+    - VR design [JPEG, 44KB](Lumbar_VR.jpg)
+    - FEA analysis [JPEG, 275KB](Lumbar_FEA.jpg)
+    - Physical prototype [JPEG, 200KB](Lumbar_Physical.jpg)
+- **Video** {Combining Haptics with an Omnidirectional Mobile Robot} (http://www.youtube.com/watch?v=_AaXVlWPYfA&list=UUUo4aXuVOK7Ong7q3cBffTQ&index=1)
+
+## Personnel
+- Dr. Judy M. Vance, Professor and Chair, Iowa State University
+- Dr. Greg R. Luecke, Associate Professor, Iowa State University
+- Ryan A. Pavlik - Graduate Research Assistant, Iowa State University
+
+## Funding
+This project is funded by the [National Science Foundation](http://www.nsf.gov) Grant # CMMI-1061458
+## Facilities
+{{ site.vrac-link }}
+lue box...
