@@ -59,11 +59,13 @@ disciplines.
 - **Video** [Combining Haptics with an Omnidirectional Mobile Robot](http://www.youtube.com/watch?v=_AaXVlWPYfA&list=UUUo4aXuVOK7Ong7q3cBffTQ&index=1)
 
 ## Personnel
-- Dr. Judy M. Vance, Professor and Chair, Iowa State University
-- Dr. Greg R. Luecke, Associate Professor, Iowa State University
 - Ryan A. Pavlik - Graduate Research Assistant, Iowa State University
+- [Dr. Judy M. Vance](http://public.vrac.iastate.edu/~jmvance/), Joseph C. and Elizabth A. Anderlik Professor of Engineering, Iowa State University
+- [Dr. Greg R. Luecke](http://www.me.iastate.edu/directory/faculty/greg-r-luecke/), Associate Professor, Iowa State University
+
 
 ## Funding
 This project is funded by the [National Science Foundation](http://www.nsf.gov) Grant # CMMI-1061458
+
 ## Facilities
-{{ site.vrac-link }}
+[Virtual Reality Applications Center](http://www.vrac.iastate.edu/)
