@@ -1,8 +1,13 @@
 ---
+
 layout: research
+
 title: "Haptics for Large Space Virtual Environments to Assess Assembly Tasks"
+
 subtitle: "Iowa State University"
+
 image: Haption_on_robot_with_factory_scene.jpg
+
 ---
 
 ## Overview
@@ -60,7 +65,7 @@ disciplines.
 
 ## Personnel
 - [Ryan A. Pavlik](http://academic.cleardefinition.com/) - Graduate Research Assistant, Iowa State University
-- [Dr. Judy M. Vance](http://www.me.iastate.edu/directory/faculty/judy-vance/), Joseph C. and Elizabth A. Anderlik Professor of Engineering, Iowa State University
+- [Dr. Judy M. Vance](http://www.me.iastate.edu/directory/faculty/judy-vance/), Joseph C. and Elizabeth A. Anderlik Professor of Engineering, Iowa State University
 - [Dr. Greg R. Luecke](http://www.me.iastate.edu/directory/faculty/greg-r-luecke/), Associate Professor, Iowa State University
 
 
