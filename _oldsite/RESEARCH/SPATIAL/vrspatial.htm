@@ -1,0 +1,189 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>VRSpatial: A Program for Designing Spatial 4C Mechanisms in Virtual
+Reality</title>
+</head>
+
+<body background="bg2.gif">
+
+<center>
+<h1>VRSpatial: Designing Spatial 4C Mechanisms&nbsp;<br>
+using Virtual Reality</h1>
+<hr width="90%">
+</center>
+<p align="center"><img border="0" src="vrspatial_main.jpg" width="423" height="324"></p>
+<h3 align="left"><br>
+<b>Overview</b></h3>
+<blockquote>
+<p align="left">This research explores using virtual reality (VR) as a tool for designing
+spatial 4C mechanisms for rigid-body guidance.<span style="mso-spacerun:yes"> </span><span style="font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Spatial
+4C mechanisms are two degree of freedom closed kinematic chains consisting of
+four links connected by cylindrical (C) joints.<span style="mso-spacerun: yes; font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">&nbsp;
+</span>A cylindrical joint provides both translational and rotational movement
+along its axis. </span>Spatial mechanisms offer a better alternative to
+electronically controlled multiple-input devices, such as robotic manipulators.<span style="mso-spacerun:yes">&nbsp;
+</span>Being purely mechanical devices, spatial mechanisms are less expensive,
+more reliable and more energy efficient.<span style="mso-spacerun:yes">&nbsp; </span>A
+single spatial mechanism is often capable of completing a motion task that would
+otherwise require several planar mechanisms to accomplish.<span style="mso-spacerun:yes">&nbsp;
+</span>Despite the potential benefits associated with operation of spatial
+mechanisms, development of such mechanical systems has been hindered by the lack
+of the appropriate mechanism design software applications.</p>
+<p align="left">Spatial mechanisms operate within three-dimensional design
+space. The traditional human-computer interfaces (HCI) are limited to two
+dimensions and impose artificial constraints on the ability of the mechanism
+designers to correctly and efficiently specify the design problem and
+investigate the spatial mechanism synthesis results. Virtual reality provides a
+truly three-dimensional alternative to the traditional HCI's. The overall
+spatial layout of a mechanism design problem as well as the correct dimensions
+of the synthesized mechanisms are easily evaluated in the VR environments.&nbsp;</p>
+  <p align="left"><span style="font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">The
+  benefits of using virtual reality applications for synthesis and analysis of
+  spatial mechanisms have been explored at </span><st1:place>
+  <st1:PlaceName>
+  <span style="font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Iowa</span></st1:PlaceName>
+  <span style="font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">
+  </span><st1:PlaceType>
+  <span style="font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">State</span></st1:PlaceType>
+  <span style="font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">
+  </span><st1:PlaceType>
+  <span style="font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">University
+  previously. <a href="../../VRNETS/">VRNETS</a>
+  program was created in order to aid in the synthesis of spatial 4C mechanisms.
+  The program allowed users to investigate the design parameters associated with
+  spatial 4C mechanisms, such as the input design positions and the congruence
+  planes, in a 3-D environment.<span style="mso-spacerun: yes; font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">&nbsp;
+  </span>Additionally, it provided the option of networking several instances of
+  the application in order to facilitate a collaborative design process. While
+  the program proved to be an effective tool in the synthesis and analysis of
+  spatial 4C mechanisms, improvements and modifications to the program’s
+  structure and functionality were needed in order to take full advantage of the
+  virtual reality design environment.<span style="mso-spacerun: yes; font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">&nbsp;This
+  research relies on the experience gained from operation of the </span><a href="../../VRNETS/">VRNETS</a><span style="mso-spacerun: yes; font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">
+  program, and incorporates the needed changes into a new piece of software.</span></span></p>
+  <p class="MsoBodyTextIndent">The VRSpatial application was developed as a
+  result of this research.<span style="mso-spacerun:yes">&nbsp; </span>It is a
+  software package for designing spatial 4C mechanisms using virtual reality
+  that offers the mechanism designers a wide variety of methods for defining the
+  initial design problem, solving the problem, and evaluating the solution’s
+  feasibility. VRSpatial is written in the C++ programming language. Creation of
+  the computer graphics objects and management of the VR environment is achieved
+  with the SGI OpenGL<span style="mso-char-type: symbol; mso-symbol-font-family: Symbol; font-family: Symbol; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">ä</span>&nbsp;
+  API&nbsp; and the VRJuggler virtual reality software library. Computation
+  routines from Florida Institute of Technology’s SPADES software package,
+  developed by
+    <a href="http://www.fit.edu/AcadRes/engsci/mechanic/larochel.html">Dr.
+    Pierre Larochelle</a>, are used to perform mechanism synthesis and analysis.<span style="mso-spacerun:yes">&nbsp;
+  </span>The user interaction method consists of a position-tracked wand and a
+  set of virtual menus, along with a speech recognition interface.</p>
+  <p>When compared to the functionality of the original VRNETS application, the
+  new spatial mechanism design program offers its users an assortment of new and
+  improved features.<span style="mso-spacerun:yes">&nbsp; </span>Some of the
+  novel program characteristics are listed below:</p>
+  <ul>
+    <li>Implemented on a wide variety of VR systems, including <st1:place>
+      <st1:PlaceName>
+      Iowa</st1:PlaceName>
+      <st1:PlaceType>
+      State</st1:PlaceType>
+      <st1:PlaceType>
+      University</st1:PlaceType>
+      </st1:place>
+      ’s <a href="http://www.vrac.iastate.edu/about/labs/c6/index.php">C6
+      facility</a>.</li>
+    <li>Improved methods of specifying the initial design problem, such as the
+      ability to numerically adjust positions of the design objects, provide for
+      more effective design.</li>
+    <li>Multiple options are available for investigating the generated solution
+      space, including dynamic congruence planes recalculation, the ability to
+      select arbitrary lines from congruence planes, extension of the mechanism
+      type identification and solution filtering options to the congruence
+      planes, and the ability to investigate the guide map and the congruence
+      planes simultaneously.</li>
+    <li>Three-position mechanism synthesis functionality is provided.</li>
+    <li>Speech command interface offers an alternative way of interacting with
+      the application.</li>
+  </ul>
+  <p>The result of this research is an advanced, multi-functional, and highly
+  flexible application for design of spatial 4C mechanisms for motion generation
+  tasks. It is hoped that the use of this program will facilitate expansion of
+  the spatial mechanism investigation activities and will lead to their expanded
+  use in industrial applications.</p>
+</blockquote>
+<h3 align="left"><b>Images</b></h3>
+<ul>
+  <li>
+    <p align="left">Spatial 4C mechanism [<a href="vrspatial_4c_mech.gif">GIF,
+    18K</a>]</li>
+  <li>
+    <p align="left">Object manipulation in VRSpatial [<a href="vrspatial_pos_data.jpg">JPEG,
+    118K</a>]</li>
+  <li>
+    <p align="left">Numerical adjustment of the design positions [<a href="vrspatial_num_adjust.jpg">JPEG,
+    127K</a>]</li>
+  <li>
+    <p align="left">Color-coded congruence planes [<a href="vrspatial_color_congruences.jpg">JPEG,
+    107K</a>]</li>
+  <li>
+    <p align="left">Interaction with congruences and the Guide Map [<a href="vrspatial_congos_guidemap.jpg">JPEG,
+    84K</a>]</li>
+  <li>
+    <p align="left">Collaboration in VRSpatial [<a href="vrspatial_collaboration.jpg">JPEG,
+    158K</a>]</li>
+</ul>
+<h3 align="left"><b>Publications</b></h3>
+<ul>
+  <li>
+    <p align="left">Vance, Judy M., Larochelle, Pierre M., Dorozhkin, Denis V.,
+    &quot;<a href="../../htmls/2002Htmls/Pub.02-VRSpatialMech.htm">VRSpatial:
+    Designing Spatial Mechanisms Using Virtual Reality</a>&quot;, ASME Design
+    Engineering Technical Conferences and Computers and Information in
+    Engineering Conference, Montreal, Canada, September 29 - October 2, 2002,
+    DETC2002/MECH-34377</li>
+  <li>
+    <p align="left">Dorozhkin, Denis V., Vance, Judy M., &quot;<a href="../../htmls/2002Htmls/Pub.02-VRSpeech.htm">Implementing
+    Speech Recognition in Virtual Reality</a>&quot;, ASME Design Engineering
+    Technical Conferences and Computers and Information in Engineering
+    Conference, Montreal, Canada, September 29 - October 2, 2002,
+    DETC2002/CIE34390</li>
+  <li>
+    <p align="left">Dorozhkin Denis, &quot;VRSpatial: A Program for Designing
+    Spatial 4C Mechanisms in Virtual Reality&quot;, M.S. Thesis, Iowa State
+    University, 2002</li>
+</ul>
+<h3>Personnel</h3>
+<blockquote>
+    <a href="../..">Dr. Judy M. Vance</a>,
+    Professor and Chair, Iowa State University<br>
+    <a href="http://www.fit.edu/AcadRes/engsci/mechanic/larochel.html">Dr.
+    Pierre Larochelle</a>, Professor, Florida Institute of Technology<br>
+    <a href="http://www.public.iastate.edu/~dorodv">Denis Dorozhkin</a> -
+    Graduate Research Assistant, Iowa State University
+</blockquote>
+  <h3>Funding</h3>
+<blockquote>
+  <p>This project was funded by the <a href="http://www.nsf.gov/">National
+    Science Foundation</a> Grants # DMI-9872604 and DMI-9816611:<a href="../spatial_mechanism_design.html">Spatial Mechanism Design in a Virtual Environment</a></p>
+</blockquote>
+<h3>Facilities</h3>
+<blockquote>
+    <p><a href="http://www.vrac.iastate.edu/">Virtual Reality Applications
+    Center</a></p>
+</blockquote>
+<hr>
+<p align="center"><big><big><font size="2"><a href="http://www.me.iastate.edu">Mechanical
+Engineering</a> | <a href="http://www.vrac.iastate.edu">VRAC</a> | <a href="http://www.iastate.edu">ISU</a>
+| <a href="../../htmls/research.htm">Home</a> | <a href="mailto:jmvance@iastate.edu">E-mail</a>
+| <a href="javaScript:clickon=history.go(-1)">Previous</a></font></big>
+<p>&nbsp;</p>
+</big>
+<p align="center">&nbsp;</p>
+
+</body>
+
+</html>

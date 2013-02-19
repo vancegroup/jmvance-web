@@ -1,0 +1,378 @@
+<HTML>
+<HEAD>
+<TITLE>A Virtual Reality Environment for Spherical Mechanism Design</TITLE>
+</HEAD>
+<body background="../gif/bg2.gif">
+
+<h1><center>A Virtual Reality Environment for Spherical Mechanism Design</center></h1>
+<center><img src="gif/ms_c.gif"></center><p>
+
+<hr><p>
+<IMG SRC="images/globe2.gif" ALT="" ALIGN=right>
+<H3>Overview</H3>
+
+<P>
+This project will result in the development of a virtual environment to facilitate the design of 
+spherical mechanisms. Spatial mechanisms are devices composed of mechanical links and hinged 
+and sliding joints that are designed to produce complex three-dimensional motion. Spherical 
+mechanisms are the simplest class of spatial mechanisms. These mechanisms provide the means 
+to move and orient an object along a complex 3D path. Often today, this type of motion is provided 
+by a series of planar mechanisms. One example is mechanism used to store the folding table 
+attached to a lecture hall seat. This mechanism consists of two independent planar mechanisms 
+that result in fully 3D motion.<p>
+
+Spherical mechanisms are rarely used in industry today because the form and function of 
+these mechanisms is difficult to visualize until a prototype has been built. The geometric complexity 
+of the solution space is beyond the ability of existing systems to present clearly and use
+fully. The unique 3D nature of the design environment provided by virtual reality is the only 
+vehicle for providing a usable design tool for the design of spatial mechanisms. A computer tool 
+providing a 3D design space where the designer could synthesize spherical mechanisms and 
+obtain a sense of the form and function of the devices while still in a computer modeled form 
+would open up the possibilities for spatial mechanisms to be incorporated into many products 
+including manufacturing equipment and consumer products. The replacement of several planar 
+mechanisms with one spherical mechanisms will result in a solution with fewer links, fewer driving 
+motors, more reliability and lower cost. Providing a virtual environment for spatial mechanism 
+design will not only open new possibilities for invention of new mechanisms, but also will 
+provide new knowledge pertaining to the use of virtual reality as a design tool.<p> 
+
+Researchers from the <A HREF="http://www.uci.edu/" TARGET="_top">University of California, Irvine</A>, <A HREF="http://www.fit.edu/" TARGET="_top">Florida Institute of Technology</A>, and 
+<A HREF="http://www.iastate.edu/" TARGET="_top">Iowa State University</A> have joined in this proposal to build such a design tool. Preliminary results 
+have shown the need for advancement of spherical mechanism design methodology as well as an 
+evaluation of the suitability of various virtual reality menu structures, interaction devices and display 
+devices to the task of engineering product design. <p>
+
+<HR>
+<IMG SRC="images/globe2.gif" ALIGN=right>
+<H3>History</H3>
+
+
+<P>
+The need for better software to design spherical mechanisms results from the
+experiences of <A HREF="http://www.eng.uci.edu/~maeadmin/Faculty/McCARTHY.html" 
+TARGET="_top">Professor J. Michael McCarthy</A>, 
+<A HREF="http://www.fit.edu/AcadRes/engsci/mechanic/larochel.html" TARGET="_top">
+Professor Pierre Larochelle</A>, and <A HREF=".." TARGET="_top">Professor Judy Vance</A>.<BR>
+
+<BR>Four-bar spherical mechanisms are the
+simplest types of spatial mechanisms and yet even these are difficult to design
+using existing computer tools. Most engineers are familiar with planar
+mechanisms such as the planar four-bar shown in Figure 1a. The simplest spatial
+mechanism, the spherical four-bar, is shown in Figure 1b. The spherical
+mechanism consists of four links joined by four revolute (4R) joints, all of
+which have axes of revolution that meet in a single point: the center of the
+spherical constraint surface transversed by the links. In these closed-chain
+mechanisms, the motion of each link is affected by the motion of the adjoining
+links.
+<P>
+
+<CENTER><BR>
+<IMG SRC="images/link1.gif" ALT="[Images of Planar and Spherical Mechanisms]"><BR>
+Figure 1. (a) Planar four-bar mechanism (b) Spherical four-bar mechanism
+</CENTER><BR>
+
+<P>
+In the late 70s and early 80s, interactive computer graphics design programs
+were developed for planar mechanism design based on Burmester's (1886)
+geometric design procedures. The first computer graphics program was Kaufman's
+KINSYN (Kaufman 1978), followed shortly by Erdman's LINCAGES package (Erdman
+and Gustafson 1977), and later by Waldron's RECSYN (Waldron and Song 1981).
+These programs enable rapid design and analysis of planar linkages, allowing
+the inventor to survey the dimensions and evaluate the movement of many
+linkages during one design session.
+<P>
+In the early 1990's Larochelle and McCarthy turned to interactive
+workstation-based computer graphics to develop a tool to design spherical
+mechanisms. For spherical linkages, the first computer-based synthesis
+techniques were described by Suh and Radcliffe (1967) and Roth (1967). This was
+later expanded by Dowler et al. (1978). Reinholtz et al. (1986) generalized
+Filemon's (1972) ideas for avoiding problematic spherical linkage types. The
+first interactive graphics-based spherical linkage design system, SPHINX, was
+developed by Larochelle and McCarthy in 1993 (Larochelle et al. 1993).The user
+interface to the SPHINX software is shown in Figure 2.
+<P>
+The design of a spherical mechanism using SPHINX is accomplished by first
+specifying the desired positions and orientations of the coupler link in up to
+4 discrete positions. For each design specification, 160,000 mechanisms exist.
+To limit the solution set to a usable number of alternative solutions,
+constraints are needed. Two approaches are available to input constraints on
+the design. The user can either specify the positions of the pivots or choose
+the type of mechanism that is desired. The first approach is based on selecting
+the location of the fixed and moving pivots using the congruence cones. The
+second approach is based on selecting the type of mechanism desired from the
+160,000 linkages which are generated by SPHINX from the input design position
+data. These linkage possibilities are displayed as a color coded map, called
+the linkage type map, shown in the lower part of Figure 2. Once the constraints
+are specified, the mechanism is displayed and the designer can animate the
+movement and edit the final form of the linkage to plan the construction of a
+prototype.
+<P>
+
+<CENTER><BR>
+<A HREF="images/1sphinx.gif"><IMG SRC="images/1sphinx_icon.gif" ALT="[Image of Sphinx Program]"></A><BR>
+Figure 2: SPHINX: Spherical mechanism design 
+</CENTER><BR>
+
+<P>
+ In a related, but independent effort, Scott Osborn, a graduate
+assistant working with Prof. Vance, developed <A HREF="Sphere1.html">SphereVR</A> (Figure
+3), a virtual reality environment for the design of spherical mechanisms. The
+approach is slightly different from SPHINX. A 3D mouse is used to place the
+design positions on the sphere and to press buttons on a virtual menu tablet to
+specify constraints on the individual link pivot point locations. The linkage
+type map and the congruence cones are not generated, but rather, the individual
+link pivot points are constrained to lie on user-specified geometric planes.
+Once synthesized, the linkage can be animated to examine the motion. The 3D
+mouse is also used to input commands such as Solve and Animate that appear on
+the virtual menu tablet. The program can be implemented using a variety of
+visual display devices including stereo glasses, a head-mounted display or a
+head-coupled display (BOOM). This allows the designer to move relative to the
+sphere to view it from a many different viewpoints.
+<P>
+
+<CENTER><BR>
+<IMG SRC="images/figure7.gif" ALT="[Spherical mechanism design using VR]"><BR>
+Figure 3: SphereVR: Spherical mechanism design using VR
+</CENTER><BR>
+
+<P>
+Next, Juliet Kraal, another graduate assistant at Iowa State University created
+<A HREF="VEMECS.htm">VEMECS</A> (Virtual Environment MEChanism Synthesis). This program was displayed in
+stereo on a projection screen and viewed using CrystalEyes stereo glasses. Interaction
+with the virtual objects was performed using the Pinch Gloves. A menu system replaced
+the virtual menu object used in SphereVR. The design process more closely followed the
+procedure used in the workstation-based SPHINX program.
+<P>
+
+<CENTER><BR>
+<IMG SRC="gif/ms_c.gif"><BR>
+Figure 3: VEMECS: Virtual Environment MECHanism Synthesis
+</CENTER><BR>
+
+<P> Currently, <!A HREF="http://www.public.iastate.edu/~tfurlong">
+        Todd Furlong<!/A>, a graduate assistant at Iowa State University, is working on the 3rd evolution of the virtual mechanism
+design application, <A HREF="../ISIS/isis.html">Isis</A> (Interactive Synthesis of Spherical Mechanisms). The approach now is to provide virtual objects in the environment so
+that designing the mechanisms can be performed in context. Instead of placing abstract 
+coordinate systems in place on the design sphere, the user places instances of the part that
+needs to move. Pivots can be selected that relate to the attachment of the mechanism to it's base
+part. This program uses CrystalEyes stereo glasses and a projection screen or an n-Vision helmet or 
+the C2 for display. Interaction is provided using the pinch gloves.
+<P>
+
+<CENTER><BR>
+<IMG SRC="gif/isis-small.gif"><BR>
+Figure 4: ISIS (Interactive SynthesIS)
+</CENTER><BR>
+
+<HR>
+<IMG SRC="images/globe2.gif" ALT="" ALIGN=right>
+<H3>Personnel</H3>
+
+<b>Professors</b>
+<BR>
+The virtual reality environment for spherical
+mechanism design is a project that is being pursued on three different
+campuses. At <A HREF="http://www.iastate.edu/" TARGET="_top">Iowa State University</A>, Professor Judy Vance
+leads the virtual reality effort. Professor Pierre M. Larochelle at the
+<A HREF="http://www.fit.edu/" TARGET="_top">Florida Institute of Technology</A> and Professor J. Michael McCarthy at the
+<A HREF="http://www.uci.edu/"TARGET="_top">University of California, Irvine</A> are developing new synthesis and analysis
+theory in the fields of spatial mechanism design that will be incorporated into
+the virtual environment.
+
+<UL>
+	<LI> <A HREF=".." TARGET="_top">Dr. Judy Vance</A>, Iowa State University<BR>
+		E-mail: <A HREF="mailto:jmvance@iastate.edu"><I>jmvance@iastate.edu</I></A>
+	<LI> <A HREF="http://www.fit.edu/AcadRes/engsci/mechanic/larochel.html" TARGET="_top">Dr. Pierre M. Larochelle</A>, Florida Institute of Technology<BR>
+		E-mail: <A HREF="mailto:pierrel@cs.fit.edu"><I>pierrel@cs.fit.edu</I></A>
+	<LI> <A HREF="http://www.eng.uci.edu/~maeadmin/Faculty/McCARTHY.html" TARGET="_top">Dr. J. Michael McCarthy</A>, University of California, Irvine<BR>
+		E-mail: <A HREF="mailto:jmmccart@uci.edu"><I>jmmccart@uci.edu</I></A>
+</UL>
+
+<BR>
+<b>Graduate Students</b>
+<BR>
+<UL>
+	<LI> <!A HREF="http://www.public.iastate.edu/~tfurlong" TARGET="_top">Todd Furlong<!/A>, Iowa State University<BR>
+		E-mail: <A HREF="mailto:tfurlong@iastate.edu"><I>tfurlong@iastate.edu</I></A>
+	<LI> <!A HREF="http://www.fit.edu/~dboyer/" TARGET="_top">Julien Parouty<!/A>, Florida Institute of Technology<BR>
+		E-mail: <A HREF="mailto:jparouty@winnie.fit.edu"><I>jparouty@winnie.fit.edu</I></A>
+	<LI> <!A HREF="http://www.fit.edu/~dboyer/" TARGET="_top">David Tse<!/A>, Florida Institute of Technology<BR>
+		E-mail: <A HREF="mailto:dtse@fit.edu"><I>dtse@fit.edu</I></A>
+	<LI> Alan Ruth, University of California, Irvine<BR> 
+		E-mail: <A HREF="mailto:alan@beet.eng.uci.edu"><I>alan@beet.eng.uci.edu</I></A>
+</UL>
+
+<BR>
+<b>Undergraduate Students</b>
+<BR>
+<UL>
+	<LI> <!A HREF="http://www.public.iastate.edu/~tbrunia" TARGET="_top">Todd Brunia<!/A>, Iowa State University<BR>
+		E-mail: <A HREF="mailto:tbrunia@iastate.edu"><I>tbrunia@iastate.edu</I></A>
+</UL>
+<HR>
+<H3>Images</H3>
+
+<CENTER><TABLE BORDER=4>
+<TR>
+	<TD><A HREF="images/link1.gif"><IMG SRC="images/link.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>1</CENTER></TD>
+	<TD><A HREF="images/joy.gif"><IMG SRC="images/joy1.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>2</CENTER></TD>
+	<TD><A HREF="images/hinge.gif"><IMG SRC="images/hinge1.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>3</CENTER></TD>
+</TR>
+
+</TABLE></CENTER>
+<BR>
+<OL>
+	<LI> Planar and Spherical 4 bar Mechanism Definition
+	<LI> Retractable Joystick Using a Spherical Mechanism
+	<LI> Student Desk Spherical Mechanism 
+</OL>
+
+<CENTER><TABLE BORDER=4>
+<TR>
+	<TD><A HREF="images/autopln1.gif"><IMG SRC="images/autopln1.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>4</CENTER></TD>
+	<TD><A HREF="images/autopln2.gif"><IMG SRC="images/autopln2.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>5</CENTER></TD>
+	
+</TR>
+<TR>
+	<TD><A HREF="images/av1.gif"><IMG SRC="images/av1.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>6</CENTER></TD>
+	<TD><A HREF="images/av3.gif"><IMG SRC="images/av3.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>7</CENTER></TD>
+	
+</TR>
+
+</TABLE></CENTER>
+<BR>
+<OL START=4>
+	<LI> AviAuto with wings extended 
+	<LI> AviAuto with wings folded 
+	<LI> Spherical mechanism design for the AviAuto wings (wings folded) 
+	<LI> Spherical mechanism design for the AviAuto wings (wings extended) 
+</OL>
+
+<CENTER><TABLE BORDER=4>
+<TR>
+	<TD><A HREF="images/p_positions.gif"><IMG SRC="images/p_positions.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>8</CENTER></TD>
+	<TD><A HREF="images/ms_c.gif"><IMG SRC="images/ms_c.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>9</CENTER></TD>
+	<TD><A HREF="images/collage.gif"><IMG SRC="images/collage.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>10</CENTER></TD>
+</TR>
+
+</TABLE></CENTER>
+<BR>
+<OL START=8>
+	<LI> Positions placed on the sphere
+	<LI> Completed mechanism
+	<LI> The VR spherical mechanism design steps  
+</OL>
+
+
+<CENTER><TABLE BORDER=4>
+<TR>
+	<TD><A HREF="images/inx1.gif"><IMG SRC="images/inx1.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>11</CENTER></TD>
+	<TD><A HREF="images/inx3.gif"><IMG SRC="images/inx3.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>12</CENTER></TD>
+	<TD><A HREF="images/inx2.gif"><IMG SRC="images/inx2.gif" WIDTH=150 HEIGHT=150></A><BR><CENTER>13</CENTER></TD>
+</TR>
+
+
+</TABLE></CENTER>
+<BR>
+<OL START=11>
+	<LI> Sphinx with guide map  
+	<LI> Sphinx showing congruence cones
+	<LI> Sphinx showing final mechanism
+</OL>
+
+
+<HR>
+<H3>VRML</H3>
+
+<P>
+<CENTER>
+<A HREF="Spherical.wrl"><IMG SRC="images/globe.gif" ALT="[Image of Sphere]"></A>
+</CENTER>
+
+<P>
+This links to a VRML representation of the sphere with the linkage, which allows a good look at the linkage in three dimensions.
+<p>
+<hr><h3>Quicktime</h3>
+<a href="../Movs/vemecs.mov">Quicktime movie</a> of user interacting with spherical mechanism program (8.0 MB)<p>
+
+<HR>
+<IMG SRC="images/globe2.gif" ALT="" ALIGN=right>
+<H3>Applications</H3>
+
+<P>
+Two recent projects at the University of California at Irvine (UCI) which were
+developed using the SPHINX software have resulted in usable spherical four-bar
+mechanisms: the UCI Hinge and the UCI Joy-stick Support Linkage. The UCI Hinge
+(Figure 4) was designed to stow the communication table of a wheelchair-bound
+individual from a position in the lap to a position beside the wheelchair.
+Traditional means to accomplish this task employ two planar mechanisms attached
+in series. Here, the spherical mechanism can perform the same motion, providing
+a smoother transition for the table and using fewer links in the mechanism. The
+UCI Joy-stick Support Linkage (Figure 5) was designed to deploy the chin
+joy-stick controller for a quadriplegic from behind a wheelchair into position
+in front of the operator. This linkage is in use at the Center for Applied
+Rehabilitation Technology at Rancho Los Amigos Hospital. Used in a
+manufacturing setting, similar linkages can provide pick and place movements
+that are equivalent to robotic systems at a much lower cost and complexity.
+<P>
+
+<CENTER><BR>
+<IMG SRC="images/hinge.gif" ALT="[Image of Hinge]"><BR>
+Figure 4.  UCI Hinge spherical mechanism
+</CENTER><BR>
+<CENTER><BR>
+<IMG SRC="images/joy.gif" ALT="[Image of Joystick]"><BR>
+Figure 5.  UCI Joy-stick Support Linkage spherical mechanism
+</CENTER><BR>
+
+<P>
+A recent project at the Florida Institute of Technology has resulted in the
+design and manufacture of a spherical four bar mechanism which deploys and
+retracts the wings on the AviAuto (figure 6) roadable aircraft. The AviAuto is a prototype
+roadable aircraft, or flying car, that is being developed at Florida Tech. In
+previous designs of the AviAuto, two planar hinges, each actuated by a stepper
+motor and gear head, were used to deploy and retract each wing. Implementation
+of the spherical mechanism design has resulted in significant cost and weight
+savings.
+<P>
+
+<CENTER><BR>
+<A HREF="images/autopln1.gif"><IMG SRC="images/autopln1.gif" WIDTH=150 HEIGHT=150 ALT="[Wings out]"></A>
+<A HREF="images/autopln2.gif"><IMG SRC="images/autopln2.gif" WIDTH=150 HEIGHT=150 ALT="[Wings folded]"></A>
+<BR>
+Figure 6.  AviAuto with wing spread and retracted
+</CENTER><BR>
+<hr>
+
+<P>
+<H3>Lab Facilities</H3>
+<UL>
+	<LI> <A HREF="http://www.vrac.iastate.edu/" TARGET="_top">Virtual Reality Applications Center</A> @ Iowa State University
+	<LI> <A HREF="http://www.fit.edu/~dboyer/" TARGET="_top">Florida Tech Robotics & Spatial Systems Laboratory</A> @ Florida Institute of Technology
+	<LI> <A HREF="http://www.eng.uci.edu//~maeadmin/robotlab/" TARGET="_top">UC Irvine Robotics & Automation Laboratory</A> @ University of California Irvine
+</UL>
+
+<HR>
+
+
+
+<IMG SRC="images/globe2.gif" ALT="" ALIGN=right>
+<H3>Funding</H3>
+
+<P>
+Funding for the Virtual Reality Environment for Spherical Mechanism Design project is provided by the 
+<A HREF="http://www.nsf.gov" TARGET="_top">National Science Foundation</A> grant # DMI 9612062.
+<P>
+<BR>
+  
+General information can be found at these NSF web pages:
+<UL>
+	<LI> <A HREF="http://www.eng.nsf.gov/dmii/design.htm" TARGET="_top">Design and Integration Engineering Program</A>
+	<LI> <A HREF="http://www.eng.nsf.gov/dmii/dmii.htm" TARGET="_top">Design, Manufacture, and Industrial Innovation Program</A> 
+	<LI> <A HREF="http://www.eng.nsf.gov/" TARGET="_top">Directorate for Engineering</A>
+</UL>
+
+<HR>
+
+<a href="http://www.vrac.iastate.edu/">Virtual Reality Applications Center</a><p>
+</BODY>
+</HTML>
