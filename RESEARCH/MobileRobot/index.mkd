@@ -1,7 +1,8 @@
+---
 layout: research
 title: "Haptics for Large Space Virtual Environments to Assess Assembly Tasks"
 subtitle: "Iowa State University"
-image: 
+image: Haption_on_robot_with_factory_scene.jpg
 ---
 
 ## Overview
@@ -53,14 +54,9 @@ disciplines.
 
 
 ## Media
-- Cylindroid constraint space [JPEG, 313KB](Cylindroid.jpg)
-- Hoop surface freedom space [JPEG, 281KB](Hoop_surface.jpg)
-- Simple compliant system [JPEG, 381KB](Design.jpg)
-- Compliant lumber support:
-    - VR design [JPEG, 44KB](Lumbar_VR.jpg)
-    - FEA analysis [JPEG, 275KB](Lumbar_FEA.jpg)
-    - Physical prototype [JPEG, 200KB](Lumbar_Physical.jpg)
-- **Video** {Combining Haptics with an Omnidirectional Mobile Robot} (http://www.youtube.com/watch?v=_AaXVlWPYfA&list=UUUo4aXuVOK7Ong7q3cBffTQ&index=1)
+- [Nexus Mobile Robot](Nexus_robot.jpg)
+- [Haption Virtuose on Nexus Mobile Robot](Haption_on_nexus_robot.jpg)
+- **Video** [Combining Haptics with an Omnidirectional Mobile Robot](http://www.youtube.com/watch?v=_AaXVlWPYfA&list=UUUo4aXuVOK7Ong7q3cBffTQ&index=1)
 
 ## Personnel
 - Dr. Judy M. Vance, Professor and Chair, Iowa State University
@@ -71,4 +67,3 @@ disciplines.
 This project is funded by the [National Science Foundation](http://www.nsf.gov) Grant # CMMI-1061458
 ## Facilities
 {{ site.vrac-link }}
-lue box...
