@@ -9,7 +9,7 @@ commitid: $(git describe --always)
 commitlinktext: $(git log -n 1 --pretty=format:"%h: %an, %ar.")
 commitdesc: git log -n 1 --pretty=format:"%B"
 EOF
-elif [ "$1" == "--unapply"]; then
+elif [ "$1" == "--unapply" ]; then
   mv _config.yml.bak _config.yml
 else
   echo "Error - must pass --apply or --unapply !"
