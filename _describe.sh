@@ -6,7 +6,7 @@ if [ "$1" == "--apply" ]; then
   cp _config.yml _config.yml.bak
   cat >> _config.yml <<EOF
 commitid: $(git log -n 1 --pretty=format:'%H')
-commitlinktext: "$(git log -n 1 --pretty=format:'%h - %an, %ar - %s')"
+commitlinktext: "$(git log -n 1 --pretty=format:'%h - %an, %aD - %s')"
 commitdesc: "$(git log -n 1 --pretty=format:'%b')"
 EOF
 elif [ "$1" == "--unapply" ]; then
