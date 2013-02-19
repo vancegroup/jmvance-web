@@ -60,7 +60,7 @@ disciplines.
 
 ## Personnel
 - Ryan A. Pavlik - Graduate Research Assistant, Iowa State University
-- [Dr. Judy M. Vance](http://public.vrac.iastate.edu/~jmvance/), Joseph C. and Elizabth A. Anderlik Professor of Engineering, Iowa State University
+- [Dr. Judy M. Vance](http://www.me.iastate.edu/directory/faculty/judy-vance/), Joseph C. and Elizabth A. Anderlik Professor of Engineering, Iowa State University
 - [Dr. Greg R. Luecke](http://www.me.iastate.edu/directory/faculty/greg-r-luecke/), Associate Professor, Iowa State University
 
 
@@ -68,4 +68,5 @@ disciplines.
 This project is funded by the [National Science Foundation](http://www.nsf.gov) Grant # CMMI-1061458
 
 ## Facilities
+[Iowa State University](iastate.edu)
 [Virtual Reality Applications Center](http://www.vrac.iastate.edu/)
