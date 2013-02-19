@@ -68,5 +68,5 @@ disciplines.
 This project is funded by the [National Science Foundation](http://www.nsf.gov) Grant # CMMI-1061458
 
 ## Facilities
-[Iowa State University](iastate.edu)
-[Virtual Reality Applications Center](http://www.vrac.iastate.edu/)
+-[Iowa State University](http://www.iastate.edu)
+-[Virtual Reality Applications Center](http://www.vrac.iastate.edu/)
