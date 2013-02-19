@@ -1,0 +1,1 @@
+{% include person.rpavlik %} - Graduate Research Assistant, Iowa State University Virtual Reality Applications Center/Human-Computer Interaction Graduate Program
