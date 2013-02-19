@@ -4,7 +4,7 @@ PATH=/home/vr/apps/vancegroup/linux/gems-rhel6/bin:$PATH
 
 (
 	cd $(dirname $0) && cd ..
-	rsync -r -t -v --progress --delete -l -z _oldsite/ /home/vr/apps/vancegroup/public_html/jmvance-test/
+	rsync -r -t -v --progress -l -z _oldsite/ /home/vr/apps/vancegroup/public_html/jmvance-test/
 	./_describe.sh --apply
 	jekyll --base-url /vancegroup/jmvance-test --kramdown --url http://www.vrac.iastate.edu /home/vr/apps/vancegroup/public_html/jmvance-test/
 	code=$?
