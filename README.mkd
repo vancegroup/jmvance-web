@@ -9,6 +9,16 @@ the [Bootstrap][] basic HTML5 styles. The process is actually almost
 exactly like how [GitHub Pages][] are generated, so pretty much all that
 documentation applies.
 
+## Timestamp
+Generated {{ site.time | date_to_xmlschema }}
+
+{% if site.commitid %}
+### [{{ site.commitlinktext }}](https://github.com/vancegroup/jmvance-web/commit/{{site.commitid}})
+<code><pre>
+{{ site.commitdesc }}
+</pre></code>
+{% endif %}
+
 ## Quick links
 - [Bootstrap][]
 - [Liquid template syntax](https://github.com/shopify/liquid/wiki/liquid-for-designers)
