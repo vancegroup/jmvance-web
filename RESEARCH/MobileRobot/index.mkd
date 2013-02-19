@@ -59,7 +59,7 @@ disciplines.
 - **Video** [Combining Haptics with an Omnidirectional Mobile Robot](http://www.youtube.com/watch?v=_AaXVlWPYfA&list=UUUo4aXuVOK7Ong7q3cBffTQ&index=1)
 
 ## Personnel
-- [Ryan A. Pavlik[(http://academic.cleardefinition.com/) - Graduate Research Assistant, Iowa State University
+- [Ryan A. Pavlik](http://academic.cleardefinition.com/) - Graduate Research Assistant, Iowa State University
 - [Dr. Judy M. Vance](http://www.me.iastate.edu/directory/faculty/judy-vance/), Joseph C. and Elizabth A. Anderlik Professor of Engineering, Iowa State University
 - [Dr. Greg R. Luecke](http://www.me.iastate.edu/directory/faculty/greg-r-luecke/), Associate Professor, Iowa State University
 
