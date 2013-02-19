@@ -16,6 +16,8 @@ Generated {{ site.time | date_to_xmlschema }}
 **Most recent commit in generated site:** [{{ site.commitlinktext }}](https://github.com/vancegroup/jmvance-web/commit/{{site.commitid}})
 
 {{ site.commitdesc }}
+
+See Jenkins: <https://no-salt.vrac.iastate.edu:8080/job/jmvance-web/>
 {% endif %}
 
 ## Quick links
@@ -31,8 +33,9 @@ Generated {{ site.time | date_to_xmlschema }}
 
 ## How the web site is created
 The raw files are processed by Jekyll: any file that starts with a block
-like the following, known as "YAML Front Matter", will get transformed
-into the template.
+like the following, known as **YAML Front Matter**, will get transformed
+into the template. _If this is missing, the page won't generate, and you'll
+be sad._
 
     ---
     title: Composition Help
