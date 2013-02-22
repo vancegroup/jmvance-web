@@ -1,0 +1,14 @@
+#!/bin/bash -e
+
+. $(dirname $0)/common.sh
+
+(
+	cd ${REPOROOT}
+
+	${DESCRIBE} --apply
+	trap "${DESCRIBE} --unapply" EXIT
+	bundle exec jekyll --base-url /${WEBROOT} --url http://${DOMAIN} "$@"
+	code=$?
+	echo "Jekyll completed with code $code"
+	exit $code
+)

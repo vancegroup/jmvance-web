@@ -1,0 +1,9 @@
+#!/bin/bash -e
+
+export CONFIG=$(cd $(dirname $0) && pwd)/$1
+. ${CONFIG}
+export DOMAIN
+export WEBROOT
+export FILEROOT
+
+$2

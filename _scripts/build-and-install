@@ -1,0 +1,23 @@
+#!/bin/bash -e
+
+. $(dirname $0)/common.sh
+
+(
+	cd ${REPOROOT}
+	mkdir -p "${FILEROOT}/"
+
+	_scripts/run-jekyll
+	rsync -r -t -v --progress -l -z _oldsite/ "${FILEROOT}/"
+	rsync -r -t -v --progress -l -z _site/ "${FILEROOT}/"
+	
+	echo
+	echo "- Simulated deletions:"
+	generate_deletions.lua |
+		while read fn; do
+			echo "rm -f $fn"
+		done
+	
+	echo
+	echo "- Simulated .htaccess contents:"
+	generate_redirects.lua
+)

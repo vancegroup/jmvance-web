@@ -1,0 +1,15 @@
+#!/bin/sh
+
+REPOROOT=$(cd $(dirname $0) && cd .. && pwd)
+
+BUNDLER_ROOT=${REPOROOT}/_bundler
+BUNDLE=${BUNDLER_ROOT}/bin/bundle
+
+
+(
+	cd ${REPOROOT}
+	[ -x "${BUNDLE}" ] || ( echo " - Installing bundler locally because ${BUNDLE} not found..."; gem install bundler --install-dir=${BUNDLER_ROOT})
+	echo "- Running 'bundle $@'"
+	echo
+	${BUNDLE} $@
+)

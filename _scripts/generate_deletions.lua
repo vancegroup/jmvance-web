@@ -1,15 +1,14 @@
 #!/usr/bin/env lua
 
-config = arg[1] or error("Must pass the config as the first argument!")
-loadfile(config)()
+CONFIG = arg[1] or os.getenv("CONFIG") or error("Must pass the config as the first argument or via environment variable CONFIG!")
+loadfile(CONFIG)()
 
-mapfile = arg[2] or error("Must pass the mappings file as the second argument!")
-loadfile(mapfile)()
+require "mappings"
 
 getOldPath = function(old)
-	return ([[%s/%s]]):format(FILEROOT, old)
+	return FILEROOT .. old
 end
 
 for old, _ in pairs(mappings) do
-	io.write(getOldPath(old) .. "\0")
+	print(getOldPath(old))
 end

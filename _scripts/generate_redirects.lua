@@ -1,10 +1,10 @@
 #!/usr/bin/env lua
 
-config = arg[1] or error("Must pass the config as the first argument!")
-loadfile(config)()
 
-mapfile = arg[2] or error("Must pass the mappings file as the second argument!")
-loadfile(mapfile)()
+CONFIG = arg[1] or os.getenv("CONFIG") or error("Must pass the config as the first argument or via environment variable CONFIG!")
+loadfile(CONFIG)()
+
+require "mappings"
 
 getRedirectionLine = function(old, new)
 	return ([[redirect 301 /%s%s http://%s/%s%s]]):format(WEBROOT, old, DOMAIN, WEBROOT, new)

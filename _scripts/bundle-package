@@ -3,7 +3,8 @@
 REPOROOT=$(cd $(dirname $0) && cd .. && pwd)
 
 (
+	echo "- In bundle-package"
 	cd ${REPOROOT}
-	_scripts/bundler-wrapper install --path=vendor/bundle $@
-	_scripts/bundler-wrapper package $@
+	_scripts/bundle install --path=vendor/bundle $@
+	_scripts/bundle package $@
 )
