@@ -1,0 +1,12 @@
+#!/bin/bash -e
+
+. $(dirname $0)/common.sh
+
+(
+	cd ${REPOROOT}
+
+	if ${HTACCESS}; then
+		echo "- '${FILEROOT}/.htaccess' contents:"
+		(cat _stub.htaccess; generate_redirects.lua) | tee "${FILEROOT}/.htaccess"
+	fi
+)

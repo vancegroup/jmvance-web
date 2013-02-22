@@ -12,8 +12,5 @@
 
 	_scripts/perform-deletions
 
-	if ${HTACCESS}; then
-		echo "- '${FILEROOT}/.htaccess' contents:"
-		(cat _stub.htaccess; generate_redirects.lua) | tee "${FILEROOT}/.htaccess"
-	fi
+	_scripts/install-htaccess
 )
