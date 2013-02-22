@@ -23,6 +23,8 @@
 		done
 	
 	echo
-	echo "- Simulated .htaccess contents:"
-	generate_redirects.lua
+	if ${HTACCESS}; then
+		echo "- '${FILEROOT}/.htaccess' contents:"
+		(cat _stub.htaccess; generate_redirects.lua) | tee "${FILEROOT}/.htaccess"
+	fi
 )
