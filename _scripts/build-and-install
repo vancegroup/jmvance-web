@@ -7,8 +7,8 @@
 	mkdir -p "${FILEROOT}/"
 
 	_scripts/run-jekyll
-	rsync -r -t -v --progress -l -z _oldsite/ "${FILEROOT}/"
-	rsync -r -t -v --progress -l -z _site/ "${FILEROOT}/"
+	_scripts/sync-dir-to-fileroot _oldsite/
+	_scripts/sync-dir-to-fileroot _site/
 
 	_scripts/perform-deletions
 
