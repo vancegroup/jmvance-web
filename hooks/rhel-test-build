@@ -2,5 +2,5 @@
 
 (
 	cd $(dirname $0) && cd ..
-	_scripts/full-deploy-config vancegrouptest.cfg
+	_full_deploy.sh vancegrouptest.cfg
 )
