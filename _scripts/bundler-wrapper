@@ -1,0 +1,13 @@
+#!/bin/sh
+
+REPOROOT=$(cd $(dirname $0) && cd .. && pwd)
+
+BUNDLER_ROOT=${REPOROOT}/_bundler
+BUNDLE=${BUNDLER_ROOT}/bin/bundle
+
+
+(
+	cd ${REPOROOT}
+	gem install bundler --install-dir=${BUNDLER_ROOT}
+	${BUNDLE} $@
+)

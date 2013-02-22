@@ -1,0 +1,8 @@
+#!/bin/sh
+
+REPOROOT=$(cd $(dirname $0) && cd .. && pwd)
+
+(
+	cd ${REPOROOT}
+	_scripts/bundler-wrapper exec $@
+)
