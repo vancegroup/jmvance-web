@@ -58,13 +58,13 @@ single file `index.mkd` (plus any images, etc) in it, since this
 produces cleaner links.
 
 ## Front matter elements
-- title: required
-- layout: required, is likely to be either `base` or `research` (for a research project page) right now.
+- `title`: required
+- `layout`: required, is likely to be either `base` or `research` (for a research project page) right now.
 
 ### `research`-layout only:
 
-- subtitle: optional
-- image: optional but recommended
+- `subtitle`: optional
+- `image`: optional but recommended
 
 ## Handy snippets to know
 {% raw %}
@@ -78,7 +78,6 @@ produces cleaner links.
 
 - Port other top-level pages
 
-- Move all active, reachable content into this repository.
 - Search/replace all non-ASCII characters (word smart quotes/dashes, etc)
 - Script a simple conversion that strips old header and footer from
   previous content and adds YAML front matter for Jekyll processing and
@@ -89,8 +88,12 @@ produces cleaner links.
 - Hook up automatic generation and upload
 
 - Consider these plugins:
+
     - oEmbed: <https://gist.github.com/1455726>
+
     - <https://github.com/pablooliveira/bibjekyll> or <https://github.com/inukshuk/jekyll-scholar>
+
     - <https://github.com/mrdanadams/jekyll-thumbnailer>
+
     - Building custom bootstrap, etc. with <https://github.com/matb33/jekyll-buildpack>
 
