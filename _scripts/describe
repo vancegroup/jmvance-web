@@ -1,8 +1,9 @@
 #!/bin/bash -e
 
 (
-cd $(dirname $0)
+cd $(dirname $0) && cd ..
 if [ "$1" == "--apply" ]; then
+  echo "- Applying modifications to _config.yml"
   cp _config.yml _config.yml.bak
   cat >> _config.yml <<EOF
 commitid: $(git log -n 1 --pretty=format:'%H')
@@ -10,9 +11,10 @@ commitlinktext: "$(git log -n 1 --pretty=format:'%h - %an, %aD - %s')"
 commitdesc: "$(git log -n 1 --pretty=format:'%b')"
 EOF
 elif [ "$1" == "--unapply" ]; then
+  echo "- Reversing modifications to _config.yml"
   mv _config.yml.bak _config.yml
 else
-  echo "Error - must pass --apply or --unapply !"
+  echo "Error - must pass --apply or --unapply !" >&2
   exit 1
 fi
 )
