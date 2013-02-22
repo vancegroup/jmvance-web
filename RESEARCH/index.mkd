@@ -44,52 +44,48 @@ layout: base
 #### [Flexible Accounting Systems in Dynamic Manufacturing Environments](FlexAccEnv.html)
 - [Implementing Discrete Event Programming in a Virtual Factory](../FACTORY/factory.html)
 
-<div class="alert">
-<strong>Note:</strong> Continue adding links here!
-</div>
+#### [Evaluating the Use of Haptics in Virtual CAD Tasks](VCADEval.html)
+- [Effectiveness of Haptic Sensation for the Evaluation of Virtual Prototypes](../HAPTICS/HapticStudy.html)
 
-#### Evaluating the Use of Haptics in Virtual CAD Tasks
-- Effectiveness of Haptic Sensation for the Evaluation of Virtual Prototypes
-
-#### Virtual Prototyping for Interpretation of Analysis Data
-- VR-CFD: Visualization and Approximation of post-processed CFD data in a Virtual Environment
+#### [Virtual Prototyping for Interpretation of Analysis Data](ProtoAnalysis.html)
+- [VR-CFD: Visualization and Approximation of post-processed CFD data in a Virtual Environment](../CFD/CFD.html)
 - Sasikumar Kutti, Applying Virtual Reality to Computational Fluid Dynamics post-processing, M.S. Thesis, Iowa State Universtiy, 1998
 
-#### A Virtual Reality Environment for Spherical Mechanism Design
-- Isis - Interactive Synthesis of Spherical Mechanism Design
+#### [A Virtual Reality Environment for Spherical Mechanism Design](SphereDesign.html)
+- [Isis - Interactive Synthesis of Spherical Mechanism Design](../ISIS/isis.html)
 - Krall, Juliet, "A virtual environment for the synthesis of spherical mechanisms," M.S. Thesis, Iowa State University, 1996
 
-#### Career: Virtual Reality Techniques to Improve Product Design
-- Effectiveness of Haptic Sensation for the Evaluation of Virtual Prototypes 
-- DN-Edit: Multiple Point Direct Manipulation of NURBS Surfaces in a Virtual Environment 
-- Ryken, Mike, "Applying virtual reality techniques to the interactive stress analysis of a tractor lift arm," M.S. Thesis, Iowa State University, 1998 
-- Effectiveness of Virtual Reality as a Tool to Facilitate Engineering Design of Spherical Mechanisms
+#### [Career: Virtual Reality Techniques to Improve Product Design](career_virtualreality.html)
+- [Effectiveness of Haptic Sensation for the Evaluation of Virtual Prototypes](../HAPTICS/HapticStudy.html)
+- [DN-Edit: Multiple Point Direct Manipulation of NURBS Surfaces in a Virtual Environment](../NURBS/DNEdit.html)
+- Ryken, Mike, "Applying virtual reality techniques to the interactive stress analysis of a tractor lift arm," M.S. Thesis, Iowa State University, 1998
+- [Effectiveness of Virtual Reality as a Tool to Facilitate Engineering Design of Spherical Mechanisms](../EVAL/EVAL.html)
 
-#### Acquisition of a high performance computer for the C6 system
+#### [Acquisition of a high performance computer for the C6 system](acquisitionofc6.html)
 
-#### A Virtual Environment for Engineering Design Optimization
-- Shape design with stress constraints 
+#### [A Virtual Environment for Engineering Design Optimization](Optimization.html)
+- [Shape design with stress constraints](../SHAPE/SHAPE.html)
 
 <div class="alert">
-<strong>Note:</strong> Un-closed HTML in the original document may have eaten entries here!
+<strong>Note:</strong> any missing entries would go here!
 </div>
 
-#### A Virtual environment for engineering design optimzation
+#### [A Virtual environment for engineering design optimzation](../sen_opt/sen_opt.html)
 
 #### Synthetic Environments as Enabling Technology for Product Development: Phase I
 - Ryken, Mike, "Applying virtual reality techniques to the interactive stress analysis of a tractor lift arm," M.S. Thesis, Iowa State University, 1998
 
 #### Synthetic Environments as Enabling Technology for Product Development: Phase 2
-- VEGAS: A Virtual Environment for General Assembly Simulation
+- [VEGAS: A Virtual Environment for General Assembly Simulation](../ASSEMBLY/Assembly.html)
 
 #### Development and Demonstration of a Model Vocational Education Program for Assisting Small Manufacturing Enterprises in Adopting, Implementing, Operating, and Managing New Manufacturing Technologies
-- Simulation-Based Training for Manufacturing Workers
+- [Simulation-Based Training for Manufacturing Workers](../sim_train/sim_train.html)
 
 #### Modeling of a Hydraulic Pump to Determine the Parameters that Affect Pump Noise
-- Tsay, Shyung-Jye, "Applying virtual reality techniques to engineering design optimization
+- Tsay, Shyung-Jye, "Applying virtual reality techniques to engineering design optimization"
 
 #### Visualization of the Effect of Design Changes on Reliability
-- Visualization of structural response using design sensitivity analysis
+- [Visualization of structural response using design sensitivity analysis](Ford.html)
 
 #### Other Projects
-- Parametric Surface Polygonization
+- [Parametric Surface Polygonization](../polygonize/polygonize.html)
