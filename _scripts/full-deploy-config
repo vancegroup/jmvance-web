@@ -1,0 +1,10 @@
+#!/bin/sh -e
+
+SCRIPTDIR=$(cd $(dirname $0) && pwd)
+CONFIG=$1
+echo "- Installing bundled gems"
+"${SCRIPTDIR}/bundle-install"
+
+echo "- Running build-and-install with config '${CONFIG}'"
+"${SCRIPTDIR}/run-with-config" "${CONFIG}" "${SCRIPTDIR}/build-and-install"
+
