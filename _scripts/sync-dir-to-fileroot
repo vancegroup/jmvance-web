@@ -4,5 +4,5 @@
 
 echo
 echo "- Syncing $1 to file root:"
-rsync -r -t -v --progress -l -z "$1" "${FILEROOT}/"
+rsync -r -t -v --progress -l "$1" "${FILEROOT}/"
 
