@@ -11,5 +11,5 @@ BUNDLE=${BUNDLER_ROOT}/bin/bundle
 	[ -x "${BUNDLE}" ] || ( echo " - Installing bundler locally because ${BUNDLE} not found..."; gem install bundler --install-dir=${BUNDLER_ROOT})
 	echo "- Running 'bundle $@'"
 	echo
-	${BUNDLE} $@
+	GEM_PATH=${BUNDLER_ROOT} ${BUNDLE} $@
 )
