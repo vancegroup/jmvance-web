@@ -11,10 +11,15 @@
 	rsync -r -t -v --progress -l -z _site/ "${FILEROOT}/"
 	
 	echo
-	echo "- Simulated deletions:"
+	echo "- Generated file deletions:"
 	generate_deletions.lua |
 		while read fn; do
-			echo "rm -f $fn"
+			if [ -f "$fn" ]; then
+				echo "  rm -f \"$fn\""
+				rm -rf "$fn"
+			else
+				echo "  - $fn not present"
+			fi
 		done
 	
 	echo
