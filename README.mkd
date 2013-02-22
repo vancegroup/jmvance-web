@@ -12,6 +12,9 @@ the [Bootstrap][] basic HTML5 styles. The process is actually almost
 exactly like how [GitHub Pages][] are generated, so pretty much all that
 documentation applies.
 
+The source code for the site is kept at <https://github.com/vancegroup/jmvance-web>,
+and every push to GitHub triggers a rebuild.
+
 ## Timestamp
 Generated {{ site.time | date_to_xmlschema }}
 
