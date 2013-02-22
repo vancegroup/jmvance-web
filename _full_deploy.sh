@@ -11,3 +11,5 @@ echo "- Installing bundled gems"
 echo "- Running build-and-install with config '${CONFIG}'"
 "${SCRIPTDIR}/run-with-config" "${CONFIG}" "${SCRIPTDIR}/build-and-install"
 
+echo
+echo "-- Full deployment of web site in config ${CONFIG} successfully completed! --"
