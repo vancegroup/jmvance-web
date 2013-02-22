@@ -1,0 +1,21 @@
+#!/bin/bash -e
+
+. $(dirname $0)/common.sh
+
+(
+	cd ${REPOROOT}
+
+	echo
+	echo "- Generated file deletions:"
+	generate_deletions.lua |
+		while read fn; do
+			if [ -f "$fn" ]; then
+				echo "  rm -f \"$fn\""
+				rm -f "$fn"
+			else
+				echo "  - $fn not present"
+			fi
+		done
+	
+	echo
+)

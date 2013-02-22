@@ -9,20 +9,9 @@
 	_scripts/run-jekyll
 	rsync -r -t -v --progress -l -z _oldsite/ "${FILEROOT}/"
 	rsync -r -t -v --progress -l -z _site/ "${FILEROOT}/"
-	
-	echo
-	echo "- Generated file deletions:"
-	generate_deletions.lua |
-		while read fn; do
-			if [ -f "$fn" ]; then
-				echo "  rm -f \"$fn\""
-				rm -rf "$fn"
-			else
-				echo "  - $fn not present"
-			fi
-		done
-	
-	echo
+
+	_scripts/perform-deletions
+
 	if ${HTACCESS}; then
 		echo "- '${FILEROOT}/.htaccess' contents:"
 		(cat _stub.htaccess; generate_redirects.lua) | tee "${FILEROOT}/.htaccess"
