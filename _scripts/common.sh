@@ -18,7 +18,6 @@ if [ -z "${COMMON_RUN_FLAG}" ]; then
 	export SCRIPTS=${REPOROOT}/_scripts
 	export LUASCRIPTS=${SCRIPTS}/lua
 	export DESCRIBE=${SCRIPTS}/describe
-	export MAPPINGS=${SCRIPTS}/mappings.lua
 
 	new_lua_loc=${SCRIPTS}/config/?.lua
 	[ -z "${LUA_PATH}" ] && export LUA_PATH=$new_lua_loc || export LUA_PATH=$new_lua_loc:${LUA_PATH}

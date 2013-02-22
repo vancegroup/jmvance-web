@@ -6,7 +6,9 @@
 	cd ${REPOROOT}
 
 	if ${HTACCESS}; then
-		echo "- '${FILEROOT}/.htaccess' contents:"
+		echo "- installing '${FILEROOT}/.htaccess' with contents:"
 		(cat _stub.htaccess; generate_redirects.lua) | tee "${FILEROOT}/.htaccess"
+	else
+		echo "- Skipping generation of .htaccess per config file"
 	fi
 )
