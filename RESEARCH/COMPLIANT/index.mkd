@@ -1,8 +1,13 @@
 ---
+
 layout: research
+
 title: "Collaborative Research: Constraint-based Compliant Mechanism Design using Virtual Reality as a Design Interface"
+
 subtitle: "Iowa State University - Massachusetts Institute of Technology"
+
 image: image002.jpg
+
 ---
 
 ## Overview

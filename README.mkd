@@ -1,6 +1,9 @@
 ---
+
 title: Composition Help
+
 layout: base
+
 ---
 
 # Help
@@ -38,9 +41,14 @@ into the template. _If this is missing, the page won't generate, and you'll
 be sad._
 
     ---
+
     title: Composition Help
+
     layout: base
+
     ---
+
+(The blank lines help it look better on GitHub as a preview.)
 
 You can use HTML directly, if you like, but I'd recommend Markdown - use
 file extension `.mkd` - which lets you do embedded HTML anyway for
