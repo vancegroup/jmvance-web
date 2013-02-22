@@ -12,11 +12,6 @@ layout: base
 
 #### GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment
 
-{% comment %}
-This one links to the old page
-#### [Compliant Mechanism Design in a Virtual Environment](COMPLIANT/compliant_mechanism_design.html)
-{% endcomment %}
-
 #### [Compliant Mechanism Design in a Virtual Environment](COMPLIANT/)
 
 #### Synthetic Environments as Enabling Technology for Product Development: Phase 4
