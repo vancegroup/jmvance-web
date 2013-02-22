@@ -2,7 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
 
-exclude: ["hooks", ".git", ".gitignore"]
+exclude: ["hooks", ".git", ".gitignore", "vendor", "Gemfile"]
 pygments: true
 
 title : Judy M. Vance
