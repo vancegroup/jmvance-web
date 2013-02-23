@@ -5,5 +5,5 @@ REPOROOT=$(cd $(dirname $0) && cd .. && pwd)
 (
 	echo "- In bundle-install"
 	cd ${REPOROOT}
-	_scripts/bundle install --deployment --local $@
+	_scripts/bundle install --path=vendor/bundle --local $@
 )
