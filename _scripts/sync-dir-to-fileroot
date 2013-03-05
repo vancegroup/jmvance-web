@@ -4,5 +4,5 @@
 
 echo
 echo "- Syncing $1 to file root:"
-rsync -r -t -v -l "$1" "${FILEROOT}/"
+${INSTALLER} "$1" "${FILEROOT}/"
 

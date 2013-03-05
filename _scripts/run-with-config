@@ -8,6 +8,7 @@ export DOMAIN
 export WEBROOT
 export FILEROOT
 export HTACCESS
+export INSTALLER
 
 
 [ ! -z $2 ] || (echo "ERROR: Must pass a command to run!" >&2; exit 2)

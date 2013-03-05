@@ -1,0 +1,3 @@
+#!/bin/sh
+umask 002
+sg vancegroup "rsync -r -t -v -l --omit-dir-times --checksum \"$1\" \"$2\""
