@@ -8,9 +8,10 @@
 
 	_scripts/run-jekyll
 	_scripts/sync-dir-to-fileroot _oldsite/
+	_scripts/install-htaccess
 	_scripts/sync-dir-to-fileroot _site/
 
 	_scripts/perform-deletions
 
-	_scripts/install-htaccess
+
 )

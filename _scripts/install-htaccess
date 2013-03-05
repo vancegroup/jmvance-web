@@ -7,7 +7,7 @@
 
 	if ${HTACCESS}; then
 		echo "- installing '${FILEROOT}/.htaccess' with contents:"
-		(cat _stub.htaccess; generate_redirects.lua) | tee "${FILEROOT}/.htaccess"
+		(cat _stub.htaccess; generate_redirects.lua) | tee "_site/.htaccess"
 	else
 		echo "- Skipping generation of .htaccess per config file"
 	fi
