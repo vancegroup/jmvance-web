@@ -1,3 +1,4 @@
 #!/bin/sh
 umask 002
-sg vancegroup "rsync -r -v -l --chmod=ug=rwX,o=rX --perms --omit-dir-times --checksum \"$1\" \"$2\""
+# No --perms because we don't want to change permissions on things that are already over there.
+sg vancegroup "rsync -r -v -l --chmod=ug=rwX,o=rX --omit-dir-times --checksum \"$1\" \"$2\""
