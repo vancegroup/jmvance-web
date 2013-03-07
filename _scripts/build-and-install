@@ -7,7 +7,9 @@
 	mkdir -p "${FILEROOT}/"
 
 	_scripts/run-jekyll
-	_scripts/sync-dir-to-fileroot _oldsite/
+	if $(${INSTALL_OLDSITE}); then
+		_scripts/sync-dir-to-fileroot _oldsite/
+	fi
 	_scripts/install-htaccess
 	_scripts/sync-dir-to-fileroot _site/
 
