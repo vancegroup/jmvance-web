@@ -1,7 +1,33 @@
 ###
 # Manual .htaccess entries here:
 
-# None right now
+# Without this line, "redirect" lines don't work if the file redirected from
+# doesn't exist, counterintuitively
+Options -Multiviews 
+
+# Rewrite .htm to .html, if the .htm file doesn't exist.
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f # Only rewrite if the requested file doesn't exist
+RewriteRule (.*)\.htm$ /~jmvance/$1.html [R=301,L,QSA]  # Rewrite stuff: redirect with a 301, end the chain, pass along query string args
+
+
+###
+# Things that didn't work or weren't as good
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{DOCUMENT_ROOT}/$1/ -d
+#RewriteRule ^(.+)/([^/]+)$ /foo/shared/shared.html [L,QSA]
+
+#RewriteCond %{DOCUMENT_ROOT}/$1/ -d
+#RewriteRule ^(.+)/([^/]+)$ /foo/shared/shared.html [L,QSA]
+#RewriteRule ^([^.]+)\.htm$ $1.html [L,R=301]
+#RewriteRule ^/([^.]+)\.htm$ $1.html [L,R=301]
+#RewriteRule ^/([^.]+)\.htm$ /$1.html [L,R=301]
+#RewriteRule ^/([^.]+)\.htm$ /$1.html [L,R=301,PT]
+#RewriteRule ^/([^.]+)\.htm$ /$1.html [L,R=301,PT]
+
+#RewriteRule (.*)\.htm$ http://public.vrac.iastate.edu/~jmvance/$1.html [R=301,L] # works
+#RewriteRule (.*)\.htm$ /~jmvance/$1.html [R=301,L]  # works
+
 
 ###
 # Generated .htaccess entries automatically added:
