@@ -12,4 +12,9 @@ end
 
 for old, new in pairs(mappings) do
 	print(getRedirectionLine(old, new))
+	-- If mod_rewrite might mess with this URL, better issue two redirects.
+	if old:find("%.htm$") then
+		print(getRedirectionLine(old:gsub("%.htm$", ".html", 1), new))
+
+	end
 end
