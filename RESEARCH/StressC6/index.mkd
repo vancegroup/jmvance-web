@@ -31,7 +31,6 @@ and modify the design.
 
 An application has been created to implement and test such interactive design
 methods. It combines several features into a virtual reality program including:
-
 - Imported CAD geometry
 - Engineering analysis results using Reproducing Kernel Particle mesh-free methods
 - Real-time shape manipuation with NURBS free-form deformation and subdivision volumes 
