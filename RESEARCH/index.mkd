@@ -23,7 +23,7 @@ layout: base
 - [VEGAS II: A Virtual Environment for General Assembly Simulation II](../ASSEMBLY/Assembly2.html)
 
 #### [Interactive Product Development in a Virtual Environment Utilizing Haptics](interactive_product_dev.html)
-- [Interactive Stress Reanalysis in Virtual Reality](StressC6/StressC6.htm)
+- [Interactive Stress Reanalysis in Virtual Reality](StressC6/)
 - [Implementing Haptic Feedback in a Projection Screen Virtual Environment](phantom/phantom.html)
 
 #### [Development of a virtual prototyping design tool using 3D human anthropometry](developement_of_virtual.html)
