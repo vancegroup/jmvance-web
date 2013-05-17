@@ -8,19 +8,16 @@ image: hapticsC6.jpg
 
 ---
 
-
-<h2 style='margin-left:.5in'>Summary</h2>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;
-margin-left:1.0in'>The typical steps in the traditional product design process involve
+## Overview
+The typical steps in the traditional product design process involve
 designing a shape, selecting materials, performing analysis, building
 prototypes, and testing. Numerous iterations are performed at several steps in
 the process in order to achieve a suitable design. When trying to optimize the
 design based on shape or material properties, these iterations can often be
 time consuming. This limits the number of design possibilities that can be
-explored because of the desire to decrease design time.<br>
-<br>
-After an engineer designs a part <span class=SpellE>ultilizing</span> computer
+explored because of the desire to decrease design time.
+
+After an engineer designs a part ultilizing computer
 aided design, he or she will typically run a finite element analysis (FEA) on
 the part to determine its reliability. If the results from the FEA indicate
 that the part will fail and must be re-designed, the engineer redesigns the
@@ -30,164 +27,70 @@ with different designs. This research project seeks to give the engineer a tool
 that will allow him or her to interactively change the design and immediately
 see the FEA results. The re-design process is done in virtual reality because
 it allows the engineer to use natural head and hand motions to view the results
-and modify the design. <br>
-<br>
+and modify the design. 
+
 An application has been created to implement and test such interactive design
-methods. It combines several features into a virtual reality program including:</p>
+methods. It combines several features into a virtual reality program including:
 
-<ul type=disc>
- <ul type=circle>
-  <ul type=square>
-   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;mso-list:l1 level3 lfo3;tab-stops:list 1.5in'>Imported CAD geometry</li>
-   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;mso-list:l1 level3 lfo3;tab-stops:list 1.5in'>Engineering analysis
-       results using Reproducing Kernel Particle mesh-free methods</li>
-   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;mso-list:l1 level3 lfo3;tab-stops:list 1.5in'>Real-time shape <span
-       class=SpellE>manipuation</span> with NURBS free-form deformation and
-       subdivision volumes</li>
-   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;mso-list:l1 level3 lfo3;tab-stops:list 1.5in'>Two fast analysis
-       approximations: linear Taylor series and Preconditioned Conjugate
-       Gradient reanalysis</li>
-   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;mso-list:l1 level3 lfo3;tab-stops:list 1.5in'>Haptic feedback based
-       on stress levels via a <span class=SpellE>PHANToM</span> device</li>
-  </ul>
- </ul>
-</ul>
+Imported CAD geometry
+- Engineering analysis results using Reproducing Kernel Particle mesh-free methods
+- Real-time shape manipuation with NURBS free-form deformation and subdivision volumes 
+- Two fast analysis approximations: linear Taylor series and Preconditioned Conjugate Gradient reanalysis
+- Haptic feedback based on stress levels via a PHANToM device
 
-<p class=MsoNormal style='margin-left:1.0in'><br>
 Research continues into several areas of improvement including: adding
 automatic optimization routines to the interactive design process, implementing
 additional element types such as plates and shells, working with more advanced
 material models, and approximating non-linear analyses. The program also has
-the ability to interface with the <a href="http://tahoe.ca.sandia.gov">Tahoe</a>
-analysis software to support a variety of analysis types.</p>
+the ability to interface with the [Tahoe] (http://tahoe.ca.sandia.gov)
+analysis software to support a variety of analysis types.
 
-<p class=MsoNormal style='margin-left:.5in'><o:p>&nbsp;</o:p></p>
+##Media
+- Video clip of stress reanalysis in virtual reality [Quicktime MOV, 63M] (M3D-demo.mov)
+- A subdivision volume used to deform parts in the application [PNG, 91K] (ffdVolume.png)
+- Several models shown in VR [JPEG,34K] (example.jpg) 
 
-<h2 style='margin-left:.5in'>Media</h2>
-
-<p class=MsoNormal style='margin-left:1.0in'>Video clip of stress reanalysis in
-virtual reality <a href="M3D-demo.mov">[<span class=SpellE>Quicktime</span>
-MOV, 63M<span class=GramE>]</span></a><br>
-<br>
-A subdivision volume used to deform parts in the application. <a
-href="ffdVolume.png">[PNG, 91K]</a><br>
-<br>
-<span class=GramE>Several models shown in VR.</span> <a href="example.jpg">[JPEG,
-34K]</a></p>
-
-<p class=MsoNormal style='margin-left:1.0in'><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal style='margin-left:1.0in'><a
-href="http://www.hci.iastate.edu/tools/gallery/ivda07">IVDA Photo Gallery</a> </p>
-
-<p class=MsoNormal style='margin-left:.5in'><o:p>&nbsp;</o:p></p>
-
-<h2 style='margin-left:.5in'>Publications</h2>
-
-<p class=MsoNormal style='margin-left:1.0in'>Faas, D., A. Fischer, Vance, Judy
-M.<span class=GramE>,<span style='mso-spacerun:yes'>  </span><u>Interactive</u></span><u>
-Mesh-Free Stress Analysis for Mechanical Design Assembly with Haptics</u>. <span
-class=GramE>ASME 2007 International Design Engineering Technical Conferences
-&amp; Computers and Information in Engineering Conference, Las Vegas, NV.</span></p>
-
-<p class=MsoNormal style='margin-left:1.0in'><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal style='margin-left:1.0in'><span class=GramE>Fischer, A. and
-J. M. Vance (2003).</span> PHANTOM Haptic Device Implemented in a Projection
-Screen Virtual Environment. <span class=GramE><u>7th International Immersive
-Projection Technologies Workshop</u>.</span> Zurich, Switzerland.</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.5in'><span
-style='mso-tab-count:1'>            </span></p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:.5in'><span class=GramE>Fischer,
-A. and J. M. Vance (2007).</span> <span class=GramE>&quot;Mesh-Free Reanalysis
-with Open Source Software for Virtual Design.&quot;</span> <span class=GramE><u>AIAA</u>.</span></p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.5in'><span
-style='mso-tab-count:1'>            </span></p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:.5in'>Fischer, A., Vo,
-Dao M, Vance, Judy M., (2007). &quot;Haptic Feedback To Guide Interactive
-Design.&quot; <u>Presence: <span class=SpellE>Teleoperators</span> and Virtual
-Environments</u>.</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.5in'><span
-style='mso-tab-count:1'>            </span></p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:.5in'><span class=GramE>Fischer,
-A. and J. M. Vance (2007).</span> <span class=GramE>&quot;Fast Mesh-Free
-Reanalysis with Open Source Software for Virtual Design.&quot;</span> <span
-class=GramE><u>AIAA</u>.</span></p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.5in'><span
-style='mso-tab-count:1'>            </span></p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:.5in'><span class=GramE>Fischer,
-A. and J. M. Vance (2007).</span> <span class=GramE>&quot;Interactive
-Manipulation of Mesh-Free Models in Virtual Reality.&quot;</span> <span
-class=GramE><u>The Journal of Mechanical Design.</u></span></p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.5in'><span
-style='mso-tab-count:1'>            </span></p>
-
-<p class=MsoNormal style='margin-left:1.0in'><span class=GramE>Fischer, A. and
-J. M. Vance (2007).</span> <span class=GramE>&quot;Stress Sensitivity
-Calculation Methods for Interactive Mesh-Free Reanalysis.&quot;</span> <span
-class=GramE><u>Computer Modeling and Simulation Engineering</u>.</span></p>
-
-
-<p class=MsoNormal style='margin-left:1.0in'>Chipperfield, K., Vance, J.M.,
-Fischer, A., Fast Meshless Reanalysis Using Combined Approximations,
-Pre-Conditioned Conjugate Gradient, and Taylor Series, AIAA Journal, In Press,
-2006<br>
-<br>
-T.P. Yeh and J.M. Vance., <a
-href="../../htmls/dec98.htm">Applying Virtual
-Reality Techniques to Sensitivity-Based Structural Shape Design</a>, ASME
-Journal of Mechanical Design, Vol. 120, No. 4, December 1998, pp. 612-619 <br>
-<br>
-Chipperfield, K., Yeh, T-P, Vance, Judy M., &quot;Interactive Product
-Development in a Virtual Environment Utilizing Haptics&quot;, 2002 NSF Design,
+## Publications
+- Faas, D., A. Fischer, Vance, Judy M. (2007). Interactive Mesh-Free Stress Analysis for Mechanical Design Assembly with Haptics. ASME International Design Engineering Technical Conferences
+ and Computers and Information in Engineering Conference, Las Vegas, NV.
+- Fischer, A. and J. M. Vance (2003).PHANTOM Haptic Device Implemented in a Projection
+Screen Virtual Environment. 7th International Immersive
+Projection Technologies Workshop.Zurich, Switzerland.
+- Fischer, A., Vo,
+Dao M, Vance, Judy M., (2007). Haptic Feedback To Guide Interactive
+Design. Presence: Teleoperators and Virtual
+Environments.
+- Fischer,
+A. and J. M. Vance (2007). Fast Mesh-Free
+Reanalysis with Open Source Software for Virtual Design. AIAA Journal.
+- Fischer,
+A. and J. M. Vance (2007). Interactive
+Manipulation of Mesh-Free Models in Virtual Reality. ASME Journal of Mechanical Design.
+- Fischer, A. and
+J. M. Vance (2007).Stress Sensitivity
+Calculation Methods for Interactive Mesh-Free Reanalysis. Computer Modeling and Simulation Engineering.
+- Chipperfield, K., Vance, J.M.,
+Fischer, A.(2006) Fast Meshless Reanalysis Using Combined Approximations,
+Pre-Conditioned Conjugate Gradient, and Taylor Series, AIAA Journal.
+- T.P. Yeh and J.M. Vance (1998). Applying Virtual
+Reality Techniques to Sensitivity-Based Structural Shape Design. ASME
+Journal of Mechanical Design, 120[4], pp. 612-619 
+- Chipperfield, K., Yeh, T-P, Vance, Judy M.(2002). Interactive Product
+Development in a Virtual Environment Utilizing Haptics. 2002 NSF Design,
 Service and Manufacturing Grantees and Research Conference Proceedings, San
-Juan, Puerto Rico, January 7-10, 2002, CD-ROM.<br>
-<br>
-Chipperfield, Kurt, Interactive stress re-analysis in virtual reality, Ph.D.
-Thesis, Iowa State <span class=SpellE>Univeristy</span>, 2002</p>
+Juan, Puerto Rico, January 7-10.
+- Chipperfield, Kurt (2002) Interactive stress re-analysis in virtual reality, Ph.D.
+Thesis, Iowa State Univeristy.
 
-<p class=MsoNormal style='margin-left:.5in'><o:p>&nbsp;</o:p></p>
+##Personnel
+- Dr. Judy M. Vance, Professor, Iowa State University
+- Daniela Faas, Graduate Research Assistant
+- Andrew Fischer, Graduate Research Assistant
+- Andy Mckean, Graduate Research Assistant
+- Kurt Chipperfield, Graduate Research Assistant
 
-<h2 style='margin-left:.5in'>Personnel</h2>
-
-<p class=MsoNormal style='margin-left:1.0in'><a
-href="../..">Dr. Judy M. Vance</a> -
-Professor, <a href="http://www.iastate.edu">Iowa State University</a><br
-style='mso-special-character:line-break'>
-<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-<![endif]></p>
-
-<p class=MsoNormal style='margin-left:1.0in'><a
-href="http://www.vrac.iastate.edu/~dfaas/">Daniela Faas</a> &#8211; Graduate
-Research Assistant<br>
-<br>
-<a href="http://www.vrac.iastate.edu/%7Efischea1">Andrew Fischer</a> - Graduate
-Research Assistant<br>
-<br>
-Andy <span class=SpellE>Mckean</span> - Graduate Research Assistant</p>
-
-<p class=MsoNormal style='margin-left:.5in'><o:p>&nbsp;</o:p></p>
-
-<h2 style='margin-left:.5in'>Funding</h2>
-
-<p class=MsoNormal style='margin-left:1.0in'>This research project is currently
-funded by <a href="http://www.pg.com">Procter &amp; Gamble</a><br>
-<br>
-<span class=GramE>Previous</span> work has been funded by the <a
-href="http://www.nsf.gov/">National Science Foundation</a></p>
+##Funding
+This research project is funded by Procter and Gamble. Previouswork has been funded by the
+[National Science Foundation] (http://www.nsf.gov).
 
 
