@@ -1,6 +1,0 @@
-#!/bin/sh
-
-(
-	cd $(dirname $0) && cd ..
-	_full_deploy.sh vancegrouptest.cfg
-)
