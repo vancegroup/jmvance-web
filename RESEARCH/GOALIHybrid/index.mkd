@@ -1,0 +1,84 @@
+---
+
+layout: research
+
+title: "GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment"
+
+subtitle: "Iowa State University"
+
+image: "GOALI_1.jpg"
+
+image: "GOALI_2.jpg"
+
+
+## Overview
+
+Our research aims to improve the training of assembly tasks through the utilization of haptic devices,
+virtual reality, and accurate physics calculations.
+
+image: "real-colored.jpg"
+
+In training assembly workers in a factory, there are often barriers such as cost.  Assembly 
+lines need to be shutdown which can cause serious disruption for the factory.  Virtual reality 
+and haptic technology can be used to provide simulated training for situations in which physical
+training is either too costly or dangerous due to the size of the assemblies.  This research compared
+virtual bimanual haptic training versus traditional physical training and the effectiveness for 
+learning transfer for a puzzle assembly.
+
+In our first study, a small group of participants went through either virtual training or physical training
+for a puzzle assembly.  During a training phase, participants received a paper copy of instructions for
+puzzle assembly and then went through assembling the color coded puzzle twice using either the physical puzzle for
+training or the virtual setup.  After this, the instructions were taken away and participants were asked
+to assemble the physical puzzle without color indicators in the testing phase.  Time on task was
+measured to determine how fast they were able to complete the testing.  While virtual training took participants
+about three times longer, the group that used the virtual environment was able to assemble the physical puzzle testing
+about three times faster than the group trained with the physical puzzle.
+
+
+image: "User.jpg"
+
+One issue with the above study was the time that participants had between physical and virtual training depended
+on how fast they were able to complete the two assemblies.  The increased amount of time with the puzzle for the virtual
+group could be why their performance was better.  To control for this, another experiment was devised and implemented.
+In a between groups design, participants were assigned 
+to either the virtual or physical training and trained by assembling the puzzle as many times as possible 
+for twenty minutes.  After training, participants were tested using the physical puzzle and were retested
+again after two weeks.  The coloring of the pieces during testing was also varied.  Spatial ability
+as measured using a mental rotation test, was shown to correlate with the number of assemblies they were
+able to complete in the training.  While physically training significantly outperformed virtual training
+for the initial test, there were no significant differences in the post test.  However, physically trained
+participants performed worse in the post test while the virtually trained participants performed better.
+This learning retention for those who were virtually trained is encouraging and is a potential future
+research area.
+
+## Media
+- **Video** [GOALI study overview (XVID, 41.5 MB)]("GOALI_xvid.avi")
+
+
+## Publications
+
+### Posters
+- [Peters, Anicia](http://anpeters.public.iastate.edu/Home.html) and [Carlson, Patrick](http://hci.iastate.edu/~carlsonp/)
+and [Gilbert, Stephen B.](http://www.vrac.iastate.edu/~gilbert/) and [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/)
+(2012).  [A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment](ETC_Poster_2012.pdf) _Emerging
+Technologies Conference_, Ames, IA, April 19-20, 2012 __(Winner most interesting research project)__
+- [Gilbert, Stephen B.](http://www.vrac.iastate.edu/~gilbert/)> and [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/)
+and [Peters, Anicia](http://anpeters.public.iastate.edu/Home.html) and [Carlson, Patrick](http://hci.iastate.edu/~carlsonp/).
+(2012).  [GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment](CMMI_2012.pdf).
+_NSF Engineering Research and Innovation Conference from the Division of Civil, Mechanical and Manufacturing Innovation (CMMI)_,
+Boston, MA, July 9-12, 2012
+
+### Conference Proceedings
+- [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/) and [Gilbert, Stephen B.](http://www.vrac.iastate.edu/~gilbert/)
+and [Oren, Mike](http://www.mikeoren.com/) and [Pavlik, Ryan](http://academic.cleardefinition.com/) and
+[Carlson, Patrick](http://hci.iastate.edu/~carlsonp/). (2011). "GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment", 
+_2011 NSF Engineering Research and Innovation Conference Proceedings_, Atlanta, GA, Jan 4-7, 2011
+- [Oren, Mike](http://www.mikeoren.com/) and [Carlson, Patrick](http://hci.iastate.edu/~carlsonp/)
+and [Gilbert, Stephen B.](http://www.vrac.iastate.edu/~gilbert/) and [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/) (2012). 
+"Puzzle assembly training: Real world vs. virtual environment", _IEEE Virtual Reality_, 
+March 4-8, 2012 Orange County, CA, DOI: [10.1109/VR.2012.6180873](http://dx.doi.org/10.1109/VR.2012.6180873).
+
+## Funding
+- [National Science Foundation](http://www.nsf.gov) - Grant Number: [CMMI-0928774](http://nsf.gov/awardsearch/showAward.do?AwardNumber=0928774)
+
+

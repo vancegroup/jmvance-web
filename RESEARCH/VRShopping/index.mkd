@@ -1,0 +1,60 @@
+---
+
+layout: research
+
+title: "Comparison of Single-Wall versus Multi-Wall Immersive Environments to Support a Virtual Shopping Experience"
+
+subtitle: "Iowa State University"
+
+image: "C6_user.png"
+
+image: "store.jpg"
+
+---
+
+## Overview
+
+This research looks at running user studies to identify the utility of using virtual reality and mocked up shopping
+carts to allow consumers to find products in a virtual store.  Virtual stores can be easily reconfigured and setup to
+allow for testing of product placement, eye tracking, navigation, and other features.
+
+In the first study, we ran a between-subjects experiment where participants were asked to navigate through a
+virtual store and find products.  One group navigated in the five-wall immersive environment and another group
+went through the single-wall immersive environment.  For the five-wall condition, participants could rotate the
+full 360 degrees.  For the one-wall condition, participants were restricted to 45 degrees to the left and right
+of the starting forward position.
+
+image: "cart.jpg"
+
+A mock shopping cart was created that was attached to a large "Lazy Susan" that can rotate a full 360 degrees.
+The handle of the cart moves back and forth and was attached to a gamepad joystick which handled movement in
+the virtual environment.
+
+
+In the study, participants were given a list of products to find and time on task was recorded.
+The participants in the five-wall immersive environment were significantly faster in locating the products
+than the participants in the one-wall immersive environment.  Participants in the five-wall condition also
+reported that the shopping cart was easier to use than in the one-wall condition.
+
+One downside of the study was the fact that the navigation method and the number of walls were
+actually two variables, thus only two conditions out of four possible were tested.  The next
+study will correct this where we will compare all four configurations of navigation method and number
+of walls.  In addition, the mock shopping cart has been redesigned, collision detection has been
+added to the virtual environment, and the overall experience has been improved.  Participants
+will start to be run through soon.
+
+## Media
+- **Video** [Virtual Shopping (WMV, 65.7 MB)]("Demo Video.wmv")
+
+
+## Publications
+
+- [Carlson, Patrick](http://hci.iastate.edu/~carlsonp/) and Kirpes, Carl and [Pavlik, Ryan](http://academic.cleardefinition.com/)
+and [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/) and Yin, Livien and Scott-Cooper, Terrence
+and Lambert, Troy.  (2011).  "Comparison of a Single-wall Versus Multi-wall Virtual Environments to Support a Virtual
+Shopping Experience", _ASME World Conference on Innovative Virtual Reality_, Milan, Italy, June 27-29, 2011.
+
+
+## Funding
+- Unfunded at this time.
+
