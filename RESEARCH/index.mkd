@@ -73,7 +73,7 @@ layout: base
 <strong>Note:</strong> any missing entries would go here!
 </div>
 
-#### [A Virtual environment for engineering design optimzation](../sen_opt/sen_opt.html)
+#### [A Virtual environment for engineering design optimization](../sen_opt/sen_opt.html)
 
 #### Synthetic Environments as Enabling Technology for Product Development: Phase I
 - Ryken, Mike, "Applying virtual reality techniques to the interactive stress analysis of a tractor lift arm," M.S. Thesis, Iowa State University, 1998
