@@ -5,7 +5,10 @@ title: Research Projects
 layout: base
 
 ---
+#### + Current Research
 
+
+#### + Previous Research
 #### Collaborative Research: Enhanced Immersive Technology to Improve Collaborative Decision Making
 
 #### [Haptics for Large Space Virtual Environments to Assess Assembly Tasks](MobileRobot/)
