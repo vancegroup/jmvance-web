@@ -7,13 +7,13 @@ layout: base
 ---
 #### + Current Research
 
-
-#### + Previous Research
-#### Collaborative Research: Enhanced Immersive Technology to Improve Collaborative Decision Making
+#### GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment
 
 #### [Haptics for Large Space Virtual Environments to Assess Assembly Tasks](MobileRobot/)
 
-#### GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment
+#### Collaborative Research: Enhanced Immersive Technology to Improve Collaborative Decision Making
+
+#### + Previous Research
 
 #### [Compliant Mechanism Design in a Virtual Environment](COMPLIANT/)
 
