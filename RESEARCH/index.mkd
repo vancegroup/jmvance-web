@@ -5,7 +5,7 @@ title: Research Projects
 layout: base
 
 ---
-#### + Current Research
+# Current Research
 
 #### GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment
 
@@ -13,7 +13,7 @@ layout: base
 
 #### Collaborative Research: Enhanced Immersive Technology to Improve Collaborative Decision Making
 
-#### + Previous Research
+# Previous Research
 
 #### [Compliant Mechanism Design in a Virtual Environment](COMPLIANT/)
 
@@ -68,7 +68,6 @@ layout: base
 
 #### [A Virtual Environment for Engineering Design Optimization](Optimization.html)
 - [Shape design with stress constraints](../SHAPE/SHAPE.html)
-
 
 #### [A Virtual environment for engineering design optimization](../sen_opt/sen_opt.html)
 
