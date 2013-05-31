@@ -69,9 +69,6 @@ layout: base
 #### [A Virtual Environment for Engineering Design Optimization](Optimization.html)
 - [Shape design with stress constraints](../SHAPE/SHAPE.html)
 
-<div class="alert">
-<strong>Note:</strong> any missing entries would go here!
-</div>
 
 #### [A Virtual environment for engineering design optimization](../sen_opt/sen_opt.html)
 
