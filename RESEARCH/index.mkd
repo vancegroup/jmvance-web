@@ -13,6 +13,8 @@ layout: base
 
 #### Collaborative Research: Enhanced Immersive Technology to Improve Collaborative Decision Making
 
+<br>
+
 # Previous Research
 
 #### [Compliant Mechanism Design in a Virtual Environment](COMPLIANT/)
