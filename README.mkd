@@ -27,6 +27,7 @@ See Jenkins: <https://no-salt.vrac.iastate.edu:8080/job/jmvance-web/>
 {% endif %}
 
 ## Quick links
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Bootstrap][]
 - [Liquid template syntax](https://github.com/shopify/liquid/wiki/liquid-for-designers)
 - [Jekyll template data for Liquid](https://github.com/mojombo/jekyll/wiki/Template-Data)
