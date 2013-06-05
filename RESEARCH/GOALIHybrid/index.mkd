@@ -16,9 +16,9 @@ image: "GOALI_1.jpg"
 Our research aims to improve the training of assembly tasks through the utilization of haptic devices,
 virtual reality, and accurate physics calculations.
 
-![User Interaction]("GOALI_2.jpg")
+![User Interaction](GOALI_2.jpg)
 
-![Burr Puzzle]("real-colored.jpg")
+![Burr Puzzle](real-colored.jpg)
 
 In training assembly workers in a factory, there are often barriers such as cost.  Assembly 
 lines need to be shutdown which can cause serious disruption for the factory.  Virtual reality 
@@ -37,7 +37,7 @@ about three times longer, the group that used the virtual environment was able t
 about three times faster than the group trained with the physical puzzle.
 
 
-![Physical Puzzle Assembly]("User.jpg")
+![Physical Puzzle Assembly](User.jpg)
 
 One issue with the above study was the time that participants had between physical and virtual training depended
 on how fast they were able to complete the two assemblies.  The increased amount of time with the puzzle for the virtual
