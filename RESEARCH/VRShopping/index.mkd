@@ -44,7 +44,7 @@ added to the virtual environment, and the overall experience has been improved. 
 will start to be run through soon.
 
 ## Media
-- **Video** ["Virtual Shopping (WMV, 65.7 MB)"](Demo Video.wmv)
+- **Video** [Virtual Shopping Demo Video](Demo Video.wmv)(WMV, 65.7 MB)
 
 
 ## Publications
