@@ -8,8 +8,6 @@ subtitle: "Iowa State University"
 
 image: "C6_user.png"
 
-image: "store.jpg"
-
 ---
 
 ## Overview
@@ -24,7 +22,9 @@ went through the single-wall immersive environment.  For the five-wall condition
 full 360 degrees.  For the one-wall condition, participants were restricted to 45 degrees to the left and right
 of the starting forward position.
 
-image: "cart.jpg"
+![Virtual Store]("store.jpg")
+
+![Mock Shopping Cart]("cart.jpg")
 
 A mock shopping cart was created that was attached to a large "Lazy Susan" that can rotate a full 360 degrees.
 The handle of the cart moves back and forth and was attached to a gamepad joystick which handled movement in
