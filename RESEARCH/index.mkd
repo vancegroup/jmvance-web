@@ -7,7 +7,7 @@ layout: base
 ---
 # Current Research
 
-#### GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment
+#### [GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment](GOALIHybrid/)
 
 #### [Haptics for Large Space Virtual Environments to Assess Assembly Tasks](MobileRobot/)
 
