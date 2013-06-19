@@ -64,5 +64,5 @@ Shopping Experience"](http://proceedings.asmedigitalcollection.asme.org/proceedi
 
 
 ## Funding
-- Unfunded at this time.
+- Funded by [NSF](http://www.nsf.gov) SPIRE-EIT REU Grant #: IIS-0851976
 
