@@ -51,8 +51,8 @@ will start to be run through soon.
 
 - [Carlson, Patrick](http://hci.iastate.edu/~carlsonp/) and Kirpes, Carl and [Pavlik, Ryan](http://academic.cleardefinition.com/)
 and [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/) and Yin, Livien and Scott-Cooper, Terrence
-and Lambert, Troy.  (2011).  "Comparison of a Single-wall Versus Multi-wall Virtual Environments to Support a Virtual
-Shopping Experience", _ASME World Conference on Innovative Virtual Reality_, Milan, Italy, June 27-29, 2011.
+and Lambert, Troy.  (2011).  ["Comparison of a Single-wall Versus Multi-wall Virtual Environments to Support a Virtual
+Shopping Experience"](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1623673), _ASME World Conference on Innovative Virtual Reality_, Milan, Italy, June 27-29, 2011.
 
 
 ## Funding
