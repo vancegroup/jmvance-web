@@ -13,6 +13,8 @@ layout: base
 
 #### Collaborative Research: Enhanced Immersive Technology to Improve Collaborative Decision Making
 
+#### [Virtual Shopping Experience](VRShopping)
+
 <br>
 
 # Previous Research
