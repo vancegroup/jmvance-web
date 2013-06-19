@@ -16,9 +16,17 @@ image: "GOALI_1.jpg"
 Our research aims to improve the training of assembly tasks through the utilization of haptic devices,
 virtual reality, and accurate physics calculations.
 
-![User Interaction](GOALI_2.jpg)
-
-![Burr Puzzle](real-colored.jpg)
+<figure id="figure-1">
+	<img src="GOALI_2.jpg" width="75%" height="75%" alt="User Interaction" title="User Interaction">
+	<figcaption>A user assembling virtual pieces using a Phantom Omni and 5DT Data Glove</figcaption>
+</figure>
+<br>
+<figure id="figure-2">
+	<img src="real-puzzle.jpg" alt="Wooden Burr Puzzle" title="Wooden Burr Puzzle">
+	<img src="real-colored.jpg" width="50%" height="50%" alt="Colored Burr Puzzle" title="Colored Burr Puzzle">
+	<img src="virtual-puzzle.jpg" alt="Virtual Burr Puzzle" title="Virtual Burr Puzzle">
+	<figcaption>The wooden physical burr puzzle (left), colored physical burr puzzle (middle), and virtual burr puzzle (right).</figcaption>
+</figure>
 
 In training assembly workers in a factory, there are often barriers such as cost.  Assembly 
 lines need to be shutdown which can cause serious disruption for the factory.  Virtual reality 
@@ -36,8 +44,10 @@ measured to determine how fast they were able to complete the testing.  While vi
 about three times longer, the group that used the virtual environment was able to assemble the physical puzzle testing
 about three times faster than the group trained with the physical puzzle.
 
-
-![Physical Puzzle Assembly](User.jpg)
+<figure id="figure-3">
+	<img src="User.jpg" width="50%" height="50%" alt="Physical Puzzle Assembly" title="Physical Puzzle Assembly">
+	<figcaption>A user assembling the physical burr puzzle.</figcaption>
+</figure>
 
 One issue with the above study was the time that participants had between physical and virtual training depended
 on how fast they were able to complete the two assemblies.  The increased amount of time with the puzzle for the virtual
