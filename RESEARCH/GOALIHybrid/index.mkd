@@ -83,7 +83,7 @@ Boston, MA, July 9-12, 2012
 ### Conference Proceedings
 - [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/) and [Gilbert, Stephen B.](http://www.vrac.iastate.edu/~gilbert/)
 and [Oren, Mike](http://www.mikeoren.com/) and [Pavlik, Ryan](http://academic.cleardefinition.com/) and
-[Carlson, Patrick](http://hci.iastate.edu/~carlsonp/). (2011). "GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment", 
+[Carlson, Patrick](http://hci.iastate.edu/~carlsonp/). (2011). ["GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment"](CMMI_GOALI_2010_JV3.pdf), 
 _2011 NSF Engineering Research and Innovation Conference Proceedings_, Atlanta, GA, Jan 4-7, 2011
 - [Oren, Mike](http://www.mikeoren.com/) and [Carlson, Patrick](http://hci.iastate.edu/~carlsonp/)
 and [Gilbert, Stephen B.](http://www.vrac.iastate.edu/~gilbert/) and [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/) (2012). 
