@@ -22,9 +22,17 @@ went through the single-wall immersive environment.  For the five-wall condition
 full 360 degrees.  For the one-wall condition, participants were restricted to 45 degrees to the left and right
 of the starting forward position.
 
-![Virtual Store](store.jpg)
+<figure id="figure-1">
+	<img src="store.jpg" alt="Virtual Store" title="Virtual Store">
+	<figcaption>The virtual store with a variety of aisles and products.</figcaption>
+</figure>
 
-![Mock Shopping Cart](cart.jpg)
+<br>
+
+<figure id="figure-2">
+	<img src="cart.jpg" alt="Mock Shopping Cart" title="Mock Shopping Cart">
+	<figcaption>The mock shopping cart.</figcaption>
+</figure>
 
 A mock shopping cart was created that was attached to a large "Lazy Susan" that can rotate a full 360 degrees.
 The handle of the cart moves back and forth and was attached to a gamepad joystick which handled movement in
