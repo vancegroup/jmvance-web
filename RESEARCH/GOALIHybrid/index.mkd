@@ -23,7 +23,7 @@ virtual reality, and accurate physics calculations.
 <br>
 <figure id="figure-2">
 	<img src="real-puzzle.png" alt="Wooden Burr Puzzle" title="Wooden Burr Puzzle">
-	<img src="real-colored.jpg" width="250" alt="Colored Burr Puzzle" title="Colored Burr Puzzle">
+	<img src="real-colored.jpg" width="150" alt="Colored Burr Puzzle" title="Colored Burr Puzzle">
 	<img src="virtual-puzzle.png" alt="Virtual Burr Puzzle" title="Virtual Burr Puzzle">
 	<figcaption>The wooden physical burr puzzle (left), colored physical burr puzzle (middle), and virtual burr puzzle (right).</figcaption>
 </figure>
