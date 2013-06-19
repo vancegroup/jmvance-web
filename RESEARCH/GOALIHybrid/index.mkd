@@ -17,14 +17,14 @@ Our research aims to improve the training of assembly tasks through the utilizat
 virtual reality, and accurate physics calculations.
 
 <figure id="figure-1">
-	<img src="GOALI_2.jpg" width="75%" height="75%" alt="User Interaction" title="User Interaction">
+	<img src="GOALI_2.jpg" width="350" alt="User Interaction" title="User Interaction">
 	<figcaption>A user assembling virtual pieces using a Phantom Omni and 5DT Data Glove</figcaption>
 </figure>
 <br>
 <figure id="figure-2">
-	<img src="real-puzzle.jpg" alt="Wooden Burr Puzzle" title="Wooden Burr Puzzle">
-	<img src="real-colored.jpg" width="50%" height="50%" alt="Colored Burr Puzzle" title="Colored Burr Puzzle">
-	<img src="virtual-puzzle.jpg" alt="Virtual Burr Puzzle" title="Virtual Burr Puzzle">
+	<img src="real-puzzle.png" alt="Wooden Burr Puzzle" title="Wooden Burr Puzzle">
+	<img src="real-colored.jpg" width="250" alt="Colored Burr Puzzle" title="Colored Burr Puzzle">
+	<img src="virtual-puzzle.png" alt="Virtual Burr Puzzle" title="Virtual Burr Puzzle">
 	<figcaption>The wooden physical burr puzzle (left), colored physical burr puzzle (middle), and virtual burr puzzle (right).</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ about three times longer, the group that used the virtual environment was able t
 about three times faster than the group trained with the physical puzzle.
 
 <figure id="figure-3">
-	<img src="User.jpg" width="50%" height="50%" alt="Physical Puzzle Assembly" title="Physical Puzzle Assembly">
+	<img src="User.jpg" width="300" alt="Physical Puzzle Assembly" title="Physical Puzzle Assembly">
 	<figcaption>A user assembling the physical burr puzzle.</figcaption>
 </figure>
 
