@@ -12,7 +12,7 @@ image: "C6_user.png"
 
 ## Overview
 
-This research looks at running user studies to identify the utility of using virtual reality and mocked up shopping
+This research examines running user studies to identify the utility of using virtual reality and mocked up shopping
 carts to allow consumers to find products in a virtual store.  Virtual stores can be easily reconfigured and setup to
 allow for testing of product placement, eye tracking, navigation, and other features.
 
