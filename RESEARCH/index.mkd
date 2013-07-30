@@ -7,6 +7,8 @@ layout: base
 ---
 # Current Research
 
+#### [Low Cost Virtual Reality for Engineering](LowCostVR2013/)
+
 #### [GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment](GOALIHybrid/)
 
 #### [Haptics for Large Space Virtual Environments to Assess Assembly Tasks](MobileRobot/)
