@@ -1,0 +1,26 @@
+---
+
+layout: research
+
+title: "Low-Cost Virtual Reality for Engineering"
+
+subtitle: "Demonstration at IDETC-CIE 2013"
+
+image: SomeImageName.jpg
+
+---
+
+## Overview
+Information here.
+
+## Software
+
+## Media
+
+## Personnel
+- [Ryan A. Pavlik](http://academic.cleardefinition.com/) - Graduate Research Assistant, Iowa State University
+- [Dr. Judy M. Vance](http://www.me.iastate.edu/directory/faculty/judy-vance/), Joseph C. and Elizabeth A. Anderlik Professor of Engineering, Iowa State University
+
+## Facilities
+- [Iowa State University](http://www.iastate.edu)
+- [Virtual Reality Applications Center](http://www.vrac.iastate.edu/)
