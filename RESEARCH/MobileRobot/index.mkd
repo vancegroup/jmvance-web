@@ -4,8 +4,6 @@ layout: research
 
 title: "Haptics for Large Space Virtual Environments to Assess Assembly Tasks"
 
-subtitle: "Iowa State University"
-
 image: Haption_on_robot_with_factory_scene.jpg
 
 ---
@@ -20,8 +18,8 @@ preliminary assembly wage rate standards in an immersive environment. This capab
 potential to significantly improve products and reduce costs by providing a simulation where
 manufacturing engineers and assembly workers could better plan assembly operations before building physical prototypes.
 
-Our approach to providing haptic interaction in a large space virtual environment is to combine a sixdegree-
-of-freedom haptic device with a mobile powered platform. Large space virtual environments
+Our approach to providing haptic interaction in a large space virtual environment is to combine a six
+degree-of-freedom haptic device with a mobile powered platform. Large space virtual environments
 can consist of arrangements of large screen projection systems that support position tracking and stereo
 viewing or rooms that have large area tracking combined with head mounted displays. Both types of
 facilities are available at Iowa State University: a 3m x 4m x 3m stereo projection environment and a
