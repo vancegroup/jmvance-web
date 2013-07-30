@@ -15,6 +15,8 @@ documentation applies.
 The source code for the site is kept at <https://github.com/vancegroup/jmvance-web>,
 and every push to GitHub triggers a rebuild.
 
+You can monitor the status of the build job here: <https://no-salt.vrac.iastate.edu:8080/job/jmvance-web/>
+
 ## Timestamp
 Generated {{ site.time | date_to_xmlschema }}
 
@@ -23,7 +25,6 @@ Generated {{ site.time | date_to_xmlschema }}
 
 {{ site.commitdesc }}
 
-See Jenkins: <https://no-salt.vrac.iastate.edu:8080/job/jmvance-web/>
 {% endif %}
 
 ## Quick links
