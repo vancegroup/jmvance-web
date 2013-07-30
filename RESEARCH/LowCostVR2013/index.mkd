@@ -19,6 +19,8 @@ image: summary_image_for_site_thm.jpg
 
 *TODO*: Expand on the information from the handout.
 
+*TODO*: Upload and link to Hydra modification info.
+
 ## Software
 All of the following software is open-source (licenses vary between projects).
 
