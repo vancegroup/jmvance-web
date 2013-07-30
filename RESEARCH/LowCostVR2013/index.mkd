@@ -2,24 +2,36 @@
 
 layout: research
 
-title: "Low-Cost Virtual Reality for Engineering"
+title: "Low-Cost Virtual Reality for Immersive Computing Environments"
 
 subtitle: "Demonstration at IDETC-CIE 2013"
 
-image: SomeImageName.jpg
+image: summary_image_for_site_thm.jpg
 
 ---
 
 ## Overview
-Information here.
+
+## Hardware
+[All three hardware configurations can be seen here.](summary_image_for_site.png)
+
+*TODO*: Expand on the information from the handout.
 
 ## Software
+All of the following software is open-source (licenses vary between projects).
 
-## Media
+*TODO*: Where is the overall git repo for the demo?
+
+- [VR JuggLua](https://github.com/vancegroup/vr-jugglua#readme) - Downloadable pre-compiled executables for Windows available.
+    - [VR Juggler JCONF configuration files](https://github.com/vancegroup/modular-stock-jconf) - includes the configurations used during the demo.
+- [VRPN](http://vrpn.org) - a standard server (integrating ISU implementation of Razer Hydra and Wii Remote headtracking) was used for the two non-Kinect configurations.
+    - [KiwiVR](https://github.com/vancegroup/KiwiVR#readme) - ISU-developed VRPN server for Kinect for Windows skeleton tracking and speech recognition
 
 ## Personnel
-- [Ryan A. Pavlik](http://academic.cleardefinition.com/) - Graduate Research Assistant, Iowa State University
 - [Dr. Judy M. Vance](http://www.me.iastate.edu/directory/faculty/judy-vance/), Joseph C. and Elizabeth A. Anderlik Professor of Engineering, Iowa State University
+- [Ryan A. Pavlik](http://academic.cleardefinition.com/) - Graduate Research Assistant, Iowa State University
+
+*TODO*: Extend the list of contributors
 
 ## Facilities
 - [Iowa State University](http://www.iastate.edu)
