@@ -31,6 +31,10 @@ All of the following software is open-source (licenses vary between projects).
 - [VRPN](http://vrpn.org) - a standard server (integrating ISU implementation of Razer Hydra and Wii Remote headtracking) was used for the two non-Kinect configurations.
     - [KiwiVR](https://github.com/vancegroup/KiwiVR#readme) - ISU-developed VRPN server for Kinect for Windows skeleton tracking and speech recognition
 
+## References
+
+*TODO*: List and link to applicable papers.
+
 ## Personnel
 - [Dr. Judy M. Vance](http://www.me.iastate.edu/directory/faculty/judy-vance/), Joseph C. and Elizabeth A. Anderlik Professor of Engineering, Iowa State University
 - [Ryan A. Pavlik](http://academic.cleardefinition.com/) - Graduate Research Assistant, Iowa State University
