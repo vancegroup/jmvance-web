@@ -27,8 +27,11 @@ All of the following software is open-source (licenses vary between projects).
 *TODO*: Where is the overall git repo for the demo?
 
 - [VR JuggLua](https://github.com/vancegroup/vr-jugglua#readme) - Downloadable pre-compiled executables for Windows available.
+
     - [VR Juggler JCONF configuration files](https://github.com/vancegroup/modular-stock-jconf) - includes the configurations used during the demo.
+    
 - [VRPN](http://vrpn.org) - a standard server (integrating ISU implementation of Razer Hydra and Wii Remote headtracking) was used for the two non-Kinect configurations.
+
     - [KiwiVR](https://github.com/vancegroup/KiwiVR#readme) - ISU-developed VRPN server for Kinect for Windows skeleton tracking and speech recognition
 
 ## References
