@@ -9,7 +9,11 @@ layout: base
 # Quick Links
 
 - Live web page: <http://public.vrac.iastate.edu/~jmvance/> (see also [live version of this readme](http://public.vrac.iastate.edu/~jmvance/README.html))
+
 - Jenkins build job: <https://no-salt.vrac.iastate.edu:8080/job/jmvance-web/>
+
+    - Latest build permalink: <https://no-salt.vrac.iastate.edu:8080/job/jmvance-web/lastBuild/>
+
 - GitHub repository: <https://github.com/vancegroup/jmvance-web>
 
 # Help
