@@ -55,10 +55,17 @@ It makes use of the following software:
 
 ## References
 
-- Pavlik, R. A., & Vance, J. M. (2011). VR JuggLua: A Framework for VR Applications Combining Lua, OpenSceneGraph, and VR Juggler. In *Workshop on Software Engineering and Architectures for Realtime Interactive Systems (SEARIS) in IEEE Virtual Reality*. Singapore: IEEE. doi:[10.1109/SEARIS.2012.6231166](http://dx.doi.org/10.1109/SEARIS.2012.6231166)
-*TODO*: List and link to applicable papers.
+- Pavlik, R. A., & Vance, J. M. (2011). VR JuggLua: A Framework for VR
+  Applications Combining Lua, OpenSceneGraph, and VR Juggler. In
+  *Workshop on Software Engineering and Architectures for Realtime
+  Interactive Systems (SEARIS) in IEEE Virtual Reality*. Singapore:
+  IEEE.
+  doi:[10.1109/SEARIS.2012.6231166](http://dx.doi.org/10.1109/SEARIS.2012.6231166)
+  
 
-- Pavlik, R. A., & Vance, J. M. (2010). A Modular Implementation of Wii Remote Head Tracking for Virtual Reality. In *ASME 2010 World Conference on Innovative Virtual Reality (WINVR 2010)* (pp. 351–359). Ames, Iowa, USA: ASME. doi:[10.1115/WINVR2010-3771](http://dx.doi.org/10.1115/WINVR2010-3771)
+- Pavlik, R. A., & Vance, J. M. (2010). A Modular Implementation of Wii
+  Remote Head Tracking for Virtual Reality. In *ASME 2010 World
+  Conference on Innovative Virtual Reality (WINVR 2010)* (pp. 351–359). Ames, Iowa, USA: ASME. doi:[10.1115/WINVR2010-3771](http://dx.doi.org/10.1115/WINVR2010-3771)
 
 ## Personnel
 - [Dr. Judy M. Vance](http://www.me.iastate.edu/directory/faculty/judy-vance/), Joseph C. and Elizabeth A. Anderlik Professor of Engineering, Iowa State University
