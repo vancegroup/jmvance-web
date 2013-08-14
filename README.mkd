@@ -6,6 +6,12 @@ layout: base
 
 ---
 
+# Quick Links
+
+- Live web page: <http://public.vrac.iastate.edu/~jmvance/> (see also [live version of this readme](http://public.vrac.iastate.edu/~jmvance/README.html))
+- Jenkins build job: <https://no-salt.vrac.iastate.edu:8080/job/jmvance-web/>
+- GitHub repository: <https://github.com/vancegroup/jmvance-web>
+
 # Help
 This web site is generated using [Jekyll][], [Liquid][] templating, and
 the [Bootstrap][] basic HTML5 styles. The process is actually almost
@@ -15,9 +21,11 @@ documentation applies.
 The source code for the site is kept at <https://github.com/vancegroup/jmvance-web>,
 and every push to GitHub triggers a rebuild.
 
-You can monitor the status of the build job here: <https://no-salt.vrac.iastate.edu:8080/job/jmvance-web/>
+[SparkleShare](http://sparkleshare.org/) is useful for working on this site: see [Ryan's blog post](http://academic.cleardefinition.com/2013/05/02/if-you-mixed-git-and-dropbox-and-made-it-open-source/) to get started.
 
 ## Timestamp
+*Yes, this section looks weird on GitHub.  See the live readme above for it to make more sense*
+
 Generated {{ site.time | date_to_xmlschema }}
 
 {% if site.commitid %}
