@@ -19,7 +19,7 @@ exactly like how [GitHub Pages][] are generated, so pretty much all that
 documentation applies.
 
 The source code for the site is kept at <https://github.com/vancegroup/jmvance-web>,
-and every push to GitHub triggers a rebuild.
+and every push to GitHub triggers a rebuild. (The first update in a while will take a few minutes, as it has some waiting periods built in. Also, after detecting an update, there's a 1 minute quiet period while it waits to see if there will be other related changes coming in before building).
 
 [SparkleShare](http://sparkleshare.org/) is useful for working on this site: see [Ryan's blog post](http://academic.cleardefinition.com/2013/05/02/if-you-mixed-git-and-dropbox-and-made-it-open-source/) to get started.
 
