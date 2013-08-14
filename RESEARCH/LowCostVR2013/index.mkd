@@ -9,18 +9,18 @@ subtitle: "Demonstration at IDETC-CIE 2013"
 image: summary_image_for_site_thm.jpg
 
 ---
-
+<!--
 ## Overview
 
 *TODO*
-
+-->
 ## Hardware
 [All three hardware configurations can be seen here.](summary_image_for_site.png)
-
+<!--
 *TODO*: Expand on the information from the handout.
 
 *TODO*: Upload and link to Hydra modification info.
-
+-->
 ## Software
 All of the following software is open-source (licenses vary between projects).
 
