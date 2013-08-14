@@ -34,10 +34,12 @@ Carlson.
 
 It makes use of the following software:
 - [VR JuggLua](https://github.com/vancegroup/vr-jugglua#readme) -
-   Developed at ISU VRAC, initially by Ryan Pavlik. Downloadable
-   pre-compiled executables for Windows are available from that page.
+  Developed at ISU VRAC, initially by Ryan Pavlik. Downloadable
+  pre-compiled executables for Windows are available from that page.
 
-    - [VR Juggler JCONF configuration files](https://github.com/vancegroup/modular-stock-jconf) - includes the configurations used during the demo.
+    - [VR Juggler JCONF configuration
+      files](https://github.com/vancegroup/modular-stock-jconf) -
+      includes the configurations used during the demo.
     
 - [VRPN](http://vrpn.org) - a standard server (integrating ISU
   implementation of Razer Hydra and Wii Remote headtracking) was used
