@@ -5,13 +5,6 @@ title: Publications
 layout: base
 
 ---
----
-
-title: Publications
-
-layout: base
-
----
 
 ### 2010
 
