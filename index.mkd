@@ -80,3 +80,5 @@ Ames, IA 50011</address>
 - Summer Intern, John Deere Des Moines Works, Ankeny, IA, 1979-80	
 - Co-Op Student, Maytag, Newton, IA, 1978
 
+## News
+2012-06-11 <a href=http://archive.news.iastate.edu/news/2011/dec/METaL> Iowa State's METaL lab develops multiple ways to experience virtual reality </a>
