@@ -58,6 +58,7 @@ Ames, IA 50011</address>
 - Email: <a href="mailto:jmvance@iastate.edu">jmvance@iastate.edu</a>
 
 ## News
+2012-08-24 [Vance receives honorary doctorate](http://news.engineering.iastate.edu/2012/08/24/vance-receives-honorary-doctorate/)
 2012-06-11 [Iowa State's METaL lab develops multiple ways to experience virtual reality](http://archive.news.iastate.edu/news/2011/dec/METaL)
 
 ## Education
