@@ -3,4 +3,4 @@ gem "jekyll"
 gem "kramdown"
 gem "RedCloth"
 gem "gsl"
-
+gem "jekyll-scholar"
