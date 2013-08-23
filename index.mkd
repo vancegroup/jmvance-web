@@ -6,7 +6,7 @@ layout: base
 
 ---
 
-# Dr. Judy M. Vance
+## Dr. Judy M. Vance
 
 
 {% capture bio %}
@@ -45,7 +45,7 @@ and spatial mechanism design.
     </div>
 </div>
 
-## Contact Information
+### Contact Information
 <address>
 Dr. Judy M. Vance<br>
 Iowa State University<br>
@@ -57,16 +57,16 @@ Ames, IA 50011</address>
 - Fax: 515-294-5530
 - Email: <a href="mailto:jmvance@iastate.edu">jmvance@iastate.edu</a>
 
-## News
+### News
 2012-08-24 [Vance receives honorary doctorate](http://news.engineering.iastate.edu/2012/08/24/vance-receives-honorary-doctorate/) <br>
 2012-06-11 [Iowa State's METaL lab develops multiple ways to experience virtual reality](http://archive.news.iastate.edu/news/2011/dec/METaL)
 
-## Education
+### Education
 - Iowa State University, Mechanical Engineering, Ph.D. 1992
 - Iowa State University, Mechanical Engineering, M.S. 1987
 - Iowa State University, Mechanical Engineering, B.S. 1980
 
-## Appointments
+### Appointments
 - Joseph C. and Elizabeth A. Anderlik Professor of Engineering, 2010-present
 - Professor, Department of Mechanical Engineering, Iowa State University, 2003-present
 - Program Director, Engineering Design and Innovation, National Science Foundation, 2006-08
@@ -78,7 +78,7 @@ Ames, IA 50011</address>
 - Adjunct Instructor, Division of Engineering Fundamentals and Multidisciplinary Design, Iowa State University, 1984-87 
 
 
-## Industrial And Other Non-Academic Experience
+### Industrial And Other Non-Academic Experience
 - Mechanical Engineer, John Deere Des Moines Works, Ankeny, IA, 1980-84
 - Summer Intern, John Deere Des Moines Works, Ankeny, IA, 1979-80	
 - Co-Op Student, Maytag, Newton, IA, 1978
