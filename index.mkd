@@ -58,7 +58,7 @@ Ames, IA 50011</address>
 - Email: <a href="mailto:jmvance@iastate.edu">jmvance@iastate.edu</a>
 
 ## News
-2012-06-11 <a href="http://archive.news.iastate.edu/news/2011/dec/METaL"> Iowa State's METaL lab develops multiple ways to experience virtual reality </a>
+2012-06-11 [Iowa State's METaL lab develops multiple ways to experience virtual reality](http://archive.news.iastate.edu/news/2011/dec/METaL)
 
 ## Education
 - Iowa State University, Mechanical Engineering, Ph.D. 1992
