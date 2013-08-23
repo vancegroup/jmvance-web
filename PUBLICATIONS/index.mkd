@@ -5,3 +5,356 @@ title: Publications
 layout: base
 
 ---
+---
+
+title: Publications
+
+layout: base
+
+---
+
+### 2010
+
+- [Virtual reality for assembly methods prototyping: a review][3]
+
+- [Combining Dynamic Modeling with Geometric Constraint Management to Support Low Clearance Virtual Manual Assembly Tasks][4]
+
+- [Assessment of Pointshell Shrinking and Feature Size on Virtual Manual Assembly][5]
+
+- [A Modular Implementation of Wii Remote Head Tracking for Virtual Reality][6]
+
+
+### 2009
+
+- [A Screw Theory Approach for the Conceptual Design of Flexible Joints for Compliant Mechanisms][8]
+
+- [A Virtual Reality Interface for the Design of Compliant Mechanisms][9]
+
+- [Human Centered Multimodal 3D User Interface for Desktop VR Assembly][10]
+
+- [Assessment of Haptics-based Interaction for Assembly Tasks in Virtual Reality][11]
+
+- [Haptic Feedback to Guide Interactive Product Design][12]
+
+- [Collaborative Research: Constraint-based Compliant Mechanism Design using Virtual Reality as a Design Interface][13]
+
+### 2008
+
+- [Development of a dual-handed haptic assembly system: SHARP][15]
+
+- [Interactive Deformation through Mesh-Free Stress Analysis in Virtual Reality][16]
+
+- [A View of Design Research][17]
+
+### 2007
+
+- [Desktop haptic virtual assembly using physically-based modeling][19]
+
+- [Interactive interrogation of computational mixing data in a virtual environment][20]
+
+- [Interactive mesh-free stress analysis for mechanical design assembly with Haptics][21]
+
+- [Combining Geometric Constraints with Physics modeling for Virtual Assembly using SHARP ][22]
+
+
+### 2006
+
+- [Fast Meshless Reanalysis Using Combined Approximations, Pre-Conditioned Conjugate Gradient, and Taylor Series][24]
+
+- [SHARP: A System for Haptic Assembly and Realistic Prototyping][25]
+
+- [A characterization of potential women engineering administrators in academia][26]
+
+- [A Dual-handed Haptic Interface for Virtual Assembly][27]
+
+- [Concurrent operations simulation in immersive virtual reality][28]
+
+### 2005
+
+- [A desktop networked haptic VR interface for mechanical assembly][30]
+
+- [Virtual reality interactive design utilizing meshless stress re-analysis][31]
+
+- [Women in Engineering Leadership Institute (WELI)][32]
+
+- [Using a Web-Based Query Engine and Immersive Virtual Reality to Select and View 3D Anthropometry in Vehicle Operator Workstation Design][33]
+
+### 2004
+
+- [Integrating Operations Simulation Results with an Immersive Virtual Reality Environment][35]
+
+- [Development of a Networked Haptic Environment in VR to Facilitate Collaborative Design Using Voxmap Pointshell (VPS) Software][36]
+
+- [Collision Detection and Part Interaction Modeling to Facilitate Immersive Virtual Assembly Methods][37]
+
+- [An Overview of the VrM3D Virtual Design Program][38]
+
+### 2003
+
+- [An Immersive Workstation Design Tool Using Three-dimensional Anthropometric Data][40]
+
+- [Discrete Event Simulation Implemented in a Virtual Environment][41]
+
+- [Image Warping of Three-Dimensional Scan Data][42]
+
+- [PHANToM Haptic Device Implemented in a Projection Screen Virtual Environment][43]
+
+- [Interactive product development in a virtual environment utilizing haptics][44]
+
+### 2002
+
+- [Interactive Visualization of the Line Congruences Associated with Four Finite Spatial Poses for Spatial Mechanism Design][46]
+
+- [Spatial mechanism design in virtual reality with networking][47]
+
+- [Interactive virtual tools for manipulating NURBS surfaces in a virtual environment][48]
+
+- [VRSpatial: Designing spatial mechanisms using virtual reality][49]
+
+- [Implementing speech recognition in virtual reality][50]
+
+- [Modeling of hydraulic hose paths][51]
+
+- [Stiffness testing of hydraulic hoses][52]
+
+- [VRHOSE: Hydraulic hose routing in virtual reality with JACK(tm); ][53]
+
+- [Using Population Data and Immersive Virtual Reality for Ergonomic Design of Operator Workstations][54]
+
+- [Implementing Haptic Feedback in a Projection Screen Virtual Environment][55]
+
+- [Women in Engineering Leadership Institute: Academic Leadership Development Plans][56]
+
+- [Interactive product development in a virtual environment utilizing haptics][57]
+
+- [VRSpatial: A Virtual Environment for Spatial Mechanism Design][58]
+
+### 2001
+
+- [VEMECS: A Virtual Reality Interface for Spherical Mechanism Design][60]
+
+- [Creating a Virtual Environment for Spatial Mechanism Design][61]
+
+- [Virtual Reality Techniques to Improve Product Design][62]
+
+- [Assessment of VR Technology and its Applications to Engineering Problems][63]
+
+- [Interactive Virtual Tools for Manipulating NURBS Surfaces in a Virtual Environment][64]
+
+- [Effectiveness of Haptic Sensation for the Evaluation of Virtual Prototypes][65]
+
+- [Spatial Mechanism Design in Virtual Reality with Networking][66]
+
+- [The Use of the Voxmap Pointshell Method of Collision Detection in Virtual Assembly Methods Planning][67]
+
+### 2000
+
+- [Applying Virtual Reality Techniques to the Interactive Stress Analysis of a Tractor Lift Arm][69]
+
+- [Creating a Virtual Environment for Spatial Mechanism Design][70]
+
+- [Virtual Reality Techniques to Improve Product Design][71]
+
+- [Interactive Visualization of the Line Congruences Associated with Four Finite Spatial Poses][72]
+
+### 1999
+
+- [CAREER: Virtual Reality Techniques to Improve Product Design][74]
+
+- [Spatial Mechanism Design in a Virtual Environment][75]
+
+- [Visualization of Post-Processed CFD Data in a Virtual Environment][76]
+
+- [VRHose - Virtual Hydraulic Hose Routing Design][77]
+
+- [Interactive Virtual Tools for Manipulating NURBS Surfaces in a Virtual Environment][78]
+
+- [Assessing the Effectiveness of Traditional and Virtual Reality Interfaces in Spherical Mechanism Design][79]
+
+- [Spherical Mechanism Synthesis in Virtual Reality][80]
+
+### 1998
+
+- [A Virtual Environment for Engineering Design Optimization][82]
+
+- [Virtual Reality Techniques to Improve Product Design and Integrating Active Learning Techniques into the Engineering Classroom][83]
+
+- [Using a Workstation-based Versus a Virtual Reality-based Human Computer Interface to Design Spherical Mechanisms][84]
+
+- [Structural Shape Optimization in a Synthetic Environment][85]
+
+- [Spherical Mechanism Synthesis in Virtual Reality][86]
+
+- [The VRFactory: Discrete Event Simulation Implementated in a Virtual Environment][87]
+
+- [A Comparison of Traditional and Virtual Reality Training][88]
+
+- [Applying Virtual Reality Techniques to the INteractive Stress Analysis of a Tractor Lift Arm][89]
+
+- [Interactive Design of Structural Systems in a Virtual Environment][90]
+
+- [Applying Virtual Reality Techniques to Sensitivity-Based Structural Shape Design][91]
+
+- [Creating a Virtual Reality Environment for Spherical Mechanism Design][92]
+
+### 1997
+
+- [A Virtual Environment for Engineering Design Optimization][94]
+
+- [A Virtual Reality Environment for Spherical Mechanism Design][95]
+
+- [Visualization of Structural Impact Problems in a Virtual Environment][96]
+
+- [Interactive Design of Structural Systems in a Virtual Environment][97]
+
+- [Virtual Prototyping for Concurrent Engineering][98]
+
+- [Applying Virtual Reality Techniques to Sensitivity-based Structural Shape Design][99]
+
+- [Combining MSC/NASTRAN, Sensitivity Methods, and Virtual Reality to Facilitate Interactive Design][100]
+
+### 1996
+
+- [Virtual Reality: What Potential Does it Hold for Engineering?][102]
+
+- [A Virtual Environment for Engineering Design Optimization][103]
+
+- [Using Pad? Approximants and Curve-fitting to Approximate Eigenvalues and Eigenvectors for Large Design Changes][104]
+
+- [Mesh Reduction Using an Angle Criterion Approach][105]
+
+- [Use of MSC/NASTRAN for Interactive Design in a Virtual Environment Allows Easy, Quick Design Changes][106]
+
+- [A Computer Tool to Facilitate Cross-Attribute Optimization][107]
+
+### 1995
+
+- [A Virtual Environment for Engineering Design Optimization][109]
+
+- [Combining MSC/NASTRAN, Sesitivity Methods, and Virtual Reality to Facilitate Interactive Design][110]
+
+- [Research in Implementing a Virtual Environment for Engineering Design][111]
+
+- [A Virtual Reality Environment for Spherical Four-bar Mechanisms][112]
+
+- [A Mesh Reduction Approach to Parametric Surface Polygonization][113]
+
+- [Virtual Training in Manufacturing Systems Using TELEGRIP][114]
+
+- [Interactive Design of Structural Systems in a Virtual Environment][90]
+
+- [Multi-function Optimization and Visualization Environment][115]
+
+### 1994
+
+- [Visual Interaction in Acoustic-structural Analysis of Automobiles][117]
+
+### 1993
+
+- [Approximating Eigenvalues And Eigenvectors Using Pad Approximants][119]
+
+- [Approximating Eigenvectors and Eigenvalues Across a Wide Range of Design][120]
+
+
+
+   [3]: http://public.vrac.iastate.edu/2010Htmls/VR_asbly_proto_revw.html
+   [4]: http://public.vrac.iastate.edu/2010Htmls/dynmod.html
+   [5]: http://public.vrac.iastate.edu/2010Htmls/pointshell.html
+   [6]: http://public.vrac.iastate.edu/2010Htmls/wii.html
+   [8]: http://public.vrac.iastate.edu/2009Htmls/ASME_JMR_Final09.html
+   [9]: http://public.vrac.iastate.edu/2009Htmls/NSF09_VR_Interface.html
+   [10]: http://public.vrac.iastate.edu/2009Htmls/HCMM3D.html
+   [11]: http://public.vrac.iastate.edu/2009Htmls/DaoPaper.html
+   [12]: http://public.vrac.iastate.edu/2009Htmls/HFeedbackGuide.html
+   [13]: http://public.vrac.iastate.edu/2009Htmls/CollabResearch.html
+   [15]: http://public.vrac.iastate.edu/2008html/Pub_08-SHARP-JCISE08.htm
+   [16]: http://public.vrac.iastate.edu/2008html/Pub.08-IVDA-DETC08.htm
+   [17]: http://public.vrac.iastate.edu/2008html/DesignResearch.html
+   [19]: http://public.vrac.iastate.edu/2007Htmls/Pub_07-virtual-reality.htm
+   [20]: http://public.vrac.iastate.edu/2007Htmls/Pub_07-mech-design.htm
+   [21]: http://public.vrac.iastate.edu/2007Htmls/Pub.07-IVDA-DETC.htm
+   [22]: http://public.vrac.iastate.edu/2007Htmls/Pub_07-SHARP-IDETC07.htm
+   [24]: http://public.vrac.iastate.edu/2006Htmls/Pub.06-FastMeshless.htm
+   [25]: http://public.vrac.iastate.edu/2006Htmls/Pub.06-SHARP.htm
+   [26]: http://public.vrac.iastate.edu/2006Htmls/Pub.06-WomenAcademia.htm
+   [27]: http://public.vrac.iastate.edu/2006Htmls/Pub.06-VirtualAssembly.htm
+   [28]: http://public.vrac.iastate.edu/2006Htmls/Pub.06-ConcurrentOperations.htm
+   [30]: http://public.vrac.iastate.edu/2005Htmls/Pub.05-MechanicalAssembly.htm
+   [31]: http://public.vrac.iastate.edu/2005Htmls/Pub.05-MeshlessStress.htm
+   [32]: http://public.vrac.iastate.edu/2005Htmls/Pub.05-WELI.htm
+   [33]: http://public.vrac.iastate.edu/2005Htmls/Pub.05-3DAnthropometry.htm
+   [35]: http://public.vrac.iastate.edu/2004Htmls/Pub.04-ConcurrentOperations.htm
+   [36]: http://public.vrac.iastate.edu/2004Htmls/Pub.04-NetworkHaptic.htm
+   [37]: http://public.vrac.iastate.edu/2004Htmls/Pub.04-PartInteraction.htm
+   [38]: http://public.vrac.iastate.edu/2004Htmls/Pub.04-VrM3D.htm
+   [40]: http://public.vrac.iastate.edu/2003Htmls/Pub.03-Immersive.htm
+   [41]: http://public.vrac.iastate.edu/2003Htmls/Pub.03-DiscreteEvent.htm
+   [42]: http://public.vrac.iastate.edu/2003Htmls/Pub.03-3DWrap.htm
+   [43]: http://public.vrac.iastate.edu/2003Htmls/Pub.03-PHANToM.htm
+   [44]: http://public.vrac.iastate.edu/2003Htmls/Pub.03-HapticDev.htm
+   [46]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-Sp.Mech.htm
+   [47]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-Sp.MechNet.htm
+   [48]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRTool.htm
+   [49]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRSpatialMech.htm
+   [50]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRSpeech.htm
+   [51]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-HoseModel.htm
+   [52]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-HoseStiff.htm
+   [53]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRHOSE.htm
+   [54]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRErgDesign.htm
+   [55]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-Haptic.htm
+   [56]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-WomenLead.htm
+   [57]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-HapticDev.htm
+   [58]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRSpatialDesign.htm
+   [60]: http://public.vrac.iastate.edu/jan01.htm
+   [61]: http://public.vrac.iastate.edu/jan01a.htm
+   [62]: http://public.vrac.iastate.edu/jan01b.htm
+   [63]: http://public.vrac.iastate.edu/mar01.htm
+   [64]: http://public.vrac.iastate.edu/apr01.htm
+   [65]: http://public.vrac.iastate.edu/sept01a.htm
+   [66]: http://public.vrac.iastate.edu/sept01b.htm
+   [67]: http://public.vrac.iastate.edu/sept01c.htm
+   [69]: http://public.vrac.iastate.edu/2000.htm
+   [70]: http://public.vrac.iastate.edu/jan00.htm
+   [71]: http://public.vrac.iastate.edu/jan00b.htm
+   [72]: http://public.vrac.iastate.edu/july00.htm
+   [74]: http://public.vrac.iastate.edu/jan99.htm
+   [75]: http://public.vrac.iastate.edu/jan99a.htm
+   [76]: http://public.vrac.iastate.edu/sept99.htm
+   [77]: http://public.vrac.iastate.edu/nov99.htm
+   [78]: http://public.vrac.iastate.edu/nov99b.htm
+   [79]: http://public.vrac.iastate.edu/dec99.htm
+   [80]: http://public.vrac.iastate.edu/dec99b.htm
+   [82]: http://public.vrac.iastate.edu/jan98a.htm
+   [83]: http://public.vrac.iastate.edu/jan98b.htm
+   [84]: http://public.vrac.iastate.edu/jan98c.htm
+   [85]: http://public.vrac.iastate.edu/apr98.htm
+   [86]: http://public.vrac.iastate.edu/sept98b.htm
+   [87]: http://public.vrac.iastate.edu/sept98a.htm
+   [88]: http://public.vrac.iastate.edu/sept98c.htm
+   [89]: http://public.vrac.iastate.edu/oct98.htm
+   [90]: http://public.vrac.iastate.edu/oct95b.htm
+   [91]: http://public.vrac.iastate.edu/dec98.htm
+   [92]: http://public.vrac.iastate.edu/1998.htm
+   [94]: http://public.vrac.iastate.edu/jan97.htm
+   [95]: http://public.vrac.iastate.edu/jan97b.htm
+   [96]: http://public.vrac.iastate.edu/apr97.htm
+   [97]: http://public.vrac.iastate.edu/may97.htm
+   [98]: http://public.vrac.iastate.edu/july97.htm
+   [99]: http://public.vrac.iastate.edu/sept97.htm
+   [100]: http://public.vrac.iastate.edu/1997.htm
+   [102]: http://public.vrac.iastate.edu/jan96.htm
+   [103]: http://public.vrac.iastate.edu/jan96b.htm
+   [104]: http://public.vrac.iastate.edu/mar96.htm
+   [105]: http://public.vrac.iastate.edu/jun96b.htm
+   [106]: http://public.vrac.iastate.edu/july96.htm
+   [107]: http://public.vrac.iastate.edu/sept96.htm
+   [109]: http://public.vrac.iastate.edu/jan95.htm
+   [110]: http://public.vrac.iastate.edu/may95.htm
+   [111]: http://public.vrac.iastate.edu/july95.htm
+   [112]: http://public.vrac.iastate.edu/sept95.htm
+   [113]: http://public.vrac.iastate.edu/sept95b.htm
+   [114]: http://public.vrac.iastate.edu/oct95.htm
+   [115]: http://public.vrac.iastate.edu/nov95.htm
+   [117]: http://public.vrac.iastate.edu/sept94.htm
+   [119]: http://public.vrac.iastate.edu/sept93.htm
+   [120]: http://public.vrac.iastate.edu/fea93.htm
