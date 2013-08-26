@@ -13,7 +13,7 @@ layout: base
 
 #### [Haptics for Large Space Virtual Environments to Assess Assembly Tasks](MobileRobot/)
 
-#### Collaborative Research: Enhanced Immersive Technology to Improve Collaborative Decision Making
+#### [Collaborative Research: Enhanced Immersive Technology to Improve Collaborative Decision Making](UncertaintyVisualization/)
 
 #### [Virtual Shopping Experience](VRShopping)
 

@@ -1,0 +1,73 @@
+---
+
+layout: research
+
+title: "Collaborative Research:Enhanced Immersive Technology to Improve Collaborative Decision Making"
+
+subtitle: "Iowa State University & University of Illinois at Urbana-Champaign"
+
+---
+
+
+
+## Overview
+
+This research seeks to explore new design processes, based on immersive technology, that support design team interaction 
+in ways that achieve designs that could not be achieved with traditional interfaces. We want immersive computer design 
+systems to embed design processes that are better than what humans can do on their own, and that arrive at better 
+results, not just the same result, only faster. The key to achieving this vision is to use the unique capabilities 
+of ICDT to support an increased level of technical understanding between cross disciplinary team members. In particular,
+we want to use ICDT technology to avoid many of the limitations and weaknesses of traditional design, while better 
+exploiting the strengths that humans bring to the process. Humans employ a broad set of heuristics in order to function 
+in the real world, particularly when dealing with large amounts of information and tradeoffs under uncertainty.  
+Most of these heuristics are necessary and useful shortcuts, and represent the unique contribution of human 
+capabilities to the design process. However, some heuristics are systematically biased in ways that lead decision 
+makers AWAY from the decision that is in their own best interests, resulting in designs that do not satisfy the 
+designer’s true preference. For example, assigning weighting factors to reflect “relative importance” has been 
+demonstrated to lead the designer to overcompensate, and create a design weakness that did not previously exist.  
+We do not desire to replace the “human in the loop” but to augment the skills and discussions among collaborators 
+in ways that build upon the strengths of the human and the ICDT. We see the potential for ICDT to steer the design 
+team away from getting trapped in a cycle of unintended consequences. 
+
+image: "tradeoff.jpg"
+<br>
+
+## Publications
+
+### Posters
+- [Berg, Leif](http://lpberg.com), [Behdad, Sara](http://www.buffalo.edu/directory/find-people-detail-page.html?uid=sarabehd)
+, [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/), and [Thurston, Deborah](http://ise.illinois.edu/directory/faculty/thurston)
+(2012).  [Enhanced Immersive Technology to Improve Collaborative Decision Making](Berg_NSF_Poster_2012.pdf) _Emerging
+Technologies Conference_, Ames, IA, April 19-20, 2012 
+
+- [Berg, Leif](http://lpberg.com/), [Behdad, Sara](http://www.buffalo.edu/directory/find-people-detail-page.html?uid=sarabehd)
+, [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/), and [Thurston, Deborah](http://ise.illinois.edu/directory/faculty/thurston)
+(2012).  [Enhanced Immersive Technology to Improve Collaborative Decision Making](Berg_NSF_Poster_2013.pdf) _Emerging
+Technologies Conference_, Ames, IA, April 24-25, 2012 
+
+
+### Publications
+- Behdad, S., Berg, L., Thurston, D., and Vance, J., “Synergy between Normative and Descriptive Design Theory and Methodology” 
+Accepted to the ASME 2012 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, IDETC/DTM 2013
+Aug. 4-7, Chicago, Illinois, USA.
+
+- Berg, L., Behdad, S., Vance, J., and Thurston, D., “Disassembly Evaluation and Training using Graph Visualization and Immersive Computing Technologies” 
+Accepted to the ASME 2012 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, IDETC/CIE 2012
+Aug. 12-15, Chicago, Illinois, USA.
+
+- Behdad, S., Berg, L., Thurston, D., and Vance, J., “Integrating Immersive Computing Technology with Mixed-Integer Nonlinear Programming for Disassembly Sequence Planning under Uncertainty” 
+Accepted to the ASME 2012 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, IDETC/DTM 2012 
+Aug. 12-15, Chicago, Illinois, USA.
+
+- Behdad, S., Berg, L., Vance, J., and Thurston, D., “Immersive Computing Technology to Investigate Tradeoffs under Uncertainty in Disassembly Sequence Planning” 
+Accepted to the ASME: Journal of Mechanical Design 
+January 2012.
+
+- Behdad, S., Berg, L., Thurston, D., and Vance, J., “Integrating Immersive Computing Technology with Mixed-Integer Nonlinear Programming for Disassembly Sequence Planning under Uncertainty”
+Accepted to the ASME: Journal of Mechanical Design 
+May 2012.
+
+## Funding
+- [National Science Foundation](http://www.nsf.gov) - Grant Number: [CMMI-1068926](http://nsf.gov/awardsearch/showAward.do?AwardNumber=1068926)
+
+
