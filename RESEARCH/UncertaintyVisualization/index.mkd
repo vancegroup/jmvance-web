@@ -29,10 +29,7 @@ We do not desire to replace the “human in the loop” but to augment the skill
 in ways that build upon the strengths of the human and the ICDT. We see the potential for ICDT to steer the design 
 team away from getting trapped in a cycle of unintended consequences. 
 
-image: "tradeoff.jpg"
-<br>
-
-## Publications
+<img src="metal.jpg" width="450">
 
 ### Posters
 - [Berg, Leif](http://lpberg.com), [Behdad, Sara](http://www.buffalo.edu/directory/find-people-detail-page.html?uid=sarabehd)
@@ -70,4 +67,6 @@ May 2012.
 ## Funding
 - [National Science Foundation](http://www.nsf.gov) - Grant Number: [CMMI-1068926](http://nsf.gov/awardsearch/showAward.do?AwardNumber=1068926)
 
-
+## Facilities
+- [Iowa State University](http://www.iastate.edu)
+- [Virtual Reality Applications Center](http://www.vrac.iastate.edu/)
