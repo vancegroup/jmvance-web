@@ -34,13 +34,13 @@ team away from getting trapped in a cycle of unintended consequences.
 ### Posters
 - [Berg, Leif](http://lpberg.com), [Behdad, Sara](http://www.buffalo.edu/directory/find-people-detail-page.html?uid=sarabehd)
 , [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/), and [Thurston, Deborah](http://ise.illinois.edu/directory/faculty/thurston)
-(2012).  [Enhanced Immersive Technology to Improve Collaborative Decision Making](Berg_NSF_Poster_2012.pdf) _Emerging
+(2012).  [Enhanced Immersive Technology to Improve Collaborative Decision Making](Berg_NSF_Poster_2012.pdf) (21 MB.) _Emerging
 Technologies Conference_, Ames, IA, April 19-20, 2012 
 
 - [Berg, Leif](http://lpberg.com/), [Behdad, Sara](http://www.buffalo.edu/directory/find-people-detail-page.html?uid=sarabehd)
 , [Vance, Judy M.](http://www.vrac.iastate.edu/~jmvance/), and [Thurston, Deborah](http://ise.illinois.edu/directory/faculty/thurston)
-(2012).  [Enhanced Immersive Technology to Improve Collaborative Decision Making](Berg_NSF_Poster_2013.pdf) _Emerging
-Technologies Conference_, Ames, IA, April 24-25, 2012 
+(2013).  [Enhanced Immersive Technology to Improve Collaborative Decision Making](Berg_NSF_Poster_2013.pdf) (17 MB.) _Emerging
+Technologies Conference_, Ames, IA, April 24-25, 2013 
 
 
 ### Publications
@@ -64,9 +64,9 @@ January 2012.
 Accepted to the ASME: Journal of Mechanical Design 
 May 2012.
 
-## Funding
+### Funding
 - [National Science Foundation](http://www.nsf.gov) - Grant Number: [CMMI-1068926](http://nsf.gov/awardsearch/showAward.do?AwardNumber=1068926)
 
-## Facilities
+### Facilities
 - [Iowa State University](http://www.iastate.edu)
 - [Virtual Reality Applications Center](http://www.vrac.iastate.edu/)
