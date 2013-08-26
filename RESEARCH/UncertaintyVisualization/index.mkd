@@ -10,7 +10,7 @@ subtitle: "Iowa State University & University of Illinois at Urbana-Champaign"
 
 
 
-## Overview
+### Overview
 
 This research seeks to explore new design processes, based on immersive technology, that support design team interaction 
 in ways that achieve designs that could not be achieved with traditional interfaces. We want immersive computer design 
@@ -28,7 +28,7 @@ demonstrated to lead the designer to overcompensate, and create a design weaknes
 We do not desire to replace the “human in the loop” but to augment the skills and discussions among collaborators 
 in ways that build upon the strengths of the human and the ICDT. We see the potential for ICDT to steer the design 
 team away from getting trapped in a cycle of unintended consequences. 
-
+<br>
 <img src="metal.jpg" width="450">
 
 ### Posters
