@@ -3,10 +3,11 @@ layout: base
 ---
 <h1>
 	{{ page.title }}
-	{% if page.subtitle %}
-		<small>{{ page.subtitle }}</small>
-	{% endif %}
 </h1>
+
+{% if page.subtitle %}
+	<b>{{ page.subtitle }}</b>
+{% endif %}
 <hr>
 {% if page.image %}
 	<p><img src="{{ page.image }}" class="img-polaroid"></p>
