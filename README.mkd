@@ -36,6 +36,10 @@ site: see [Ryan's blog
 post](http://academic.cleardefinition.com/2013/05/02/if-you-mixed-git-and-dropbox-and-made-it-open-source/)
 to get started.
 
+Bibliographic data may be formatted using
+[Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar#readme),
+which lets you simply include BibTeX citation code and have it formatted.
+
 ## Timestamp
 *Yes, this section looks weird on GitHub. See the live readme above for
 it to make more sense*
@@ -100,25 +104,16 @@ produces cleaner links.
 
 
 ## TODO
-- Finish adding links to `RESEARCH/index.mkd` and check which ones got dropped by bad HTML in the original
-- Install finished portions of this generated site over the old one.
-
 - Port other top-level pages
 
 - Search/replace all non-ASCII characters (word smart quotes/dashes, etc)
 - Script a simple conversion that strips old header and footer from
   previous content and adds YAML front matter for Jekyll processing and
   templating.
-- Port other pages, if desired.
-- Set up redirects from old URLs to new, trailing-slash ones.
-
-- Hook up automatic generation and upload
 
 - Consider these plugins:
 
     - oEmbed: <https://gist.github.com/1455726>
-
-    - <https://github.com/pablooliveira/bibjekyll> or <https://github.com/inukshuk/jekyll-scholar>
 
     - <https://github.com/mrdanadams/jekyll-thumbnailer>
 
