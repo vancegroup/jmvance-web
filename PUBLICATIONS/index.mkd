@@ -5,6 +5,18 @@ title: Publications
 layout: base
 
 ---
+#### 2013
+
+- Perret, J., Kneschke, C., Vance, J. M., and Dumont, G. “Interactive Assembly Simulation with Haptic Feedback”, Assembly Automation, 33 (3), 2013, pp. 214-220. DOI: 10.1108/AA-03-2013-017.
+
+- Fu, K., Reid, T., Terpenny, J. P., Thurston, D. L., Vance, J. M., Finger, S., Wiens, G. J., Kazerounian, K., Allen, J. K., Jacobson, K., 2013, “Broadening Participation: A Report on a Series of Workshops Aimed at Building Community and Increasing the Number of Women and Minorities in Engineering Design,” ASEE Annual Conference and Exposition, June 23-26, 2013, Atlanta, GA, #6781.
+ 
+- Rosenberg, M., Vance, J. M., 2013,”Virtual Hand Representations to Support Natural Interaction in Immersive Environments,” ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13166.
+
+- Pavlik, R. A., Vance, J. M., Luecke, G. R., “Interacting with a Large Virtual Environment by Combining a Ground-based Haptic Device and a Mobile Robot Base,” ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13441.
+
+- Behdad, S., Berg, L. P., Thurston, D., Vance, J. M., “Synergy Between Normative and Descriptive Design Theory and Methodology,” ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13035.
+
 #### 2012
 
 - Dorozhkin, D. V., Vance, J. M., Rehn, G. D., Lemessi, M., “Coupling of interactive manufacturing operations simulation and immersive virtual reality”, Virtual Reality, 16(1), 2012, pp. 15-23, DOI: 10.1007/s10055-010-0165-7.
