@@ -7,40 +7,40 @@ layout: base
 ---
 #### 2013
 
-- Perret, J., Kneschke, C., Vance, J. M., and Dumont, G. “Interactive Assembly Simulation with Haptic Feedback”, Assembly Automation, 33 (3), 2013, pp. 214-220. DOI: 10.1108/AA-03-2013-017.
+- Perret, J., Kneschke, C., Vance, J. M., and Dumont, G. "Interactive Assembly Simulation with Haptic Feedback", Assembly Automation, 33 (3), 2013, pp. 214-220. DOI: 10.1108/AA-03-2013-017.
 
-- Fu, K., Reid, T., Terpenny, J. P., Thurston, D. L., Vance, J. M., Finger, S., Wiens, G. J., Kazerounian, K., Allen, J. K., Jacobson, K., 2013, “Broadening Participation: A Report on a Series of Workshops Aimed at Building Community and Increasing the Number of Women and Minorities in Engineering Design,” ASEE Annual Conference and Exposition, June 23-26, 2013, Atlanta, GA, #6781.
+- Fu, K., Reid, T., Terpenny, J. P., Thurston, D. L., Vance, J. M., Finger, S., Wiens, G. J., Kazerounian, K., Allen, J. K., Jacobson, K., 2013, "Broadening Participation: A Report on a Series of Workshops Aimed at Building Community and Increasing the Number of Women and Minorities in Engineering Design," ASEE Annual Conference and Exposition, June 23-26, 2013, Atlanta, GA, #6781.
  
-- Rosenberg, M., Vance, J. M., 2013,”Virtual Hand Representations to Support Natural Interaction in Immersive Environments,” ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13166.
+- Rosenberg, M., Vance, J. M., 2013,"Virtual Hand Representations to Support Natural Interaction in Immersive Environments," ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13166.
 
-- Pavlik, R. A., Vance, J. M., Luecke, G. R., “Interacting with a Large Virtual Environment by Combining a Ground-based Haptic Device and a Mobile Robot Base,” ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13441.
+- Pavlik, R. A., Vance, J. M., Luecke, G. R., "Interacting with a Large Virtual Environment by Combining a Ground-based Haptic Device and a Mobile Robot Base," ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13441.
 
-- Behdad, S., Berg, L. P., Thurston, D., Vance, J. M., “Synergy Between Normative and Descriptive Design Theory and Methodology,” ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13035.
+- Behdad, S., Berg, L. P., Thurston, D., Vance, J. M., "Synergy Between Normative and Descriptive Design Theory and Methodology," ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13035.
 
 #### 2012
 
-- Dorozhkin, D. V., Vance, J. M., Rehn, G. D., Lemessi, M., “Coupling of interactive manufacturing operations simulation and immersive virtual reality”, Virtual Reality, 16(1), 2012, pp. 15-23, DOI: 10.1007/s10055-010-0165-7.
+- Dorozhkin, D. V., Vance, J. M., Rehn, G. D., Lemessi, M., "Coupling of interactive manufacturing operations simulation and immersive virtual reality", Virtual Reality, 16(1), 2012, pp. 15-23, DOI: 10.1007/s10055-010-0165-7.
 
-- Berg, L., Behdad, S., Vance, J., Thurston, D., 2012, “Disassembly Evaluation and Training using Graph Visualization and Immersive Computing Technologies,” ASME International Design Engineering Technical Conferences, August 12-15, Chicago, IL, DETC2012-70388.
+- Berg, L., Behdad, S., Vance, J., Thurston, D., 2012, "Disassembly Evaluation and Training using Graph Visualization and Immersive Computing Technologies," ASME International Design Engineering Technical Conferences, August 12-15, Chicago, IL, DETC2012-70388.
 
-- Behdad, S., Berg, L., Thurston, D., Vance J., 2012, “Integrating Immersive Computing Technology with Mixed Integer Nonlinear Programming for Disassembly Sequence Planning under Uncertainty,” ASME International Design Engineering Technical Conferences, August 12-15, Chicago, IL, DETC2012-70392.
+- Behdad, S., Berg, L., Thurston, D., Vance J., 2012, "Integrating Immersive Computing Technology with Mixed Integer Nonlinear Programming for Disassembly Sequence Planning under Uncertainty," ASME International Design Engineering Technical Conferences, August 12-15, Chicago, IL, DETC2012-70392.
 
-- Oren, M., Carlson, P., Gilbert, S., Vance, J. M., 2012, “Puzzle assembly training: Real world vs. virtual environment,” IEEE Virtual Reality, March 4-8, Orange County, CA, DOI: 10.1109/VR.2012.6180873.
+- Oren, M., Carlson, P., Gilbert, S., Vance, J. M., 2012, "Puzzle assembly training: Real world vs. virtual environment," IEEE Virtual Reality, March 4-8, Orange County, CA, DOI: 10.1109/VR.2012.6180873.
 
 - Ritchie, J., Vance, J., and Gupta, S. K., Editorial: Special Issue on Manufacturing and Construction, Virtual Reality, 2012, 16(1), DOI 10.1007/s10055-011-0188-8, pp. 1-2.
 
 #### 2011
-- Seth, A., Vance, J. M., Oliver, J. H., “Virtual reality for assembly methods prototyping: A review”, Virtual Reality, 15(1), 2011, pp. 5-20, DOI: 10.1007/s10055-009-0153-y.
+- Seth, A., Vance, J. M., Oliver, J. H., "Virtual reality for assembly methods prototyping: A review", Virtual Reality, 15(1), 2011, pp. 5-20, DOI: 10.1007/s10055-009-0153-y.
 
-- Vance, J. M., and Dumont, G., 2011, “A Conceptual Framework for Achieving Natural Interaction for Virtual Assembly Tasks,” ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT.
+- Vance, J. M., and Dumont, G., 2011, "A Conceptual Framework for Achieving Natural Interaction for Virtual Assembly Tasks," ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT.
 
-- Pavlik, R. A., and Vance, J. M., 2011, “VR JuggLua: A Framework for VR Applications Combining Lua, OpenSceneGraph, and VR Juggler,” Workshop on Software Engineering and Architectures for Realtime Interactive Systems (SEARIS), March 20, Singapore, pp. 29-35, DOI: 10.1109/SEARIS.2012.6231166.
+- Pavlik, R. A., and Vance, J. M., 2011, "VR JuggLua: A Framework for VR Applications Combining Lua, OpenSceneGraph, and VR Juggler," Workshop on Software Engineering and Architectures for Realtime Interactive Systems (SEARIS), March 20, Singapore, pp. 29-35, DOI: 10.1109/SEARIS.2012.6231166.
 
-- Faas, D. and Vance, J. M., 2011, “BREP Identification during Voxel-Based Collision Detection for Haptic Manual Assembly,” ASME World Conference on Innovative Virtual Reality, June 27 – 29, Milan, IT.
+- Faas, D. and Vance, J. M., 2011, "BREP Identification during Voxel-Based Collision Detection for Haptic Manual Assembly," ASME World Conference on Innovative Virtual Reality, June 27 – 29, Milan, IT.
 
-- Pavlik, R. A., and Vance, J. M., 2011,“Expanding Haptic Workspace for Coupled-object Manipulation,” ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT.
+- Pavlik, R. A., and Vance, J. M., 2011,"Expanding Haptic Workspace for Coupled-object Manipulation," ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT.
 
-- Carlson, P., Kirpes, C., Pavlik, R. A., Vance, J. M., Yin, L., Scott-Cooper, T., and Lambert, T., 2011, “Comparison of a Single-wall Versus Multi-wall Virtual Environments to Support a Virtual Shopping Experience,” ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT. DOI: 10.1115/WINVR2011-5582.
+- Carlson, P., Kirpes, C., Pavlik, R. A., Vance, J. M., Yin, L., Scott-Cooper, T., and Lambert, T., 2011, "Comparison of a Single-wall Versus Multi-wall Virtual Environments to Support a Virtual Shopping Experience," ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT. DOI: 10.1115/WINVR2011-5582.
 
 - Ritchie, J., Vance, J., and Gupta, S. K., Editorial: Special Issue on Manufacturing and Construction, Virtual Reality, 2011, 15(1), DOI 10.1007/s10055-010-0184-4, pp. 1-3.
 
