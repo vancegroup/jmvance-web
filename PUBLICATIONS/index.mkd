@@ -36,7 +36,7 @@ layout: base
 
 - Pavlik, R. A., and Vance, J. M., 2011, "VR JuggLua: A Framework for VR Applications Combining Lua, OpenSceneGraph, and VR Juggler," Workshop on Software Engineering and Architectures for Realtime Interactive Systems (SEARIS), March 20, Singapore, pp. 29-35, DOI: 10.1109/SEARIS.2012.6231166.
 
-- Faas, D. and Vance, J. M., 2011, "BREP Identification during Voxel-Based Collision Detection for Haptic Manual Assembly," ASME World Conference on Innovative Virtual Reality, June 27 – 29, Milan, IT.
+- Faas, D. and Vance, J. M., 2011, "BREP Identification during Voxel-Based Collision Detection for Haptic Manual Assembly," ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT.
 
 - Pavlik, R. A., and Vance, J. M., 2011,"Expanding Haptic Workspace for Coupled-object Manipulation," ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT.
 
