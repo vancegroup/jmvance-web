@@ -24,8 +24,8 @@ image: summary_image_for_site_thm.jpg
 ## Software
 All of the following software is open-source (licenses vary between projects).
 
-The overall demo as shown (precompiled, etc.) can be found in this git
-repo: <https://github.com/vancegroup/IDETCDemo2013> Be sure to clone
+The overall demo can be found at the following Github
+page: <https://github.com/vancegroup/IDETCDemo2013> Be sure to clone
 `--recursive` to get the submodules.
 
 The particular application demonstrated was developed at ISU VRAC,
