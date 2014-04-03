@@ -1,0 +1,53 @@
+---
+
+layout: research
+
+title: "Investigating Early Design Decision-Making in Virtual Reality: An Industry Case Study"
+
+subtitle: "Iowa State University & University of Illinois at Urbana-Champaign"
+
+---
+
+### Overview
+
+Virtual reality and associated technologies have long been described as the new medium which will transform design activities all across the design process. Past research has successfully applied virtual reality applications to challenging industry caliber problems. In particular, the manufacturing community has experienced notable growth. Processes have been enhanced through the adoption of immersive simulations that combine 3D visualizations with natural human interaction techniques. Being able to view and interact with virtual geometry enables designers and engineers to make critical design decisions earlier in the product design process without the complications of physical prototypes. In efforts of supporting this progression, research has concentrated on the development of virtual environments which enable creative design thinking. Numerous publications have reported on novel design methodologies and approaches. Unfortunately, measuring the effectiveness of such approaches against industry criteria is arduous and often results in inconclusive evaluations. At the core, virtual reality applications help guide and inform our decision making processes. While much research as praised virtual reality for its potential in improving the design process, little work has been done to specifically investigate virtual reality's significance from a decision making perspective. In hopes of understanding this problem space better, a case study involving a hydraulic pump manufacturer was conducted. A group of design engineers were invited to participate in three early design reviews in a immersive environment. Through a series of individual interviews and team focus groups, potential and actual decision-making benefits were identified. Results from this study can help guide future virtual reality research directions.
+
+The case study will consist of the following steps:
+
+1. A researcher will visit Danfoss facility and interview an engineering design team. Initial interviews will gauge perceived usefulness and existing knowledge about virtual reality. Questions of interest include:
+
+	* What do you know about virtual reality? 
+	* Have you ever used virtual reality before? 
+	* In which ways do you believe the virtual reality experience will be helpful? 
+	* In which ways do you believe the virtual reality experience will be challenging? 
+	* What is your current CAD process? 
+	* What decisions are difficult using the current processes?, which are easy? 
+
+2. Danfoss engineering design team will be visit Iowa State University to conduct a design review of an in-progress design on three seperate occasions. The team will utilize the METaL facility. After each design review the team will participate in a focus group with a researcher. The focus group will seek to understand how the experiences in virtual reality influenced the teams decisions. Questions of interest include:
+
+	* How did your design review go? 
+	* Was there anything that worked particularly well, if so what and why? 
+	* Was there anything challenging? 
+	* Were there things you wanted to be able to do but couldn't? 
+	* Was there anything challenging? 
+	* If you could change something about your experience, what would it be? 
+	
+3. A final interview will be conducted by the researcher at the Danfoss facility. The final interview will investigate how the use of the virtual reality facility influenced decision making for the product. Questions of interest include:
+
+	* Do you feel using the virtual reality facility helped your decision making process, if so, how?
+	* What was most helpful about the experience in the long-term?
+	* What was least helpful about the experience in the long-term?
+	* Would you use the facility again, if so, why?
+	
+<br>
+<img src="metal.jpg" width="450">
+<br>
+<img src="metalpump.jpg" width="450">
+
+### Funding
+- [National Science Foundation](http://www.nsf.gov) - Grant Number: [CMMI-1068926](http://nsf.gov/awardsearch/showAward.do?AwardNumber=1068926)
+
+### Facilities
+- [Iowa State University](http://www.iastate.edu)
+- [Virtual Reality Applications Center](http://www.vrac.iastate.edu/)
+- [Danfoss](http://www.danfoss.com/North_America/)
