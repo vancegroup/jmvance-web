@@ -5,6 +5,44 @@ title: Publications
 layout: base
 
 ---
+#### 2013
+
+- Perret, J., Kneschke, C., Vance, J. M., and Dumont, G. "Interactive Assembly Simulation with Haptic Feedback", Assembly Automation, 33 (3), 2013, pp. 214-220. DOI: 10.1108/AA-03-2013-017.
+
+- Fu, K., Reid, T., Terpenny, J. P., Thurston, D. L., Vance, J. M., Finger, S., Wiens, G. J., Kazerounian, K., Allen, J. K., Jacobson, K., 2013, "Broadening Participation: A Report on a Series of Workshops Aimed at Building Community and Increasing the Number of Women and Minorities in Engineering Design," ASEE Annual Conference and Exposition, June 23-26, 2013, Atlanta, GA, #6781.
+ 
+- Rosenberg, M., Vance, J. M., 2013,"Virtual Hand Representations to Support Natural Interaction in Immersive Environments," ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13166.
+
+- Pavlik, R. A., Vance, J. M., Luecke, G. R., "Interacting with a Large Virtual Environment by Combining a Ground-based Haptic Device and a Mobile Robot Base," ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13441.
+
+- Behdad, S., Berg, L. P., Thurston, D., Vance, J. M., "Synergy Between Normative and Descriptive Design Theory and Methodology," ASME International Design Engineering Technical Conferences, August 4-7, Portland, OR, DETC2013-13035.
+
+#### 2012
+
+- Dorozhkin, D. V., Vance, J. M., Rehn, G. D., Lemessi, M., "Coupling of interactive manufacturing operations simulation and immersive virtual reality", Virtual Reality, 16(1), 2012, pp. 15-23, DOI: 10.1007/s10055-010-0165-7.
+
+- Berg, L., Behdad, S., Vance, J., Thurston, D., 2012, "Disassembly Evaluation and Training using Graph Visualization and Immersive Computing Technologies," ASME International Design Engineering Technical Conferences, August 12-15, Chicago, IL, DETC2012-70388.
+
+- Behdad, S., Berg, L., Thurston, D., Vance J., 2012, "Integrating Immersive Computing Technology with Mixed Integer Nonlinear Programming for Disassembly Sequence Planning under Uncertainty," ASME International Design Engineering Technical Conferences, August 12-15, Chicago, IL, DETC2012-70392.
+
+- Oren, M., Carlson, P., Gilbert, S., Vance, J. M., 2012, "Puzzle assembly training: Real world vs. virtual environment," IEEE Virtual Reality, March 4-8, Orange County, CA, DOI: 10.1109/VR.2012.6180873.
+
+- Ritchie, J., Vance, J., and Gupta, S. K., Editorial: Special Issue on Manufacturing and Construction, Virtual Reality, 2012, 16(1), DOI 10.1007/s10055-011-0188-8, pp. 1-2.
+
+#### 2011
+- Seth, A., Vance, J. M., Oliver, J. H., "Virtual reality for assembly methods prototyping: A review", Virtual Reality, 15(1), 2011, pp. 5-20, DOI: 10.1007/s10055-009-0153-y.
+
+- Vance, J. M., and Dumont, G., 2011, "A Conceptual Framework for Achieving Natural Interaction for Virtual Assembly Tasks," ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT.
+
+- Pavlik, R. A., and Vance, J. M., 2011, "VR JuggLua: A Framework for VR Applications Combining Lua, OpenSceneGraph, and VR Juggler," Workshop on Software Engineering and Architectures for Realtime Interactive Systems (SEARIS), March 20, Singapore, pp. 29-35, DOI: 10.1109/SEARIS.2012.6231166.
+
+- Faas, D. and Vance, J. M., 2011, "BREP Identification during Voxel-Based Collision Detection for Haptic Manual Assembly," ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT.
+
+- Pavlik, R. A., and Vance, J. M., 2011,"Expanding Haptic Workspace for Coupled-object Manipulation," ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT.
+
+- Carlson, P., Kirpes, C., Pavlik, R. A., Vance, J. M., Yin, L., Scott-Cooper, T., and Lambert, T., 2011, "Comparison of a Single-wall Versus Multi-wall Virtual Environments to Support a Virtual Shopping Experience," ASME World Conference on Innovative Virtual Reality, June 27-29, Milan, IT. DOI: 10.1115/WINVR2011-5582.
+
+- Ritchie, J., Vance, J., and Gupta, S. K., Editorial: Special Issue on Manufacturing and Construction, Virtual Reality, 2011, 15(1), DOI 10.1007/s10055-010-0184-4, pp. 1-3.
 
 #### 2010
 
@@ -250,104 +288,104 @@ layout: base
 
 
 
-   [3]: http://public.vrac.iastate.edu/2010Htmls/VR_asbly_proto_revw.html
-   [4]: http://public.vrac.iastate.edu/2010Htmls/dynmod.html
-   [5]: http://public.vrac.iastate.edu/2010Htmls/pointshell.html
-   [6]: http://public.vrac.iastate.edu/2010Htmls/wii.html
-   [8]: http://public.vrac.iastate.edu/2009Htmls/ASME_JMR_Final09.html
-   [9]: http://public.vrac.iastate.edu/2009Htmls/NSF09_VR_Interface.html
-   [10]: http://public.vrac.iastate.edu/2009Htmls/HCMM3D.html
-   [11]: http://public.vrac.iastate.edu/2009Htmls/DaoPaper.html
-   [12]: http://public.vrac.iastate.edu/2009Htmls/HFeedbackGuide.html
-   [13]: http://public.vrac.iastate.edu/2009Htmls/CollabResearch.html
-   [15]: http://public.vrac.iastate.edu/2008html/Pub_08-SHARP-JCISE08.htm
-   [16]: http://public.vrac.iastate.edu/2008html/Pub.08-IVDA-DETC08.htm
-   [17]: http://public.vrac.iastate.edu/2008html/DesignResearch.html
-   [19]: http://public.vrac.iastate.edu/2007Htmls/Pub_07-virtual-reality.htm
-   [20]: http://public.vrac.iastate.edu/2007Htmls/Pub_07-mech-design.htm
-   [21]: http://public.vrac.iastate.edu/2007Htmls/Pub.07-IVDA-DETC.htm
-   [22]: http://public.vrac.iastate.edu/2007Htmls/Pub_07-SHARP-IDETC07.htm
-   [24]: http://public.vrac.iastate.edu/2006Htmls/Pub.06-FastMeshless.htm
-   [25]: http://public.vrac.iastate.edu/2006Htmls/Pub.06-SHARP.htm
-   [26]: http://public.vrac.iastate.edu/2006Htmls/Pub.06-WomenAcademia.htm
-   [27]: http://public.vrac.iastate.edu/2006Htmls/Pub.06-VirtualAssembly.htm
-   [28]: http://public.vrac.iastate.edu/2006Htmls/Pub.06-ConcurrentOperations.htm
-   [30]: http://public.vrac.iastate.edu/2005Htmls/Pub.05-MechanicalAssembly.htm
-   [31]: http://public.vrac.iastate.edu/2005Htmls/Pub.05-MeshlessStress.htm
-   [32]: http://public.vrac.iastate.edu/2005Htmls/Pub.05-WELI.htm
-   [33]: http://public.vrac.iastate.edu/2005Htmls/Pub.05-3DAnthropometry.htm
-   [35]: http://public.vrac.iastate.edu/2004Htmls/Pub.04-ConcurrentOperations.htm
-   [36]: http://public.vrac.iastate.edu/2004Htmls/Pub.04-NetworkHaptic.htm
-   [37]: http://public.vrac.iastate.edu/2004Htmls/Pub.04-PartInteraction.htm
-   [38]: http://public.vrac.iastate.edu/2004Htmls/Pub.04-VrM3D.htm
-   [40]: http://public.vrac.iastate.edu/2003Htmls/Pub.03-Immersive.htm
-   [41]: http://public.vrac.iastate.edu/2003Htmls/Pub.03-DiscreteEvent.htm
-   [42]: http://public.vrac.iastate.edu/2003Htmls/Pub.03-3DWrap.htm
-   [43]: http://public.vrac.iastate.edu/2003Htmls/Pub.03-PHANToM.htm
-   [44]: http://public.vrac.iastate.edu/2003Htmls/Pub.03-HapticDev.htm
-   [46]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-Sp.Mech.htm
-   [47]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-Sp.MechNet.htm
-   [48]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRTool.htm
-   [49]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRSpatialMech.htm
-   [50]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRSpeech.htm
-   [51]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-HoseModel.htm
-   [52]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-HoseStiff.htm
-   [53]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRHOSE.htm
-   [54]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRErgDesign.htm
-   [55]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-Haptic.htm
-   [56]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-WomenLead.htm
-   [57]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-HapticDev.htm
-   [58]: http://public.vrac.iastate.edu/2002Htmls/Pub.02-VRSpatialDesign.htm
-   [60]: http://public.vrac.iastate.edu/jan01.htm
-   [61]: http://public.vrac.iastate.edu/jan01a.htm
-   [62]: http://public.vrac.iastate.edu/jan01b.htm
-   [63]: http://public.vrac.iastate.edu/mar01.htm
-   [64]: http://public.vrac.iastate.edu/apr01.htm
-   [65]: http://public.vrac.iastate.edu/sept01a.htm
-   [66]: http://public.vrac.iastate.edu/sept01b.htm
-   [67]: http://public.vrac.iastate.edu/sept01c.htm
-   [69]: http://public.vrac.iastate.edu/2000.htm
-   [70]: http://public.vrac.iastate.edu/jan00.htm
-   [71]: http://public.vrac.iastate.edu/jan00b.htm
-   [72]: http://public.vrac.iastate.edu/july00.htm
-   [74]: http://public.vrac.iastate.edu/jan99.htm
-   [75]: http://public.vrac.iastate.edu/jan99a.htm
-   [76]: http://public.vrac.iastate.edu/sept99.htm
-   [77]: http://public.vrac.iastate.edu/nov99.htm
-   [78]: http://public.vrac.iastate.edu/nov99b.htm
-   [79]: http://public.vrac.iastate.edu/dec99.htm
-   [80]: http://public.vrac.iastate.edu/dec99b.htm
-   [82]: http://public.vrac.iastate.edu/jan98a.htm
-   [83]: http://public.vrac.iastate.edu/jan98b.htm
-   [84]: http://public.vrac.iastate.edu/jan98c.htm
-   [85]: http://public.vrac.iastate.edu/apr98.htm
-   [86]: http://public.vrac.iastate.edu/sept98b.htm
-   [87]: http://public.vrac.iastate.edu/sept98a.htm
-   [88]: http://public.vrac.iastate.edu/sept98c.htm
-   [89]: http://public.vrac.iastate.edu/oct98.htm
-   [90]: http://public.vrac.iastate.edu/oct95b.htm
-   [91]: http://public.vrac.iastate.edu/dec98.htm
-   [92]: http://public.vrac.iastate.edu/1998.htm
-   [94]: http://public.vrac.iastate.edu/jan97.htm
-   [95]: http://public.vrac.iastate.edu/jan97b.htm
-   [96]: http://public.vrac.iastate.edu/apr97.htm
-   [97]: http://public.vrac.iastate.edu/may97.htm
-   [98]: http://public.vrac.iastate.edu/july97.htm
-   [99]: http://public.vrac.iastate.edu/sept97.htm
-   [100]: http://public.vrac.iastate.edu/1997.htm
-   [102]: http://public.vrac.iastate.edu/jan96.htm
-   [103]: http://public.vrac.iastate.edu/jan96b.htm
-   [104]: http://public.vrac.iastate.edu/mar96.htm
-   [105]: http://public.vrac.iastate.edu/jun96b.htm
-   [106]: http://public.vrac.iastate.edu/july96.htm
-   [107]: http://public.vrac.iastate.edu/sept96.htm
-   [109]: http://public.vrac.iastate.edu/jan95.htm
-   [110]: http://public.vrac.iastate.edu/may95.htm
-   [111]: http://public.vrac.iastate.edu/july95.htm
-   [112]: http://public.vrac.iastate.edu/sept95.htm
-   [113]: http://public.vrac.iastate.edu/sept95b.htm
-   [114]: http://public.vrac.iastate.edu/oct95.htm
-   [115]: http://public.vrac.iastate.edu/nov95.htm
-   [117]: http://public.vrac.iastate.edu/sept94.htm
-   [119]: http://public.vrac.iastate.edu/sept93.htm
-   [120]: http://public.vrac.iastate.edu/fea93.htm
+   [3]: ../htmls/2010Htmls/VR_asbly_proto_revw.html
+   [4]: ../htmls/2010Htmls/dynmod.html
+   [5]: ../htmls/2010Htmls/pointshell.html
+   [6]: ../htmls/2010Htmls/wii.html
+   [8]: ../htmls/2009Htmls/ASME_JMR_Final09.html
+   [9]: ../htmls/2009Htmls/NSF09_VR_Interface.html
+   [10]: ../htmls/2009Htmls/HCMM3D.html
+   [11]: ../htmls/2009Htmls/DaoPaper.html
+   [12]: ../htmls/2009Htmls/HFeedbackGuide.html
+   [13]: ../htmls/2009Htmls/CollabResearch.html
+   [15]: ../htmls/2008html/Pub_08-SHARP-JCISE08.htm
+   [16]: ../htmls/2008html/Pub.08-IVDA-DETC08.htm
+   [17]: ../htmls/2008html/DesignResearch.html
+   [19]: ../htmls/2007Htmls/Pub_07-virtual-reality.htm
+   [20]: ../htmls/2007Htmls/Pub_07-mech-design.htm
+   [21]: ../htmls/2007Htmls/Pub.07-IVDA-DETC.htm
+   [22]: ../htmls/2007Htmls/Pub_07-SHARP-IDETC07.htm
+   [24]: ../htmls/2006Htmls/Pub.06-FastMeshless.htm
+   [25]: ../htmls/2006Htmls/Pub.06-SHARP.htm
+   [26]: ../htmls/2006Htmls/Pub.06-WomenAcademia.htm
+   [27]: ../htmls/2006Htmls/Pub.06-VirtualAssembly.htm
+   [28]: ../htmls/2006Htmls/Pub.06-ConcurrentOperations.htm
+   [30]: ../htmls/2005Htmls/Pub.05-MechanicalAssembly.htm
+   [31]: ../htmls/2005Htmls/Pub.05-MeshlessStress.htm
+   [32]: ../htmls/2005Htmls/Pub.05-WELI.htm
+   [33]: ../htmls/2005Htmls/Pub.05-3DAnthropometry.htm
+   [35]: ../htmls/2004Htmls/Pub.04-ConcurrentOperations.htm
+   [36]: ../htmls/2004Htmls/Pub.04-NetworkHaptic.htm
+   [37]: ../htmls/2004Htmls/Pub.04-PartInteraction.htm
+   [38]: ../htmls/2004Htmls/Pub.04-VrM3D.htm
+   [40]: ../htmls/2003Htmls/Pub.03-Immersive.htm
+   [41]: ../htmls/2003Htmls/Pub.03-DiscreteEvent.htm
+   [42]: ../htmls/2003Htmls/Pub.03-3DWrap.htm
+   [43]: ../htmls/2003Htmls/Pub.03-PHANToM.htm
+   [44]: ../htmls/2003Htmls/Pub.03-HapticDev.htm
+   [46]: ../htmls/2002Htmls/Pub.02-Sp.Mech.htm
+   [47]: ../htmls/2002Htmls/Pub.02-Sp.MechNet.htm
+   [48]: ../htmls/2002Htmls/Pub.02-VRTool.htm
+   [49]: ../htmls/2002Htmls/Pub.02-VRSpatialMech.htm
+   [50]: ../htmls/2002Htmls/Pub.02-VRSpeech.htm
+   [51]: ../htmls/2002Htmls/Pub.02-HoseModel.htm
+   [52]: ../htmls/2002Htmls/Pub.02-HoseStiff.htm
+   [53]: ../htmls/2002Htmls/Pub.02-VRHOSE.htm
+   [54]: ../htmls/2002Htmls/Pub.02-VRErgDesign.htm
+   [55]: ../htmls/2002Htmls/Pub.02-Haptic.htm
+   [56]: ../htmls/2002Htmls/Pub.02-WomenLead.htm
+   [57]: ../htmls/2002Htmls/Pub.02-HapticDev.htm
+   [58]: ../htmls/2002Htmls/Pub.02-VRSpatialDesign.htm
+   [60]: ../htmls/jan01.htm
+   [61]: ../htmls/jan01a.htm
+   [62]: ../htmls/jan01b.htm
+   [63]: ../htmls/mar01.htm
+   [64]: ../htmls/apr01.htm
+   [65]: ../htmls/sept01a.htm
+   [66]: ../htmls/sept01b.htm
+   [67]: ../htmls/sept01c.htm
+   [69]: ../htmls/2000.htm
+   [70]: ../htmls/jan00.htm
+   [71]: ../htmls/jan00b.htm
+   [72]: ../htmls/july00.htm
+   [74]: ../htmls/jan99.htm
+   [75]: ../htmls/jan99a.htm
+   [76]: ../htmls/sept99.htm
+   [77]: ../htmls/nov99.htm
+   [78]: ../htmls/nov99b.htm
+   [79]: ../htmls/dec99.htm
+   [80]: ../htmls/dec99b.htm
+   [82]: ../htmls/jan98a.htm
+   [83]: ../htmls/jan98b.htm
+   [84]: ../htmls/jan98c.htm
+   [85]: ../htmls/apr98.htm
+   [86]: ../htmls/sept98b.htm
+   [87]: ../htmls/sept98a.htm
+   [88]: ../htmls/sept98c.htm
+   [89]: ../htmls/oct98.htm
+   [90]: ../htmls/oct95b.htm
+   [91]: ../htmls/dec98.htm
+   [92]: ../htmls/1998.htm
+   [94]: ../htmls/jan97.htm
+   [95]: ../htmls/jan97b.htm
+   [96]: ../htmls/apr97.htm
+   [97]: ../htmls/may97.htm
+   [98]: ../htmls/july97.htm
+   [99]: ../htmls/sept97.htm
+   [100]: ../htmls/1997.htm
+   [102]: ../htmls/jan96.htm
+   [103]: ../htmls/jan96b.htm
+   [104]: ../htmls/mar96.htm
+   [105]: ../htmls/jun96b.htm
+   [106]: ../htmls/july96.htm
+   [107]: ../htmls/sept96.htm
+   [109]: ../htmls/jan95.htm
+   [110]: ../htmls/may95.htm
+   [111]: ../htmls/july95.htm
+   [112]: ../htmls/sept95.htm
+   [113]: ../htmls/sept95b.htm
+   [114]: ../htmls/oct95.htm
+   [115]: ../htmls/nov95.htm
+   [117]: ../htmls/sept94.htm
+   [119]: ../htmls/sept93.htm
+   [120]: ../htmls/fea93.htm
