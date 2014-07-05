@@ -5,6 +5,12 @@ title: Publications
 layout: base
 
 ---
+#### 2014
+
+- Behdad, S., Berg, L., Thurston D., Vance, J. M., "Immersive Computing Technology to Investigate Tradeoffs under Uncertainty in Disassembly Sequence Planning", ASME Journal of Mechanical Design, 136(7), 2014, doi: 10.1115/1.4025021.
+
+- Behdad, S., Berg, L., Thurston D., Vance, J. M., "Leveraging Virtual Reality Experiences with Mixed-Integer Nonlinear Programming Visualization for Disassembly Sequence Planning Under Uncertainty", ASME Journal of Mechanical Design, 136 (4), 2014, doi:10.1115/1.4026463.
+
 #### 2013
 
 - Perret, J., Kneschke, C., Vance, J. M., and Dumont, G. "Interactive Assembly Simulation with Haptic Feedback", Assembly Automation, 33 (3), 2013, pp. 214-220. DOI: 10.1108/AA-03-2013-017.
