@@ -1,98 +1,61 @@
 ---
 
-title: Research Projects
+title: Students
 
 layout: base
 
 ---
-# Current Research
+# Current Students
 
-#### [Investigating Early Design Decision-Making in Virtual Reality: An Industry Case Study](DanfossCaseStudy/)
+[Leif Berg](http://www.lpberg.com) leif [dot] berg [at] gmail [dot] com
 
-#### [Low Cost Virtual Reality for Engineering](LowCostVR2013/)
+[Meisha Berg](http://meishar.weebly.com/) meishar [at] iastate [dot] edu
 
-#### [GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment](GOALIHybrid/)
+[Patrick Carlson] (http://hci.iastate.edu/~carlsonp/) carlsonp [at] iastate [dot] edu
 
-#### [Haptics for Large Space Virtual Environments to Assess Assembly Tasks](MobileRobot/)
+Ryan McCleish rmccleish [at] gmail [dot] com
 
-#### [Collaborative Research: Enhanced Immersive Technology to Improve Collaborative Decision Making](UncertaintyVisualization/)
+Tim Morgan tbmorgan [at] iastate [dot] edu
 
-#### [Virtual Shopping Experience](VRShopping)
+[Ryan Pavlik] (http://academic.cleardefinition.com/) rpavlik [at] iastate [dot] edu
 
-<br>
-
-# Previous Research
-
-#### [Compliant Mechanism Design in a Virtual Environment](COMPLIANT/)
-
-#### Synthetic Environments as Enabling Technology for Product Development: Phase 4
-- [Combining Physical Constraints with Geometric Constraint-based Modeling for Virtual Assembly](SHARP.html)
-- [Desktop Virtual Assembly using Physically-based Part Modeling ](HapticAssembly/DesktopHapticAssembly.htm)
-- [Assessment of Haptics-based Interaction for Assembly Tasks in Virtual Reality](HapticsUserStudy/Haptics_User_Study.htm)
-
-#### [Synthetic Environments as Enabling Technology for Product Development: Phase 3](Synthetic_Environments.html)
-- [VEGAS II: A Virtual Environment for General Assembly Simulation II](../ASSEMBLY/Assembly2.html)
-
-#### [Interactive Product Development in a Virtual Environment Utilizing Haptics](interactive_product_dev.html)
-- [Interactive Stress Reanalysis in Virtual Reality](StressC6/)
-- [Implementing Haptic Feedback in a Projection Screen Virtual Environment](phantom/phantom.html)
-
-#### [Development of a virtual prototyping design tool using 3D human anthropometry](developement_of_virtual.html)
-- VRAnthro: Ergonomic Design of Operator Workstations
-
-#### [Virtual Reality Environment for Fluid Particle Simulation](FluidSim.html)
-- Duncan, Tom, "Interactive interrogation of computational mixing data in a virtual environment," M.S. Thesis, Iowa State University, 2002
-
-#### [RET Supplement: Interactive Product Development in a Virtual Environment Utilizing Haptics](interactive_product_dev_RET.html)
-
-#### [Dynamic Simulation of Mechanisms for Vehicle Design and Evaluation](VehicleDesignSim.html)
-- O'Leary, Megan, "Effectiveness of haptic feedback coupled with the use of a head-mounted display for the evaluation of virtual mechanisms," M.S. Thesis, Iowa State University, 2002
-
-#### [Spatial Mechanism Design in a Virtual Environment](spatial_mechanism_design.html)
-- [VRSpatial: Designing Spatial 4C Mechanisms using Virtual Reality](SPATIAL/vrspatial.htm)
-- [VRNETS: Spatial Mechanism Design in Virtual Reality with Networking](../VRNETS/)
-
-#### [Flexible Accounting Systems in Dynamic Manufacturing Environments](FlexAccEnv.html)
-- [Implementing Discrete Event Programming in a Virtual Factory](../FACTORY/factory.html)
-
-#### [Evaluating the Use of Haptics in Virtual CAD Tasks](VCADEval.html)
-- [Effectiveness of Haptic Sensation for the Evaluation of Virtual Prototypes](../HAPTICS/HapticStudy.html)
-
-#### [Virtual Prototyping for Interpretation of Analysis Data](ProtoAnalysis.html)
-- [VR-CFD: Visualization and Approximation of post-processed CFD data in a Virtual Environment](../CFD/CFD.html)
-- Sasikumar Kutti, Applying Virtual Reality to Computational Fluid Dynamics post-processing, M.S. Thesis, Iowa State Universtiy, 1998
-
-#### [A Virtual Reality Environment for Spherical Mechanism Design](SphereDesign.html)
-- [Isis - Interactive Synthesis of Spherical Mechanism Design](../ISIS/isis.html)
-- Krall, Juliet, "A virtual environment for the synthesis of spherical mechanisms," M.S. Thesis, Iowa State University, 1996
-
-#### [Career: Virtual Reality Techniques to Improve Product Design](career_virtualreality.html)
-- [Effectiveness of Haptic Sensation for the Evaluation of Virtual Prototypes](../HAPTICS/HapticStudy.html)
-- [DN-Edit: Multiple Point Direct Manipulation of NURBS Surfaces in a Virtual Environment](../NURBS/DNEdit.html)
-- Ryken, Mike, "Applying virtual reality techniques to the interactive stress analysis of a tractor lift arm," M.S. Thesis, Iowa State University, 1998
-- [Effectiveness of Virtual Reality as a Tool to Facilitate Engineering Design of Spherical Mechanisms](../EVAL/EVAL.html)
-
-#### [Acquisition of a high performance computer for the C6 system](acquisitionofc6.html)
-
-#### [A Virtual Environment for Engineering Design Optimization](Optimization.html)
-- [Shape design with stress constraints](../SHAPE/SHAPE.html)
-
-#### [A Virtual environment for engineering design optimization](../sen_opt/sen_opt.html)
-
-#### Synthetic Environments as Enabling Technology for Product Development: Phase I
-- Ryken, Mike, "Applying virtual reality techniques to the interactive stress analysis of a tractor lift arm," M.S. Thesis, Iowa State University, 1998
-
-#### Synthetic Environments as Enabling Technology for Product Development: Phase 2
-- [VEGAS: A Virtual Environment for General Assembly Simulation](../ASSEMBLY/Assembly.html)
-
-#### Development and Demonstration of a Model Vocational Education Program for Assisting Small Manufacturing Enterprises in Adopting, Implementing, Operating, and Managing New Manufacturing Technologies
-- [Simulation-Based Training for Manufacturing Workers](../sim_train/sim_train.html)
-
-#### Modeling of a Hydraulic Pump to Determine the Parameters that Affect Pump Noise
-- Tsay, Shyung-Jye, "Applying virtual reality techniques to engineering design optimization"
-
-#### Visualization of the Effect of Design Changes on Reliability
-- [Visualization of structural response using design sensitivity analysis](Ford.html)
-
-#### Other Projects
-- [Parametric Surface Polygonization](../polygonize/polygonize.html)
+# Thesis Topics
+<p>Isaac J. Garlington (MS), 2012, Expanding the usable workspace of a haptic device by placing it on a moving base</p>
+  <p>Denis V. Dorozhkin (PhD), 2011, Constraint-based synthesis of shape-morphing compliant structures in virtual reality</p>
+  <p>Daniela Faas (PhD), 2010, A hybrid method of haptic feedback to support virtual manual product assembly</p>			    
+  <p>Utkarsh Seth (MS), 2009, A virtual reality interface for the design of compliant mechanisms</p>
+  <p>Andy McKean (MS), 2008, Creative component</p>
+  <p>Dao Vo (MS), 2007, Assessment of haptics-based interaction for assembly tasks in </p>
+  <p>Abhishek Seth (PhD), 2007, Combining physical constraints with geometric-constraint based modeling for virtual assembly</span></p>
+  <p>Andrew Fischer (PhD), 2006, Interactive design methods in virtual reality with haptics</p>  
+  <p>Melinda Cerney (PhD), 2005, Quantifying motion from non-rigid structures: extended geometric motion analysis methods and applications</p>
+  <p>Brad Howard (MS), 2005, Desktop virtual assembly using physically-based part modeling</p>	
+  <p> ChangEun Kim (PhD), 2004, Networked haptic interaction in virtual reality for collaborative design</p>												
+  <p>Melinda Cerney (MS), 2003,The role of univariate and multivariate data in the design of advanced operator workstations</p>	
+  <p>Kurt Chipperfield (PhD), 2002, Interactive stress re-analysis in virtual reality</p>
+  <p>Denis Dorozhkin (MS), 2002, VRSpatial: A program for designing spatial 4C mechanisms in virtual reality </p>
+  <p>Tom Duncan (MS), 2002, Interactive interrogation of computational mixing data in a virtual environment</p>
+  <p>Andrew Fischer (MS), 2002, Implementing Haptic Feedback in a Projection Screen Virtual Environment</p>
+  <p>Megan O'Leary (MS), 2002, Effectiveness of haptic feedback coupled with the use of a head-mounted display for the evaluation of virtual mechanisms</p>
+  <p>Laura Threadgold (MS), 2001, Visualizing displacements and stresses that were calculated using interval methods and finite elements for a system with uncertainty in forces and geometry</p>
+  <p>Tom Johnson (MS), 2000, <a href="../ASSEMBLY/Assembly.html"> &quot;A general virtual environment for part assembly method evaluation&quot;</a></p>
+  <p>Vishant Shahnawaz (MS), 2000,<a href="../CFD/CFD.html">&quot;Visualization and approximation analysis of post processed computational fluid dynamics data in a virtual environment&quot;</a></p>
+  <p>Kurt Chipperfield (MS), 2000, <span style='COLOR:black'> Creative component</span></p>
+  <p>Sergei Volkov (MS), 2000, <a href="../HAPTICS/HapticStudy.html">&quot;Effectiveness of Haptic Sensation for Evaluation of Virtual Prototypes&quot;</a></p>
+  <p>John Kihonge (MS), 2000,&quot;Spatial Mechanism Design in Virtual Reality with Networking&quot;</p>
+  <p>Brian Perles (MS), 1999, <a href="../NURBS/DNEdit.html">&quot;Development of virtual tools for direct manipulation of NURBS surfaces in virtual environments&quot;</a></p>
+  <p>Todd Furlong (MS), 1998,<a href="../ISIS/isis.html">&quot;Spherical mechanism design in virtual reality&quot;</a></p>
+  <p>Jason Kelsick (MS), 1998,<a href="http://www.vrac.iastate.edu/research/manufacturing/factory/site/factory.html">&quot;The VR Factory: Discrete event simulation implemented in a virtual environment&quot;</a></p>
+  <p>Sasikumar Kutti (MS), 1998,<a href="sept99.htm">&quot;Applying virtual reality to computational fluid dynamics post-processing&quot;</a></p>
+  <p>Mike Ryken (MS), 1998,&quot;Applying virtual reality techniques to the stress analysis of a tractor lift arm&quot;&nbsp;</p>
+  <p>Paul Evans (MS), 1997,<a href="../EVAL/EVAL.html">&quot;Effectiveness of virtual reality as a tool to facilitate engineering design of spherical mechanisms&quot;</a></p>
+  <p>Tsung-Pin Yeh (PhD), 1997,<a href="../SHAPE/SHAPE.html">&quot;Applying virtual reality techniques to engineering design optimization&quot;</a></p>
+  <p>Juliet Kraal (MS), 1996,<a href="../SPHERE/SPHERE.htm">&quot;An application of virtual reality to engineering design: synthesis of spherical mechanisms&quot;</a></p>
+  <p>Ken Longacre (MS), 1996,<a href="Ford.html">&quot;A computer tool to facilitate cross-attribute optimization&quot;</a></p>
+  <p>Lee Ho (MS), 1996, &quot;Development of a virtual manufacturing cell for training workers&quot;</p>
+  <p>Shyng-Jye Tsay (MS), 1996, &quot;Coupling performance characteristics with real time simulation of an axial piston pump&quot;</p>
+  <p>Wen Ye (MS), 1996, &quot;Visualization of structural impact problemsin a virtual environment&quot;&nbsp;</p>
+  <p>Todd Mysak (MS), 1995, &quot;Asymmetric scan plan and contour motiongeneration&quot;</p>
+  <p>Mohammed Asif Khan (MS), 1994,<a href="../polygonize/polygonize.html">&quot;A mesh reduction approach to parametric surface polygonization&quot;</a></p>
+  <p>Scott Osborn (MS), 1994, &quot;Applying virtual reality to aid in the synthesis of spherical four-bar mechanisms&quot;</p>
+  <p>Vijoy Gaddipati (MS), 1994, &quot;Combining visualization and sensitivity methods for interactive design&quot;&nbsp;</p>
