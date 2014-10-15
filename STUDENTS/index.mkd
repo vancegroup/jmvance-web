@@ -1,0 +1,98 @@
+---
+
+title: Research Projects
+
+layout: base
+
+---
+# Current Research
+
+#### [Investigating Early Design Decision-Making in Virtual Reality: An Industry Case Study](DanfossCaseStudy/)
+
+#### [Low Cost Virtual Reality for Engineering](LowCostVR2013/)
+
+#### [GOALI: A Hybrid Method to Support Natural Interaction of Parts in a Virtual Environment](GOALIHybrid/)
+
+#### [Haptics for Large Space Virtual Environments to Assess Assembly Tasks](MobileRobot/)
+
+#### [Collaborative Research: Enhanced Immersive Technology to Improve Collaborative Decision Making](UncertaintyVisualization/)
+
+#### [Virtual Shopping Experience](VRShopping)
+
+<br>
+
+# Previous Research
+
+#### [Compliant Mechanism Design in a Virtual Environment](COMPLIANT/)
+
+#### Synthetic Environments as Enabling Technology for Product Development: Phase 4
+- [Combining Physical Constraints with Geometric Constraint-based Modeling for Virtual Assembly](SHARP.html)
+- [Desktop Virtual Assembly using Physically-based Part Modeling ](HapticAssembly/DesktopHapticAssembly.htm)
+- [Assessment of Haptics-based Interaction for Assembly Tasks in Virtual Reality](HapticsUserStudy/Haptics_User_Study.htm)
+
+#### [Synthetic Environments as Enabling Technology for Product Development: Phase 3](Synthetic_Environments.html)
+- [VEGAS II: A Virtual Environment for General Assembly Simulation II](../ASSEMBLY/Assembly2.html)
+
+#### [Interactive Product Development in a Virtual Environment Utilizing Haptics](interactive_product_dev.html)
+- [Interactive Stress Reanalysis in Virtual Reality](StressC6/)
+- [Implementing Haptic Feedback in a Projection Screen Virtual Environment](phantom/phantom.html)
+
+#### [Development of a virtual prototyping design tool using 3D human anthropometry](developement_of_virtual.html)
+- VRAnthro: Ergonomic Design of Operator Workstations
+
+#### [Virtual Reality Environment for Fluid Particle Simulation](FluidSim.html)
+- Duncan, Tom, "Interactive interrogation of computational mixing data in a virtual environment," M.S. Thesis, Iowa State University, 2002
+
+#### [RET Supplement: Interactive Product Development in a Virtual Environment Utilizing Haptics](interactive_product_dev_RET.html)
+
+#### [Dynamic Simulation of Mechanisms for Vehicle Design and Evaluation](VehicleDesignSim.html)
+- O'Leary, Megan, "Effectiveness of haptic feedback coupled with the use of a head-mounted display for the evaluation of virtual mechanisms," M.S. Thesis, Iowa State University, 2002
+
+#### [Spatial Mechanism Design in a Virtual Environment](spatial_mechanism_design.html)
+- [VRSpatial: Designing Spatial 4C Mechanisms using Virtual Reality](SPATIAL/vrspatial.htm)
+- [VRNETS: Spatial Mechanism Design in Virtual Reality with Networking](../VRNETS/)
+
+#### [Flexible Accounting Systems in Dynamic Manufacturing Environments](FlexAccEnv.html)
+- [Implementing Discrete Event Programming in a Virtual Factory](../FACTORY/factory.html)
+
+#### [Evaluating the Use of Haptics in Virtual CAD Tasks](VCADEval.html)
+- [Effectiveness of Haptic Sensation for the Evaluation of Virtual Prototypes](../HAPTICS/HapticStudy.html)
+
+#### [Virtual Prototyping for Interpretation of Analysis Data](ProtoAnalysis.html)
+- [VR-CFD: Visualization and Approximation of post-processed CFD data in a Virtual Environment](../CFD/CFD.html)
+- Sasikumar Kutti, Applying Virtual Reality to Computational Fluid Dynamics post-processing, M.S. Thesis, Iowa State Universtiy, 1998
+
+#### [A Virtual Reality Environment for Spherical Mechanism Design](SphereDesign.html)
+- [Isis - Interactive Synthesis of Spherical Mechanism Design](../ISIS/isis.html)
+- Krall, Juliet, "A virtual environment for the synthesis of spherical mechanisms," M.S. Thesis, Iowa State University, 1996
+
+#### [Career: Virtual Reality Techniques to Improve Product Design](career_virtualreality.html)
+- [Effectiveness of Haptic Sensation for the Evaluation of Virtual Prototypes](../HAPTICS/HapticStudy.html)
+- [DN-Edit: Multiple Point Direct Manipulation of NURBS Surfaces in a Virtual Environment](../NURBS/DNEdit.html)
+- Ryken, Mike, "Applying virtual reality techniques to the interactive stress analysis of a tractor lift arm," M.S. Thesis, Iowa State University, 1998
+- [Effectiveness of Virtual Reality as a Tool to Facilitate Engineering Design of Spherical Mechanisms](../EVAL/EVAL.html)
+
+#### [Acquisition of a high performance computer for the C6 system](acquisitionofc6.html)
+
+#### [A Virtual Environment for Engineering Design Optimization](Optimization.html)
+- [Shape design with stress constraints](../SHAPE/SHAPE.html)
+
+#### [A Virtual environment for engineering design optimization](../sen_opt/sen_opt.html)
+
+#### Synthetic Environments as Enabling Technology for Product Development: Phase I
+- Ryken, Mike, "Applying virtual reality techniques to the interactive stress analysis of a tractor lift arm," M.S. Thesis, Iowa State University, 1998
+
+#### Synthetic Environments as Enabling Technology for Product Development: Phase 2
+- [VEGAS: A Virtual Environment for General Assembly Simulation](../ASSEMBLY/Assembly.html)
+
+#### Development and Demonstration of a Model Vocational Education Program for Assisting Small Manufacturing Enterprises in Adopting, Implementing, Operating, and Managing New Manufacturing Technologies
+- [Simulation-Based Training for Manufacturing Workers](../sim_train/sim_train.html)
+
+#### Modeling of a Hydraulic Pump to Determine the Parameters that Affect Pump Noise
+- Tsay, Shyung-Jye, "Applying virtual reality techniques to engineering design optimization"
+
+#### Visualization of the Effect of Design Changes on Reliability
+- [Visualization of structural response using design sensitivity analysis](Ford.html)
+
+#### Other Projects
+- [Parametric Surface Polygonization](../polygonize/polygonize.html)
