@@ -5,4 +5,14 @@ title: Students
 layout: base
 
 ---
-# Students
+# Current Graduate Students
+<a href="http://www.lpberg.com">
+Leif Berg</a> <i>(<A href="mailto:leif.berg@gmail.com">leif.berg@gmail.com</A>)</i>                      
+<a href="http://hci.iastate.edu/~carlsonp/">
+Patrick Carlson</a> <i>(<A href="mailto:carlsonp@iastate.edu">carlsonp@iastate.edu</A>)</i>                      
+Tim Morgan <i>(<A href="mailto:tbmorgan@iastate.edu">tbmorgan@iastate.edu</A>)</i> 
+<a href="http://academic.cleardefinition.com/">
+Ryan Pavlik</a> <i>(<A href="mailto:rpavlik@iastate.edu">rpavlik@iastate.edu</A>)</i>
+<a href="http://meishar.weebly.com/">
+Meisha Rosenberg</a> <i>(<A href="mailto:meishar@iastate.edu">meishar@iastate.edu</A>)</i>                     
+					 
