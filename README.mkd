@@ -10,11 +10,13 @@ layout: base
 
 - Live readme (with correct generation/commit info): <http://public.vrac.iastate.edu/~jmvance/README.html>
 
-- Live web site: <http://public.vrac.iastate.edu/~jmvance/>
+- Live web site: <http://jenkins.vrac.iastate.edu/~jmvance/>
 
-- Jenkins build job: <https://no-salt.vrac.iastate.edu:8080/job/jmvance-web/>
+- _On-campus or VPN only:_
 
-    - Latest build permalink: <https://no-salt.vrac.iastate.edu:8080/job/jmvance-web/lastBuild/>
+    - Jenkins build job: <https://jenkins.vrac.iastate.edu:8081/job/jmvance-web/>
+
+    - Latest build permalink: <https://jenkins.vrac.iastate.edu:8081/job/jmvance-web/lastBuild/>
 
 - GitHub repository: <https://github.com/vancegroup/jmvance-web>
 
