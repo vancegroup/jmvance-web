@@ -37,8 +37,8 @@ navlinks:
     link: /htmls/teaching.htm
 -
     text: Students
-    page: /students/index.html
-    link: /htmls/students.htm
+    page: /STUDENTS/index.html
+    link: /STUDENTS/
 -
     text: Resume
     page: /resume/index.html
