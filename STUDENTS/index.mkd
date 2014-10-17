@@ -40,7 +40,7 @@ Tim Morgan email: tbmorgan@iastate.edu
   <p>Laura Threadgold (MS), 2001, Visualizing displacements and stresses that were calculated using interval methods and finite elements for a system with uncertainty in forces and geometry</p>
   <p>Tom Johnson (MS), 2000, A general virtual environment for part assembly method evaluation</p>
   <p>Vishant Shahnawaz (MS), 2000,Visualization and approximation analysis of post processed computational fluid dynamics data in a virtual environment</p>
-  <p>Kurt Chipperfield (MS), Creative component, 2000</p>
+  <p>Kurt Chipperfield (MS), 2000, Creative component</p>
   <p>Sergei Volkov (MS), 2000, Effectiveness of Haptic Sensation for Evaluation of Virtual Prototypes</p>
   <p>John Kihonge (MS), 2000, Spatial Mechanism Design in Virtual Reality with Networking </p>
   <p>Brian Perles (MS), 1999, Development of virtual tools for direct manipulation of NURBS surfaces in virtual environments</p>
