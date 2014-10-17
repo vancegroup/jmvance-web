@@ -7,26 +7,26 @@ layout: base
 ---
 # Current Students
 
-[Leif Berg](http://www.lpberg.com) leif [dot] berg [at] gmail [dot] com
+[Leif Berg](http://www.lpberg.com) email:leif[dot]berg[at]gmail [dot]com
 
-[Meisha Berg](http://meishar.weebly.com/) meishar [at] iastate [dot] edu
+[Meisha Berg](http://meishar.weebly.com/) email:meishar[at]iastate[dot]edu
 
-[Patrick Carlson] (http://hci.iastate.edu/~carlsonp/) carlsonp [at] iastate [dot] edu
+[Patrick Carlson] (http://hci.iastate.edu/~carlsonp/) email:carlsonp[at]iastate[dot]edu
 
-Ryan McCleish rmccleish [at] gmail [dot] com
+Ryan McCleish email:rmccleish[at]gmail[dot]com
 
-Tim Morgan tbmorgan [at] iastate [dot] edu
+Tim Morgan email:tbmorgan[at]iastate[dot]edu
 
-[Ryan Pavlik] (http://academic.cleardefinition.com/) rpavlik [at] iastate [dot] edu
+[Ryan Pavlik] (http://academic.cleardefinition.com/) email:rpavlik[at]iastate[dot]edu
 
 # Thesis Topics
   <p>Isaac J. Garlington (MS), 2012, Expanding the usable workspace of a haptic device by placing it on a moving base</p>
   <p>Denis V. Dorozhkin (PhD), 2011, Constraint-based synthesis of shape-morphing compliant structures in virtual reality</p>
-  <p>Daniela Faas (PhD), 2010, A hybrid method of haptic feedback to support virtual manual product assembly</p>			    
+  <p>Daniela Faas (PhD), 2010, A hybrid method of haptic feedback to support virtual manual product assembly</p>		    
   <p>Utkarsh Seth (MS), 2009, A virtual reality interface for the design of compliant mechanisms</p>
   <p>Andy McKean (MS), 2008, Creative component</p>
-  <p>Dao Vo (MS), 2007, Assessment of haptics-based interaction for assembly tasks in </p>
-  <p>Abhishek Seth (PhD), 2007, Combining physical constraints with geometric-constraint based modeling for virtual assembly</span></p>
+  <p>Dao Vo (MS), 2007, Assessment of haptics-based interaction for assembly tasks in virtual reality</p>
+  <p>Abhishek Seth (PhD), 2007, Combining physical constraints with geometric-constraint based modeling for virtual assembly</p>
   <p>Andrew Fischer (PhD), 2006, Interactive design methods in virtual reality with haptics</p>  
   <p>Melinda Cerney (PhD), 2005, Quantifying motion from non-rigid structures: extended geometric motion analysis methods and applications</p>
   <p>Brad Howard (MS), 2005, Desktop virtual assembly using physically-based part modeling</p>	
@@ -40,13 +40,13 @@ Tim Morgan tbmorgan [at] iastate [dot] edu
   <p>Laura Threadgold (MS), 2001, Visualizing displacements and stresses that were calculated using interval methods and finite elements for a system with uncertainty in forces and geometry</p>
   <p>Tom Johnson (MS), 2000, A general virtual environment for part assembly method evaluation</p>
   <p>Vishant Shahnawaz (MS), 2000,Visualization and approximation analysis of post processed computational fluid dynamics data in a virtual environment</p>
-  <p>Kurt Chipperfield (MS), 2000</p>
+  <p>Kurt Chipperfield (MS), Creative component, 2000</p>
   <p>Sergei Volkov (MS), 2000, Effectiveness of Haptic Sensation for Evaluation of Virtual Prototypes</p>
   <p>John Kihonge (MS), 2000, Spatial Mechanism Design in Virtual Reality with Networking </p>
   <p>Brian Perles (MS), 1999, Development of virtual tools for direct manipulation of NURBS surfaces in virtual environments</p>
   <p>Todd Furlong (MS), 1998, Spherical mechanism design in virtual reality</p>
   <p>Jason Kelsick (MS), 1998, The VR Factory: Discrete event simulation implemented in a virtual environment</p>
-  <p>Sasikumar Kutti (MS), 1998,</p>
+  <p>Sasikumar Kutti (MS), Applying virtual reality to computational fluid dynamics post-processing, 1998,</p>
   <p>Mike Ryken (MS), 1998, Applying virtual reality techniques to the stress analysis of a tractor lift arm</p>
   <p>Paul Evans (MS), 1997, Effectiveness of virtual reality as a tool to facilitate engineering design of spherical mechanisms</p>
   <p>Tsung-Pin Yeh (PhD), 1997, Applying virtual reality techniques to engineering design optimization</p>
