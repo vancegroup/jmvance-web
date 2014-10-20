@@ -22,15 +22,15 @@ Tim Morgan email: tbmorgan@iastate.edu
 # Thesis Topics
   <p>Isaac J. Garlington (MS), 2012, Expanding the usable workspace of a haptic device by placing it on a moving base</p>
   <p>Denis V. Dorozhkin (PhD), 2011, Constraint-based synthesis of shape-morphing compliant structures in virtual reality</p>
-  <p>Daniela Faas (PhD), 2010, A hybrid method of haptic feedback to support virtual manual product assembly</p>		    
+  <p>Daniela Faas (PhD), 2010, A hybrid method of haptic feedback to support virtual manual product assembly</p>
   <p>Utkarsh Seth (MS), 2009, A virtual reality interface for the design of compliant mechanisms</p>
   <p>Andy McKean (MS), 2008, Creative component</p>
   <p>Dao Vo (MS), 2007, Assessment of haptics-based interaction for assembly tasks in virtual reality</p>
   <p>Abhishek Seth (PhD), 2007, Combining physical constraints with geometric-constraint based modeling for virtual assembly</p>
-  <p>Andrew Fischer (PhD), 2006, Interactive design methods in virtual reality with haptics</p>  
+  <p>Andrew Fischer (PhD), 2006, Interactive design methods in virtual reality with haptics</p>
   <p>Melinda Cerney (PhD), 2005, Quantifying motion from non-rigid structures: extended geometric motion analysis methods and applications</p>
   <p>Brad Howard (MS), 2005, Desktop virtual assembly using physically-based part modeling</p>	
-  <p> ChangEun Kim (PhD), 2004, Networked haptic interaction in virtual reality for collaborative design</p>			
+  <p> ChangEun Kim (PhD), 2004, Networked haptic interaction in virtual reality for collaborative design</p>
   <p>Melinda Cerney (MS), 2003,The role of univariate and multivariate data in the design of advanced operator workstations</p>	
   <p>Kurt Chipperfield (PhD), 2002, Interactive stress re-analysis in virtual reality</p>
   <p>Denis Dorozhkin (MS), 2002, VRSpatial: A program for designing spatial 4C mechanisms in virtual reality </p>
