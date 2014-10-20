@@ -11,7 +11,7 @@ layout: base
 
 [Meisha Berg](http://meishar.weebly.com/) email: meishar@iastate.edu
 
-[Patrick Carlson] (http://hci.iastate.edu/~carlsonp/) email: carlsonp@iastate.edu
+[Patrick Carlson] (http://carlsonp.github.io) email: carlsonp@iastate.edu
 
 Ryan McCleish email: mccleish@iastate.edu
 
