@@ -7,17 +7,17 @@ layout: base
 ---
 # Current Students
 
-Leif Berg <http://www.lpberg.com>  mailto:lpberg@iastate.edu
+Leif Berg <http://www.lpberg.com>  [lpberg@iastate.edu](mailto:lpberg@iastate.edu)
 
-Meisha Berg <http://meishar.weebly.com/>  mailto:meishar@iastate.edu
+Meisha Berg <http://meishar.weebly.com/>  [meishar@iastate.edu](mailto:meishar@iastate.edu)
 
-Patrick Carlson <http://carlsonp.github.io>  mailto:carlsonp@iastate.edu
+Patrick Carlson <http://carlsonp.github.io>  [carlsonp@iastate.edu](mailto:carlsonp@iastate.edu)
 
-Ryan McCleish  mailto:mccleish@iastate.edu
+Ryan McCleish  [mccleish@iastate.edu](mailto:mccleish@iastate.edu)
 
-Tim Morgan  mailto:tbmorgan@iastate.edu
+Tim Morgan  [tbmorgan@iastate.edu](mailto:tbmorgan@iastate.edu)
 
-Ryan Pavlik <http://ryanpavlik.com>  mailto:ryan@ryanpavlik.com
+Ryan Pavlik <http://ryanpavlik.com>  [ryan@ryanpavlik.com](mailto:ryan@ryanpavlik.com)
 
 # Thesis Topics
   <p>Isaac J. Garlington (MS), 2012, Expanding the usable workspace of a haptic device by placing it on a moving base</p>
