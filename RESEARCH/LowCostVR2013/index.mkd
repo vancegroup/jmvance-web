@@ -49,7 +49,7 @@ It makes use of the following software:
   VRAC). The Hydra driver was further developed and refined by Jan
   Ciger (Reviatech) and Ryan Pavlik.
 
-  - [KiwiVR](https://github.com/vancegroup/KiwiVR#readme) - VRPN
+  - [KVR](https://github.com/vancegroup/KVR) - VRPN
     server for Kinect for Windows skeleton tracking and speech
     recognition, developed at ISU VRAC by Tim Morgan, Diana Jarrel,
     Patrick Carlson, with some assistance by Ryan Pavlik.
