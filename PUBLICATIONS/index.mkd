@@ -5,6 +5,8 @@ title: Publications
 layout: base
 
 ---
+#### Full text copies of most of these publications can be found here: [http://works.bepress.com/judy_vance] (http://works.bepress.com/judy_vance)
+
 #### 2014
 
 - Behdad, S., Berg, L., Thurston D., Vance, J. M., "Immersive Computing Technology to Investigate Tradeoffs under Uncertainty in Disassembly Sequence Planning", ASME Journal of Mechanical Design, 136(7), 2014, doi: 10.1115/1.4025021.
